@@ -740,6 +740,14 @@ img {
     background: linear-gradient(135deg, #f472b6, #ec4899);
 }
 
+.skill-icon--ai {
+    background: linear-gradient(135deg, #a855f7, #7c3aed);
+}
+
+.skill-icon--infra {
+    background: linear-gradient(135deg, #f97316, #ea580c);
+}
+
 .skill-header h3 {
     font-family: var(--font-display);
     font-size: var(--text-xl);

@@ -9,7 +9,7 @@
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link
-            href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@500;600;700&display=swap"
+            href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@500;600;700&family=Noto+Sans+SC:wght@300;400;500;600;700&display=swap"
             rel="stylesheet">
         <link rel="stylesheet" href="styles.css">
     </head>
@@ -25,10 +25,28 @@
                     <span></span>
                 </button>
                 <ul class="nav-menu">
-                    <li><a href="#about" class="nav-link">About</a></li>
-                    <li><a href="#skills" class="nav-link">Skills</a></li>
+                    <li><a href="#about" class="nav-link" data-i18n="nav.about">About</a></li>
+                    <li><a href="#skills" class="nav-link" data-i18n="nav.skills">Skills</a></li>
                     <!-- <li><a href="#projects" class="nav-link">Projects</a></li> -->
-                    <li><a href="#contact" class="nav-link nav-link--cta">Let's Talk</a></li>
+                    <li><a href="#contact" class="nav-link nav-link--cta" data-i18n="nav.cta">Let's Talk</a></li>
+                    <li class="language-switcher">
+                        <button class="lang-toggle" aria-label="Select language">
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <circle cx="12" cy="12" r="10"/>
+                                <path d="M2 12h20"/>
+                                <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
+                            </svg>
+                            <span class="current-lang">EN</span>
+                        </button>
+                        <ul class="lang-dropdown">
+                            <li><button data-lang="en" class="lang-option active">English</button></li>
+                            <li><button data-lang="pt" class="lang-option">Português</button></li>
+                            <li><button data-lang="es" class="lang-option">Español</button></li>
+                            <li><button data-lang="fr" class="lang-option">Français</button></li>
+                            <li><button data-lang="zh-TW" class="lang-option">繁體中文</button></li>
+                            <li><button data-lang="zh-CN" class="lang-option">简体中文</button></li>
+                        </ul>
+                    </li>
                 </ul>
             </div>
         </nav>
@@ -47,14 +65,13 @@
                     <span>Available for projects</span>
                 </div> -->
                     <h1 class="hero-title">
-                        <span class="title-line">Founder</span>
-                        <span class="title-line title-line--accent">& Product Engineer</span>
+                        <span class="title-line" data-i18n="hero.title1">Founder</span>
+                        <span class="title-line title-line--accent" data-i18n="hero.title2">& Product Engineer</span>
                     </h1>
                     <p class="hero-subtitle">
-                        Building <span class="highlight">Mobile Apps</span>, <span class="highlight">SaaS
-                            solutions</span> and <span class="highlight">AI Systems</span> that scale.
+                        <span data-i18n="hero.subtitle1">Building </span><span class="highlight" data-i18n="hero.highlight1">Mobile Apps</span><span data-i18n="hero.subtitle2">, </span><span class="highlight" data-i18n="hero.highlight2">SaaS solutions</span><span data-i18n="hero.subtitle3"> and </span><span class="highlight" data-i18n="hero.highlight3">AI Systems</span><span data-i18n="hero.subtitle4"> that scale.</span>
 
-                        From concept to launch, Transforming Ideas into Products.
+                        <span data-i18n="hero.subtitle5">From concept to launch, Transforming Ideas into Products.</span>
                     </p>
                     <div class="hero-cta">
                         <!-- <a href="#projects" class="btn btn--primary">
@@ -63,7 +80,7 @@
                             <path d="M7 17L17 7M17 7H7M17 7V17"/>
                         </svg>
                     </a> -->
-                        <a href="#contact" class="btn btn--secondary">Get in Touch</a>
+                        <a href="#contact" class="btn btn--secondary" data-i18n="hero.cta">Get in Touch</a>
                     </div>
                     <!-- <div class="hero-stats">
                     <div class="stat">
@@ -92,12 +109,12 @@
         <section id="about" class="about">
             <div class="container">
                 <div class="section-header">
-                    <span class="section-tag">About Me</span>
-                    <h2 class="section-title">Building products that matter</h2>
+                    <span class="section-tag" data-i18n="about.tag">About Me</span>
+                    <h2 class="section-title" data-i18n="about.title">Building products that matter</h2>
                 </div>
                 <div class="about-grid">
                     <div class="about-content">
-                        <p class="about-text">
+                        <p class="about-text" data-i18n="about.text1">
                             I'm a founder and full-stack developer passionate about creating impactful
                             products.
                             With expertise spanning from mobile development, SaaS, AI Systems & Systems Architecture, I
@@ -106,7 +123,7 @@
                             businesses
                             bring their visions to life.
                         </p>
-                        <p class="about-text">
+                        <p class="about-text" data-i18n="about.text2">
                             Whether it's a native mobile app, an AI system, a cross-platform solution, or a scalable
                             SaaS platform,
                             I approach every project with a focus on user experience, performance, and business goals.
@@ -119,8 +136,8 @@
                                         <path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z" />
                                     </svg>
                                 </div>
-                                <h3>Fast Execution</h3>
-                                <p>Rapid prototyping and iterative development to get your product to market quickly.
+                                <h3 data-i18n="about.value1.title">Fast Execution</h3>
+                                <p data-i18n="about.value1.desc">Rapid prototyping and iterative development to get your product to market quickly.
                                 </p>
                             </div>
                             <div class="value-card">
@@ -131,8 +148,8 @@
                                         <path d="M12 6v6l4 2" />
                                     </svg>
                                 </div>
-                                <h3>End-to-End</h3>
-                                <p>From design to deployment, I handle every aspect of product development.</p>
+                                <h3 data-i18n="about.value2.title">End-to-End</h3>
+                                <p data-i18n="about.value2.desc">From design to deployment, I handle every aspect of product development.</p>
                             </div>
                             <div class="value-card">
                                 <div class="value-icon">
@@ -142,8 +159,8 @@
                                             d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z" />
                                     </svg>
                                 </div>
-                                <h3>Quality First</h3>
-                                <p>Clean code, thoughtful UX, and scalable architecture in every project.</p>
+                                <h3 data-i18n="about.value3.title">Quality First</h3>
+                                <p data-i18n="about.value3.desc">Clean code, thoughtful UX, and scalable architecture in every project.</p>
                             </div>
                         </div>
                     </div>
@@ -179,8 +196,8 @@
         <section id="skills" class="skills">
             <div class="container">
                 <div class="section-header">
-                    <span class="section-tag">Expertise</span>
-                    <h2 class="section-title">Technologies I work with</h2>
+                    <span class="section-tag" data-i18n="skills.tag">Expertise</span>
+                    <h2 class="section-title" data-i18n="skills.title">Technologies I work with</h2>
                 </div>
                 <div class="skills-grid">
                     <div class="skill-category">
@@ -192,7 +209,7 @@
                                     <path d="M12 18h.01" />
                                 </svg>
                             </div>
-                            <h3>Mobile Development</h3>
+                            <h3 data-i18n="skills.mobile">Mobile Development</h3>
                         </div>
                         <div class="skill-tags">
                             <span class="skill-tag">React Native</span>
@@ -213,7 +230,7 @@
                                         d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z" />
                                 </svg>
                             </div>
-                            <h3>Web & SaaS</h3>
+                            <h3 data-i18n="skills.web">Web & SaaS</h3>
                         </div>
                         <div class="skill-tags">
                             <span class="skill-tag">React / Next.js</span>
@@ -236,7 +253,7 @@
                                     <circle cx="11" cy="11" r="2" />
                                 </svg>
                             </div>
-                            <h3>Design & Product</h3>
+                            <h3 data-i18n="skills.design">Design & Product</h3>
                         </div>
                         <div class="skill-tags">
                             <span class="skill-tag">UI/UX Design</span>
@@ -256,7 +273,7 @@
                                     <path d="M12 12l7-7" />
                                 </svg>
                             </div>
-                            <h3>AI Systems</h3>
+                            <h3 data-i18n="skills.ai">AI Systems</h3>
                         </div>
                         <div class="skill-tags">
                             <span class="skill-tag">LLMs</span>
@@ -281,7 +298,7 @@
                                     <path d="M10 18h.01" />
                                 </svg>
                             </div>
-                            <h3>Infrastructure Architect</h3>
+                            <h3 data-i18n="skills.infra">Infrastructure Architect</h3>
                         </div>
                         <div class="skill-tags">
                             <span class="skill-tag">AWS</span>
@@ -432,10 +449,10 @@
                 <div class="contact-wrapper">
                     <div class="contact-content">
                         <div class="section-header section-header--left">
-                            <span class="section-tag">Get In Touch</span>
-                            <h2 class="section-title">Let's build something amazing together</h2>
+                            <span class="section-tag" data-i18n="contact.tag">Get In Touch</span>
+                            <h2 class="section-title" data-i18n="contact.title">Let's build something amazing together</h2>
                         </div>
-                        <p class="contact-text">
+                        <p class="contact-text" data-i18n="contact.text">
                             Have a project in mind? Looking for a technical partner?
                             I'd love to hear about it. Let's discuss how we can bring your vision to life.
                         </p>
@@ -515,18 +532,18 @@
                 <div class="footer-content">
                     <div class="footer-brand">
                         <span class="footer-logo">YC</span>
-                        <p>Building products that make a difference.</p>
+                        <p data-i18n="footer.tagline">Building products that make a difference.</p>
                     </div>
                     <div class="footer-links">
-                        <a href="#about">About</a>
-                        <a href="#skills">Skills</a>
+                        <a href="#about" data-i18n="footer.about">About</a>
+                        <a href="#skills" data-i18n="footer.skills">Skills</a>
                         <!-- <a href="#projects">Projects</a> -->
-                        <a href="#contact">Contact</a>
+                        <a href="#contact" data-i18n="footer.contact">Contact</a>
                     </div>
                 </div>
                 <div class="footer-bottom">
-                    <p>&copy; 2026 Yann Carlier. All rights reserved.</p>
-                    <p class="footer-crafted">Crafted with passion</p>
+                    <p data-i18n="footer.copyright">&copy; 2026 Yann Carlier. All rights reserved.</p>
+                    <p class="footer-crafted" data-i18n="footer.crafted">Crafted with passion</p>
                 </div>
             </div>
         </footer>

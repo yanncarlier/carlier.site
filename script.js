@@ -56,6 +56,9 @@ const translations = {
             contact: 'Contact',
             copyright: '© 2026 Yann Carlier. All rights reserved.',
             crafted: 'Crafted with passion'
+        },
+        accessibility: {
+            skipToMain: 'Skip to main content'
         }
     },
     pt: {
@@ -107,6 +110,9 @@ const translations = {
             contact: 'Contato',
             copyright: '© 2026 Yann Carlier. Todos os direitos reservados.',
             crafted: 'Criado com paixão'
+        },
+        accessibility: {
+            skipToMain: 'Pular para o conteúdo principal'
         }
     },
     es: {
@@ -158,6 +164,9 @@ const translations = {
             contact: 'Contacto',
             copyright: '© 2026 Yann Carlier. Todos los derechos reservados.',
             crafted: 'Creado con pasión'
+        },
+        accessibility: {
+            skipToMain: 'Saltar al contenido principal'
         }
     },
     fr: {
@@ -209,6 +218,9 @@ const translations = {
             contact: 'Contact',
             copyright: '© 2026 Yann Carlier. Tous droits réservés.',
             crafted: 'Conçu avec passion'
+        },
+        accessibility: {
+            skipToMain: 'Aller au contenu principal'
         }
     },
     'zh-TW': {
@@ -260,6 +272,9 @@ const translations = {
             contact: '聯繫',
             copyright: '© 2026 Yann Carlier. 版權所有。',
             crafted: '用心打造'
+        },
+        accessibility: {
+            skipToMain: '跳至主要內容'
         }
     },
     'zh-CN': {
@@ -311,6 +326,9 @@ const translations = {
             contact: '联系',
             copyright: '© 2026 Yann Carlier. 版权所有。',
             crafted: '用心打造'
+        },
+        accessibility: {
+            skipToMain: '跳至主要内容'
         }
     }
 };

@@ -64,55 +64,55 @@ const translations = {
     pt: {
         nav: {
             about: 'Sobre',
-            skills: 'Habilidades',
-            cta: 'Vamos Conversar'
+            skills: 'Competências',
+            cta: 'Fale Comigo'
         },
         hero: {
             title1: 'Fundador',
             title2: '& Engenheiro de Produto',
-            subtitle1: 'Construindo ',
-            highlight1: 'Apps Mobile',
+            subtitle1: 'A construir ',
+            highlight1: 'Apps Móveis',
             subtitle2: ', ',
             highlight2: 'soluções SaaS',
             subtitle3: ' e ',
             highlight3: 'Sistemas de IA',
             subtitle4: ' que escalam.',
-            subtitle5: 'Do conceito ao lançamento, Transformando Ideias em Produtos.',
-            cta: 'Entre em Contato'
+            subtitle5: 'Do conceito ao lançamento, Transformar Ideias em Produtos.',
+            cta: 'Contacte-me'
         },
         about: {
             tag: 'Sobre Mim',
-            title: 'Construindo produtos que importam',
-            text1: 'Sou fundador e desenvolvedor full-stack apaixonado por criar produtos impactantes. Com expertise que abrange desenvolvimento mobile, SaaS, Sistemas de IA e Arquitetura de Sistemas, ajudo startups e empresas a realizarem suas visões.',
-            text2: 'Seja um aplicativo mobile nativo, um sistema de IA, uma solução multiplataforma ou uma plataforma SaaS escalável, abordo cada projeto com foco na experiência do usuário, performance e objetivos de negócio.',
-            value1: { title: 'Execução Rápida', desc: 'Prototipagem rápida e desenvolvimento iterativo para levar seu produto ao mercado rapidamente.' },
-            value2: { title: 'Ponta a Ponta', desc: 'Do design ao deployment, cuido de cada aspecto do desenvolvimento de produtos.' },
-            value3: { title: 'Qualidade Primeiro', desc: 'Código limpo, UX bem pensada e arquitetura escalável em cada projeto.' }
+            title: 'A construir produtos que importam',
+            text1: 'Sou fundador e programador full-stack apaixonado por criar produtos impactantes. Com conhecimento especializado que abrange desenvolvimento móvel, SaaS, Sistemas de IA e Arquitetura de Sistemas, ajudo startups e empresas a realizarem as suas visões.',
+            text2: 'Seja uma aplicação móvel nativa, um sistema de IA, uma solução multiplataforma ou uma plataforma SaaS escalável, abordo cada projeto com foco na experiência do utilizador, no desempenho e nos objetivos de negócio.',
+            value1: { title: 'Execução Rápida', desc: 'Criação rápida de protótipos e desenvolvimento iterativo para levar o seu produto ao mercado rapidamente.' },
+            value2: { title: 'De Ponta a Ponta', desc: 'Do design ao deployment, trato de cada aspeto do desenvolvimento de produtos.' },
+            value3: { title: 'Qualidade em Primeiro', desc: 'Código limpo, UX bem pensada e arquitetura escalável em cada projeto.' }
         },
         skills: {
-            tag: 'Expertise',
+            tag: 'Especialização',
             title: 'Tecnologias com as quais trabalho',
-            mobile: 'Desenvolvimento Mobile',
+            mobile: 'Desenvolvimento Móvel',
             web: 'Web & SaaS',
             design: 'Design & Produto',
             ai: 'Sistemas de IA',
             infra: 'Arquiteto de Infraestrutura'
         },
         contact: {
-            tag: 'Entre em Contato',
+            tag: 'Contacte-me',
             title: 'Vamos construir algo incrível juntos',
-            text: 'Tem um projeto em mente? Procurando um parceiro técnico? Adoraria ouvir sobre isso. Vamos discutir como podemos realizar sua visão.'
+            text: 'Tem um projeto em mente? À procura de um parceiro técnico? Gostaria muito de ouvir falar sobre isso. Vamos discutir como podemos concretizar a sua visão.'
         },
         footer: {
-            tagline: 'Construindo produtos que fazem a diferença.',
+            tagline: 'A construir produtos que fazem a diferença.',
             about: 'Sobre',
-            skills: 'Habilidades',
-            contact: 'Contato',
+            skills: 'Competências',
+            contact: 'Contacto',
             copyright: '© 2026 Yann Carlier. Todos os direitos reservados.',
             crafted: 'Criado com paixão'
         },
         accessibility: {
-            skipToMain: 'Pular para o conteúdo principal'
+            skipToMain: 'Saltar para o conteúdo principal'
         }
     },
     es: {

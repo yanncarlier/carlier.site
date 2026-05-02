@@ -14,8 +14,8 @@ const translations = {
             cta: "Let's Talk"
         },
         hero: {
-            title1: 'Founder',
-            title2: '& Product Engineer',
+            title1: 'From concept to launch, Transforming Ideas into Products.',
+            title2: '',
             subtitle1: 'Building ',
             highlight1: 'Mobile Apps',
             subtitle2: ', ',
@@ -23,7 +23,7 @@ const translations = {
             subtitle3: ' and ',
             highlight3: 'AI Systems',
             subtitle4: ' that scale.',
-            subtitle5: 'From concept to launch, Transforming Ideas into Products.',
+            subtitle5: 'Building Mobile Apps, SaaS solutions and AI Systems that scale',
             cta: 'Get in Touch'
         },
         about: {
@@ -68,8 +68,8 @@ const translations = {
             cta: 'Fale Comigo'
         },
         hero: {
-            title1: 'Fundador',
-            title2: '& Engenheiro de Produto',
+            title1: 'Do conceito ao lançamento, Transformar Ideias em Produtos.',
+            title2: '',
             subtitle1: 'A construir ',
             highlight1: 'Apps Móveis',
             subtitle2: ', ',
@@ -77,7 +77,7 @@ const translations = {
             subtitle3: ' e ',
             highlight3: 'Sistemas de IA',
             subtitle4: ' que escalam.',
-            subtitle5: 'Do conceito ao lançamento, Transformar Ideias em Produtos.',
+            subtitle5: 'A construir Apps Móveis, soluções SaaS e Sistemas de IA que escalam.',
             cta: 'Contacte-me'
         },
         about: {
@@ -122,8 +122,8 @@ const translations = {
             cta: 'Hablemos'
         },
         hero: {
-            title1: 'Fundador',
-            title2: '& Ingeniero de Producto',
+            title1: 'Del concepto al lanzamiento, Transformando Ideas en Productos.',
+            title2: '',
             subtitle1: 'Construyendo ',
             highlight1: 'Apps Móviles',
             subtitle2: ', ',
@@ -131,7 +131,7 @@ const translations = {
             subtitle3: ' y ',
             highlight3: 'Sistemas de IA',
             subtitle4: ' que escalan.',
-            subtitle5: 'Del concepto al lanzamiento, Transformando Ideas en Productos.',
+            subtitle5: 'Construyendo Apps Móviles, soluciones SaaS y Sistemas de IA que escalan.',
             cta: 'Ponte en Contacto'
         },
         about: {
@@ -176,8 +176,8 @@ const translations = {
             cta: 'Discutons'
         },
         hero: {
-            title1: 'Fondateur',
-            title2: '& Ingénieur Produit',
+            title1: 'Du concept au lancement, Transformer les Idées en Produits.',
+            title2: '',
             subtitle1: 'Construire des ',
             highlight1: 'Apps Mobiles',
             subtitle2: ', des ',
@@ -185,7 +185,7 @@ const translations = {
             subtitle3: ' et des ',
             highlight3: 'Systèmes IA',
             subtitle4: ' qui passent à l\'échelle.',
-            subtitle5: 'Du concept au lancement, Transformer les Idées en Produits.',
+            subtitle5: 'Construire des Apps Mobiles, des solutions SaaS et des Systèmes IA qui passent à l\'échelle.',
             cta: 'Prenez Contact'
         },
         about: {
@@ -230,8 +230,8 @@ const translations = {
             cta: '聯繫我'
         },
         hero: {
-            title1: '創辦人',
-            title2: '兼產品工程師',
+            title1: '從概念到發布，將創意轉化為產品。',
+            title2: '',
             subtitle1: '構建',
             highlight1: '移動應用',
             subtitle2: '、',
@@ -239,7 +239,7 @@ const translations = {
             subtitle3: '和',
             highlight3: 'AI 系統',
             subtitle4: '，實現規模化。',
-            subtitle5: '從概念到發布，將創意轉化為產品。',
+            subtitle5: '構建移動應用、SaaS 解決方案和AI 系統，實現規模化。',
             cta: '聯繫我'
         },
         about: {
@@ -284,8 +284,8 @@ const translations = {
             cta: '联系我'
         },
         hero: {
-            title1: '创始人',
-            title2: '兼产品工程师',
+            title1: '从概念到发布，将创意转化为产品。',
+            title2: '',
             subtitle1: '构建',
             highlight1: '移动应用',
             subtitle2: '、',
@@ -293,7 +293,7 @@ const translations = {
             subtitle3: '和',
             highlight3: 'AI 系统',
             subtitle4: '，实现规模化。',
-            subtitle5: '从概念到发布，将创意转化为产品。',
+            subtitle5: '构建移动应用、SaaS 解决方案和AI 系统，实现规模化。',
             cta: '联系我'
         },
         about: {
@@ -338,8 +338,8 @@ const translations = {
             cta: 'संपर्क करें'
         },
         hero: {
-            title1: 'संस्थापक',
-            title2: 'और प्रोडक्ट इंजीनियर',
+            title1: 'concept से launch तक, विचारों को उत्पादों में बदलना।',
+            title2: '',
             subtitle1: '',
             highlight1: 'मोबाइल ऐप्स',
             subtitle2: ', ',
@@ -347,7 +347,7 @@ const translations = {
             subtitle3: ' और ',
             highlight3: 'AI सिस्टम',
             subtitle4: ' बना रहे हैं जो स्केल करते हैं।',
-            subtitle5: 'concept से launch तक, विचारों को उत्पादों में बदलना।',
+            subtitle5: 'मोबाइल ऐप्स, SaaS समाधान और AI सिस्टम बना रहे हैं जो स्केल करते हैं।',
             cta: 'संपर्क करें'
         },
         about: {
@@ -392,8 +392,8 @@ const translations = {
             cta: 'お問い合わせ'
         },
         hero: {
-            title1: '創業者',
-            title2: '兼プロダクトエンジニア',
+            title1: 'コンセプトからローンチまで、アイデアを製品に変換します。',
+            title2: '',
             subtitle1: '',
             highlight1: 'モバイルアプリ',
             subtitle2: '、',
@@ -401,7 +401,7 @@ const translations = {
             subtitle3: '、',
             highlight3: 'AIシステム',
             subtitle4: 'を構築し、スケールさせます。',
-            subtitle5: 'コンセプトからローンチまで、アイデアを製品に変換します。',
+            subtitle5: 'モバイルアプリ、SaaSソリューション、AIシステムを構築し、スケールさせます。',
             cta: 'お問い合わせ'
         },
         about: {
@@ -446,8 +446,8 @@ const translations = {
             cta: 'تواصل معي'
         },
         hero: {
-            title1: 'مؤسس',
-            title2: 'ومهندس منتجات',
+            title1: 'من الفكرة إلى الإطلاق، نحول الأفكار إلى منتجات.',
+            title2: '',
             subtitle1: 'نبني ',
             highlight1: 'تطبيقات الجوال',
             subtitle2: ' و',
@@ -455,7 +455,7 @@ const translations = {
             subtitle3: ' و',
             highlight3: 'أنظمة الذكاء الاصطناعي',
             subtitle4: ' القابلة للتوسع.',
-            subtitle5: 'من الفكرة إلى الإطلاق، نحول الأفكار إلى منتجات.',
+            subtitle5: 'نبني تطبيقات الجوال وحلول SaaS وأنظمة الذكاء الاصطناعي القابلة للتوسع.',
             cta: 'تواصل معي'
         },
         about: {

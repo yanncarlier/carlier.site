@@ -103,7 +103,7 @@ a {
 
 .hero {
   position: relative;
-  min-height: min(760px, 92vh);
+  min-height: min(680px, 88vh);
   display: flex;
   align-items: flex-end;
   overflow: hidden;
@@ -156,8 +156,8 @@ h3 {
 }
 
 h1 {
-  max-width: 720px;
-  font-size: clamp(4rem, 10vw, 8.6rem);
+  max-width: 620px;
+  font-size: clamp(4.6rem, 10vw, 8.6rem);
 }
 
 h2 {
@@ -419,7 +419,7 @@ h3 {
   }
 
   .hero {
-    min-height: 820px;
+    min-height: 760px;
     padding-top: 158px;
   }
 
@@ -478,7 +478,7 @@ h3 {
   }
 
   .hero {
-    min-height: 760px;
+    min-height: 700px;
     padding: 150px 16px 72px;
   }
 

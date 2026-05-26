@@ -1,5 +1,5 @@
 // ========================================
-// Yann Carlier - Landing Page Interactions
+// Carlier - Landing Page Interactions
 // ========================================
 
 // ========================================
@@ -31,9 +31,9 @@ const translations = {
             title: 'Building products that matter',
             text1: "I'm a founder and full-stack developer passionate about creating impactful products. With expertise spanning from mobile development, SaaS, AI Systems & Systems Architecture, I help startups and businesses bring their visions to life.",
             text2: "Whether it's a native mobile app, an AI system, a cross-platform solution, or a scalable SaaS platform, I approach every project with a focus on user experience, performance, and business goals.",
-            value1: { title: 'Fast Execution', desc: 'Rapid prototyping and iterative development to get your product to market quickly.' },
+            value1: { title: 'Execution', desc: 'Rapid prototyping and iterative development to get your product to market quickly.' },
             value2: { title: 'End-to-End', desc: 'From design to deployment, I handle every aspect of product development.' },
-            value3: { title: 'Quality First', desc: 'Clean code, thoughtful UX, and scalable architecture in every project.' }
+            value3: { title: 'Quality', desc: 'Clean code, thoughtful UX, and scalable architecture in every project.' }
         },
         skills: {
             tag: 'Expertise',
@@ -54,7 +54,7 @@ const translations = {
             about: 'About',
             skills: 'Skills',
             contact: 'Contact',
-            copyright: '© 2026 Yann Carlier. All rights reserved.',
+            copyright: '© 2026 Carlier. All rights reserved.',
             crafted: 'Crafted with passion'
         },
         accessibility: {
@@ -85,9 +85,9 @@ const translations = {
             title: 'A construir produtos que importam',
             text1: 'Sou fundador e programador full-stack apaixonado por criar produtos impactantes. Com conhecimento especializado que abrange desenvolvimento móvel, SaaS, Sistemas de IA e Arquitetura de Sistemas, ajudo startups e empresas a realizarem as suas visões.',
             text2: 'Seja uma aplicação móvel nativa, um sistema de IA, uma solução multiplataforma ou uma plataforma SaaS escalável, abordo cada projeto com foco na experiência do utilizador, no desempenho e nos objetivos de negócio.',
-            value1: { title: 'Execução Rápida', desc: 'Criação rápida de protótipos e desenvolvimento iterativo para levar o seu produto ao mercado rapidamente.' },
+            value1: { title: 'Execução', desc: 'Criação rápida de protótipos e desenvolvimento iterativo para levar o seu produto ao mercado rapidamente.' },
             value2: { title: 'De Ponta a Ponta', desc: 'Do design ao deployment, trato de cada aspeto do desenvolvimento de produtos.' },
-            value3: { title: 'Qualidade em Primeiro', desc: 'Código limpo, UX bem pensada e arquitetura escalável em cada projeto.' }
+            value3: { title: 'Qualidade', desc: 'Código limpo, UX bem pensada e arquitetura escalável em cada projeto.' }
         },
         skills: {
             tag: 'Especialização',
@@ -108,7 +108,7 @@ const translations = {
             about: 'Sobre',
             skills: 'Competências',
             contact: 'Contacto',
-            copyright: '© 2026 Yann Carlier. Todos os direitos reservados.',
+            copyright: '© 2026 Carlier. Todos os direitos reservados.',
             crafted: 'Criado com paixão'
         },
         accessibility: {
@@ -139,9 +139,9 @@ const translations = {
             title: 'Construyendo productos que importan',
             text1: 'Soy fundador y desarrollador full-stack apasionado por crear productos impactantes. Con experiencia que abarca desde desarrollo móvil, SaaS, Sistemas de IA y Arquitectura de Sistemas, ayudo a startups y empresas a hacer realidad sus visiones.',
             text2: 'Ya sea una aplicación móvil nativa, un sistema de IA, una solución multiplataforma o una plataforma SaaS escalable, abordo cada proyecto con enfoque en la experiencia del usuario, rendimiento y objetivos de negocio.',
-            value1: { title: 'Ejecución Rápida', desc: 'Prototipado rápido y desarrollo iterativo para llevar tu producto al mercado rápidamente.' },
+            value1: { title: 'Ejecución', desc: 'Prototipado rápido y desarrollo iterativo para llevar tu producto al mercado rápidamente.' },
             value2: { title: 'De Principio a Fin', desc: 'Del diseño al deployment, manejo cada aspecto del desarrollo de productos.' },
-            value3: { title: 'Calidad Primero', desc: 'Código limpio, UX bien pensada y arquitectura escalable en cada proyecto.' }
+            value3: { title: 'Calidad', desc: 'Código limpio, UX bien pensada y arquitectura escalable en cada proyecto.' }
         },
         skills: {
             tag: 'Experiencia',
@@ -162,7 +162,7 @@ const translations = {
             about: 'Sobre',
             skills: 'Habilidades',
             contact: 'Contacto',
-            copyright: '© 2026 Yann Carlier. Todos los derechos reservados.',
+            copyright: '© 2026 Carlier. Todos los derechos reservados.',
             crafted: 'Creado con pasión'
         },
         accessibility: {
@@ -193,9 +193,9 @@ const translations = {
             title: 'Construire des produits qui comptent',
             text1: 'Je suis fondateur et développeur full-stack passionné par la création de produits impactants. Avec une expertise couvrant le développement mobile, le SaaS, les Systèmes d\'IA et l\'Architecture Système, j\'aide les startups et les entreprises à réaliser leurs visions.',
             text2: 'Qu\'il s\'agisse d\'une application mobile native, d\'un système d\'IA, d\'une solution multiplateforme ou d\'une plateforme SaaS scalable, j\'aborde chaque projet avec un focus sur l\'expérience utilisateur, la performance et les objectifs business.',
-            value1: { title: 'Exécution Rapide', desc: 'Prototypage rapide et développement itératif pour mettre votre produit sur le marché rapidement.' },
+            value1: { title: 'Exécution', desc: 'Prototypage rapide et développement itératif pour mettre votre produit sur le marché rapidement.' },
             value2: { title: 'De A à Z', desc: 'Du design au déploiement, je gère chaque aspect du développement produit.' },
-            value3: { title: 'Qualité d\'Abord', desc: 'Code propre, UX réfléchie et architecture scalable dans chaque projet.' }
+            value3: { title: 'Qualité', desc: 'Code propre, UX réfléchie et architecture scalable dans chaque projet.' }
         },
         skills: {
             tag: 'Expertise',
@@ -216,7 +216,7 @@ const translations = {
             about: 'À Propos',
             skills: 'Compétences',
             contact: 'Contact',
-            copyright: '© 2026 Yann Carlier. Tous droits réservés.',
+            copyright: '© 2026 Carlier. Tous droits réservés.',
             crafted: 'Conçu avec passion'
         },
         accessibility: {
@@ -247,9 +247,9 @@ const translations = {
             title: '構建有價值的產品',
             text1: '我是一名創辦人兼全端開發者，熱衷於創造有影響力的產品。憑藉從移動開發、SaaS、AI 系統到系統架構的專業知識，我幫助初創企業和公司實現他們的願景。',
             text2: '無論是原生移動應用、AI 系統、跨平台解決方案還是可擴展的 SaaS 平台，我以用戶體驗、性能和業務目標為重點來處理每個項目。',
-            value1: { title: '快速執行', desc: '快速原型設計和迭代開發，讓您的產品快速進入市場。' },
+            value1: { title: '執行', desc: '快速原型設計和迭代開發，讓您的產品快速進入市場。' },
             value2: { title: '端到端', desc: '從設計到部署，我處理產品開發的各個方面。' },
-            value3: { title: '品質優先', desc: '每個項目都注重清晰的代碼、周到的 UX 和可擴展的架構。' }
+            value3: { title: '品質', desc: '每個項目都注重清晰的代碼、周到的 UX 和可擴展的架構。' }
         },
         skills: {
             tag: '專業領域',
@@ -270,7 +270,7 @@ const translations = {
             about: '關於',
             skills: '技能',
             contact: '聯繫',
-            copyright: '© 2026 Yann Carlier. 版權所有。',
+            copyright: '© 2026 Carlier. 版權所有。',
             crafted: '用心打造'
         },
         accessibility: {
@@ -301,9 +301,9 @@ const translations = {
             title: '构建有价值的产品',
             text1: '我是一名创始人兼全栈开发者，热衷于创造有影响力的产品。凭借从移动开发、SaaS、AI 系统到系统架构的专业知识，我帮助初创企业和公司实现他们的愿景。',
             text2: '无论是原生移动应用、AI 系统、跨平台解决方案还是可扩展的 SaaS 平台，我以用户体验、性能和业务目标为重点来处理每个项目。',
-            value1: { title: '快速执行', desc: '快速原型设计和迭代开发，让您的产品快速进入市场。' },
+            value1: { title: '执行', desc: '快速原型设计和迭代开发，让您的产品快速进入市场。' },
             value2: { title: '端到端', desc: '从设计到部署，我处理产品开发的各个方面。' },
-            value3: { title: '品质优先', desc: '每个项目都注重清晰的代码、周到的 UX 和可扩展的架构。' }
+            value3: { title: '品质', desc: '每个项目都注重清晰的代码、周到的 UX 和可扩展的架构。' }
         },
         skills: {
             tag: '专业领域',
@@ -324,7 +324,7 @@ const translations = {
             about: '关于',
             skills: '技能',
             contact: '联系',
-            copyright: '© 2026 Yann Carlier. 版权所有。',
+            copyright: '© 2026 Carlier. 版权所有。',
             crafted: '用心打造'
         },
         accessibility: {
@@ -355,9 +355,9 @@ const translations = {
             title: 'मायने रखने वाले उत्पाद बना रहे हैं',
             text1: 'मैं एक संस्थापक और फुल-स्टैक डेवलपर हूं जो प्रभावशाली उत्पाद बनाने का शौकीन है। मोबाइल डेवलपमेंट, SaaS, AI सिस्टम और सिस्टम आर्किटेक्चर में विशेषज्ञता के साथ, मैं स्टार्टअप्स और व्यवसायों को अपनी दृष्टि को जीवंत करने में मदद करता हूं।',
             text2: 'चाहे वह एक नेटिव मोबाइल ऐप हो, AI सिस्टम, क्रॉस-प्लेटफॉर्म समाधान, या स्केलेबल SaaS प्लेटफॉर्म, मैं हर प्रोजेक्ट को यूजर एक्सपीरियंस, परफॉर्मेंस और बिजनेस गोल्स पर फोकस के साथ अप्रोच करता हूं।',
-            value1: { title: 'तेज एक्जीक्यूशन', desc: 'रैपिड प्रोटोटाइपिंग और इटरेटिव डेवलपमेंट ताकि आपका उत्पाद जल्दी बाजार में आ सके।' },
+            value1: { title: 'एक्जीक्यूशन', desc: 'रैपिड प्रोटोटाइपिंग और इटरेटिव डेवलपमेंट ताकि आपका उत्पाद जल्दी बाजार में आ सके।' },
             value2: { title: 'एंड-टू-एंड', desc: 'डिजाइन से डिप्लॉयमेंट तक, मैं प्रोडक्ट डेवलपमेंट के हर पहलू को संभालता हूं।' },
-            value3: { title: 'क्वालिटी फर्स्ट', desc: 'हर प्रोजेक्ट में क्लीन कोड, सोची-समझी UX और स्केलेबल आर्किटेक्चर।' }
+            value3: { title: 'क्वालिटी', desc: 'हर प्रोजेक्ट में क्लीन कोड, सोची-समझी UX और स्केलेबल आर्किटेक्चर।' }
         },
         skills: {
             tag: 'विशेषज्ञता',
@@ -378,7 +378,7 @@ const translations = {
             about: 'परिचय',
             skills: 'कौशल',
             contact: 'संपर्क',
-            copyright: '© 2026 Yann Carlier. सर्वाधिकार सुरक्षित।',
+            copyright: '© 2026 Carlier. सर्वाधिकार सुरक्षित।',
             crafted: 'जुनून के साथ बनाया गया'
         },
         accessibility: {
@@ -409,9 +409,9 @@ const translations = {
             title: '意義のある製品を構築する',
             text1: '私は影響力のある製品を作ることに情熱を持つ創業者兼フルスタック開発者です。モバイル開発、SaaS、AIシステム、システムアーキテクチャにわたる専門知識を持ち、スタートアップや企業がビジョンを実現するのをお手伝いします。',
             text2: 'ネイティブモバイルアプリ、AIシステム、クロスプラットフォームソリューション、スケーラブルなSaaSプラットフォームのいずれであれ、ユーザー体験、パフォーマンス、ビジネス目標に焦点を当てて各プロジェクトに取り組みます。',
-            value1: { title: '迅速な実行', desc: '迅速なプロトタイピングと反復的な開発により、製品を迅速に市場に投入します。' },
+            value1: { title: '実行', desc: '迅速なプロトタイピングと反復的な開発により、製品を迅速に市場に投入します。' },
             value2: { title: 'エンドツーエンド', desc: 'デザインからデプロイメントまで、製品開発のあらゆる側面を担当します。' },
-            value3: { title: '品質第一', desc: 'すべてのプロジェクトでクリーンなコード、熟考されたUX、スケーラブルなアーキテクチャを提供します。' }
+            value3: { title: '品質', desc: 'すべてのプロジェクトでクリーンなコード、熟考されたUX、スケーラブルなアーキテクチャを提供します。' }
         },
         skills: {
             tag: '専門知識',
@@ -432,7 +432,7 @@ const translations = {
             about: '概要',
             skills: 'スキル',
             contact: 'お問い合わせ',
-            copyright: '© 2026 Yann Carlier. All rights reserved.',
+            copyright: '© 2026 Carlier. All rights reserved.',
             crafted: '情熱を込めて作られました'
         },
         accessibility: {
@@ -463,9 +463,9 @@ const translations = {
             title: 'نبني منتجات ذات أهمية',
             text1: 'أنا مؤسس ومطور Full-Stack شغوف بإنشاء منتجات مؤثرة. بفضل خبرة تمتد من تطوير الجوال وSaaS وأنظمة الذكاء الاصطناعي وهندسة الأنظمة، أساعد الشركات الناشئة والشركات على تحقيق رؤاهم.',
             text2: 'سواء كان تطبيق جوال أصلي، أو نظام ذكاء اصطناعي، أو حل متعدد المنصات، أو منصة SaaS قابلة للتوسع، أتعامل مع كل مشروع مع التركيز على تجربة المستخدم والأداء وأهداف العمل.',
-            value1: { title: 'تنفيذ سريع', desc: 'النمذجة السريعة والتطوير التكراري لإدخال منتجك إلى السوق بسرعة.' },
+            value1: { title: 'تنفيذ', desc: 'النمذجة السريعة والتطوير التكراري لإدخال منتجك إلى السوق بسرعة.' },
             value2: { title: 'من الألف إلى الياء', desc: 'من التصميم إلى النشر، أتعامل مع كل جانب من جوانب تطوير المنتج.' },
-            value3: { title: 'الجودة أولاً', desc: 'كود نظيف وتجربة مستخدم مدروسة وهندسة قابلة للتوسع في كل مشروع.' }
+            value3: { title: 'الجودة', desc: 'كود نظيف وتجربة مستخدم مدروسة وهندسة قابلة للتوسع في كل مشروع.' }
         },
         skills: {
             tag: 'الخبرة',
@@ -486,7 +486,7 @@ const translations = {
             about: 'حول',
             skills: 'المهارات',
             contact: 'تواصل',
-            copyright: '© 2026 Yann Carlier. جميع الحقوق محفوظة.',
+            copyright: '© 2026 Carlier. جميع الحقوق محفوظة.',
             crafted: 'صُنع بحب'
         },
         accessibility: {
@@ -532,7 +532,7 @@ function updateContent(lang) {
         const key = el.getAttribute('data-i18n');
         const keys = key.split('.');
         let value = t;
-        
+
         for (const k of keys) {
             if (value && typeof value === 'object') {
                 value = value[k];
@@ -541,7 +541,7 @@ function updateContent(lang) {
                 break;
             }
         }
-        
+
         if (value !== undefined) {
             el.textContent = value;
         }
@@ -551,7 +551,7 @@ function updateContent(lang) {
     document.querySelectorAll('.lang-option').forEach(btn => {
         btn.classList.toggle('active', btn.dataset.lang === lang);
     });
-    
+
     const currentLangEl = document.querySelector('.current-lang');
     if (currentLangEl) {
         currentLangEl.textContent = langLabels[lang];
@@ -601,13 +601,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
     window.addEventListener('scroll', () => {
         const currentScroll = window.pageYOffset;
-        
+
         if (currentScroll > 50) {
             nav.classList.add('scrolled');
         } else {
             nav.classList.remove('scrolled');
         }
-        
+
         lastScroll = currentScroll;
     });
 
@@ -681,10 +681,10 @@ document.addEventListener('DOMContentLoaded', () => {
     // Parallax Effect for Gradient Orbs
     // ========================================
     const orbs = document.querySelectorAll('.gradient-orb');
-    
+
     window.addEventListener('scroll', () => {
         const scrolled = window.pageYOffset;
-        
+
         orbs.forEach((orb, index) => {
             const speed = 0.3 + (index * 0.1);
             const yPos = -(scrolled * speed);
@@ -696,18 +696,18 @@ document.addEventListener('DOMContentLoaded', () => {
     // Contact Form Handling
     // ========================================
     const contactForm = document.getElementById('contactForm');
-    
+
     if (contactForm) {
         contactForm.addEventListener('submit', (e) => {
             e.preventDefault();
-            
+
             const formData = new FormData(contactForm);
             const data = Object.fromEntries(formData);
-            
+
             // Show success message
             const submitBtn = contactForm.querySelector('button[type="submit"]');
             const originalText = submitBtn.innerHTML;
-            
+
             submitBtn.innerHTML = `
                 <span>Message Sent!</span>
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -715,16 +715,16 @@ document.addEventListener('DOMContentLoaded', () => {
                 </svg>
             `;
             submitBtn.style.background = 'linear-gradient(135deg, #34d399, #10b981)';
-            
+
             // Reset form
             contactForm.reset();
-            
+
             // Reset button after 3 seconds
             setTimeout(() => {
                 submitBtn.innerHTML = originalText;
                 submitBtn.style.background = '';
             }, 3000);
-            
+
             // Log form data (replace with actual submission)
             console.log('Form submitted:', data);
         });
@@ -734,36 +734,36 @@ document.addEventListener('DOMContentLoaded', () => {
     // Counter Animation for Stats
     // ========================================
     const stats = document.querySelectorAll('.stat-number');
-    
+
     const animateCounter = (element) => {
         const text = element.textContent;
         const numericPart = parseInt(text.replace(/[^0-9]/g, ''));
         const suffix = text.replace(/[0-9]/g, '');
-        
+
         if (isNaN(numericPart)) return;
-        
+
         const duration = 2000;
         const step = timestamp => {
             if (!element.dataset.startTime) {
                 element.dataset.startTime = timestamp;
             }
-            
+
             const progress = timestamp - element.dataset.startTime;
             const percentage = Math.min(progress / duration, 1);
-            
+
             // Easing function
             const easeOutQuart = 1 - Math.pow(1 - percentage, 4);
             const current = Math.floor(easeOutQuart * numericPart);
-            
+
             element.textContent = current + suffix;
-            
+
             if (percentage < 1) {
                 requestAnimationFrame(step);
             } else {
                 element.textContent = text;
             }
         };
-        
+
         requestAnimationFrame(step);
     };
 
@@ -784,7 +784,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Typing Effect for Code Block
     // ========================================
     const codeContent = document.querySelector('.code-content code');
-    
+
     if (codeContent) {
         const observer = new IntersectionObserver((entries) => {
             entries.forEach(entry => {
@@ -795,7 +795,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             });
         }, { threshold: 0.3 });
-        
+
         observer.observe(codeContent);
     }
 
@@ -803,12 +803,12 @@ document.addEventListener('DOMContentLoaded', () => {
     // Hover Effects Enhancement
     // ========================================
     const projectCards = document.querySelectorAll('.project-card');
-    
+
     projectCards.forEach(card => {
         card.addEventListener('mouseenter', () => {
             card.style.transform = 'translateY(-8px)';
         });
-        
+
         card.addEventListener('mouseleave', () => {
             card.style.transform = '';
         });
@@ -829,13 +829,13 @@ document.addEventListener('DOMContentLoaded', () => {
     // Prefers Reduced Motion
     // ========================================
     const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
-    
+
     if (prefersReducedMotion.matches) {
         // Disable parallax and complex animations
         orbs.forEach(orb => {
             orb.style.animation = 'none';
         });
-        
+
         document.querySelectorAll('.scroll-indicator').forEach(el => {
             el.style.display = 'none';
         });
@@ -862,7 +862,7 @@ function debounce(func, wait) {
 // Throttle function for scroll events
 function throttle(func, limit) {
     let inThrottle;
-    return function(...args) {
+    return function (...args) {
         if (!inThrottle) {
             func.apply(this, args);
             inThrottle = true;

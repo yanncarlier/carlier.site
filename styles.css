@@ -1,5 +1,5 @@
 /* ========================================
-   Yann Carlier - Personal Landing Page
+   Carlier - Personal Landing Page
    Modern Dark Theme with Vibrant Accents
    ======================================== */
 
@@ -167,13 +167,25 @@ img {
 }
 
 .nav-logo {
-    font-family: var(--font-display);
-    font-size: var(--text-2xl);
-    font-weight: 700;
-    background: linear-gradient(135deg, var(--color-primary-light), var(--color-accent-1));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 60px;
+    height: 60px;
+    border-radius: 12px;
+    transition: transform var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+.nav-logo:hover {
+    transform: translateY(-1px);
+    box-shadow: var(--shadow-glow-cyan);
+}
+
+.nav-logo img {
+    width: 56px;
+    height: 56px;
+    border-radius: 11px;
+    object-fit: contain;
 }
 
 .nav-toggle {
@@ -1232,13 +1244,10 @@ html[lang="zh-CN"] {
 }
 
 .footer-logo {
-    font-family: var(--font-display);
-    font-size: var(--text-2xl);
-    font-weight: 700;
-    background: linear-gradient(135deg, var(--color-primary-light), var(--color-accent-1));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+    width: 64px;
+    height: 64px;
+    border-radius: 12px;
+    object-fit: contain;
     display: inline-block;
     margin-bottom: var(--space-2);
 }

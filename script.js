@@ -29,7 +29,7 @@ const translations = {
         about: {
             tag: 'About Me',
             title: 'Building products that matter',
-            text1: "I'm a founder and full-stack developer passionate about creating impactful products. With expertise spanning from mobile development, SaaS, AI Systems & Systems Architecture, I help startups and businesses bring their visions to life.",
+            text1: "I'm a founder and Software Engineer passionate about creating impactful products. With expertise spanning from mobile development, SaaS, AI Systems & Systems Architecture, I help startups and businesses bring their visions to life.",
             text2: "Whether it's a native mobile app, an AI system, a cross-platform solution, or a scalable SaaS platform, I approach every project with a focus on user experience, performance, and business goals.",
             value1: { title: 'Execution', desc: 'Rapid prototyping and iterative development to get your product to market quickly.' },
             value2: { title: 'End-to-End', desc: 'From design to deployment, I handle every aspect of product development.' },
@@ -40,9 +40,10 @@ const translations = {
             title: 'Technologies I work with',
             mobile: 'Mobile Development',
             web: 'Web & SaaS',
+            business: 'Business Software Solutions',
             design: 'Design & Product',
             ai: 'AI Systems',
-            infra: 'Infrastructure Architect'
+            infra: 'Infrastructure'
         },
         contact: {
             tag: 'Get In Touch',
@@ -83,7 +84,7 @@ const translations = {
         about: {
             tag: 'Sobre Mim',
             title: 'A construir produtos que importam',
-            text1: 'Sou fundador e programador full-stack apaixonado por criar produtos impactantes. Com conhecimento especializado que abrange desenvolvimento móvel, SaaS, Sistemas de IA e Arquitetura de Sistemas, ajudo startups e empresas a realizarem as suas visões.',
+            text1: 'Sou fundador e Engenheiro de Software apaixonado por criar produtos impactantes. Com conhecimento especializado que abrange desenvolvimento móvel, SaaS, Sistemas de IA e Arquitetura de Sistemas, ajudo startups e empresas a realizarem as suas visões.',
             text2: 'Seja uma aplicação móvel nativa, um sistema de IA, uma solução multiplataforma ou uma plataforma SaaS escalável, abordo cada projeto com foco na experiência do utilizador, no desempenho e nos objetivos de negócio.',
             value1: { title: 'Execução', desc: 'Criação rápida de protótipos e desenvolvimento iterativo para levar o seu produto ao mercado rapidamente.' },
             value2: { title: 'De Ponta a Ponta', desc: 'Do design ao deployment, trato de cada aspeto do desenvolvimento de produtos.' },
@@ -94,9 +95,10 @@ const translations = {
             title: 'Tecnologias com as quais trabalho',
             mobile: 'Desenvolvimento Móvel',
             web: 'Web & SaaS',
+            business: 'Soluções de Software Empresarial',
             design: 'Design & Produto',
             ai: 'Sistemas de IA',
-            infra: 'Arquiteto de Infraestrutura'
+            infra: 'Infraestrutura'
         },
         contact: {
             tag: 'Contacte-me',
@@ -137,7 +139,7 @@ const translations = {
         about: {
             tag: 'Sobre Mí',
             title: 'Construyendo productos que importan',
-            text1: 'Soy fundador y desarrollador full-stack apasionado por crear productos impactantes. Con experiencia que abarca desde desarrollo móvil, SaaS, Sistemas de IA y Arquitectura de Sistemas, ayudo a startups y empresas a hacer realidad sus visiones.',
+            text1: 'Soy fundador e Ingeniero de Software apasionado por crear productos impactantes. Con experiencia que abarca desde desarrollo móvil, SaaS, Sistemas de IA y Arquitectura de Sistemas, ayudo a startups y empresas a hacer realidad sus visiones.',
             text2: 'Ya sea una aplicación móvil nativa, un sistema de IA, una solución multiplataforma o una plataforma SaaS escalable, abordo cada proyecto con enfoque en la experiencia del usuario, rendimiento y objetivos de negocio.',
             value1: { title: 'Ejecución', desc: 'Prototipado rápido y desarrollo iterativo para llevar tu producto al mercado rápidamente.' },
             value2: { title: 'De Principio a Fin', desc: 'Del diseño al deployment, manejo cada aspecto del desarrollo de productos.' },
@@ -148,9 +150,10 @@ const translations = {
             title: 'Tecnologías con las que trabajo',
             mobile: 'Desarrollo Móvil',
             web: 'Web & SaaS',
+            business: 'Soluciones de Software Empresarial',
             design: 'Diseño & Producto',
             ai: 'Sistemas de IA',
-            infra: 'Arquitecto de Infraestructura'
+            infra: 'Infraestructura'
         },
         contact: {
             tag: 'Ponte en Contacto',
@@ -191,7 +194,7 @@ const translations = {
         about: {
             tag: 'À Propos de Moi',
             title: 'Construire des produits qui comptent',
-            text1: 'Je suis fondateur et développeur full-stack passionné par la création de produits impactants. Avec une expertise couvrant le développement mobile, le SaaS, les Systèmes d\'IA et l\'Architecture Système, j\'aide les startups et les entreprises à réaliser leurs visions.',
+            text1: 'Je suis fondateur et Ingénieur logiciel passionné par la création de produits impactants. Avec une expertise couvrant le développement mobile, le SaaS, les Systèmes d\'IA et l\'Architecture Système, j\'aide les startups et les entreprises à réaliser leurs visions.',
             text2: 'Qu\'il s\'agisse d\'une application mobile native, d\'un système d\'IA, d\'une solution multiplateforme ou d\'une plateforme SaaS scalable, j\'aborde chaque projet avec un focus sur l\'expérience utilisateur, la performance et les objectifs business.',
             value1: { title: 'Exécution', desc: 'Prototypage rapide et développement itératif pour mettre votre produit sur le marché rapidement.' },
             value2: { title: 'De A à Z', desc: 'Du design au déploiement, je gère chaque aspect du développement produit.' },
@@ -202,9 +205,10 @@ const translations = {
             title: 'Technologies avec lesquelles je travaille',
             mobile: 'Développement Mobile',
             web: 'Web & SaaS',
+            business: 'Solutions logicielles d\'entreprise',
             design: 'Design & Produit',
             ai: 'Systèmes d\'IA',
-            infra: 'Architecte Infrastructure'
+            infra: 'Infrastructure'
         },
         contact: {
             tag: 'Prenez Contact',
@@ -245,7 +249,7 @@ const translations = {
         about: {
             tag: '關於我',
             title: '構建有價值的產品',
-            text1: '我是一名創辦人兼全端開發者，熱衷於創造有影響力的產品。憑藉從移動開發、SaaS、AI 系統到系統架構的專業知識，我幫助初創企業和公司實現他們的願景。',
+            text1: '我是一名創辦人兼軟體工程師，熱衷於創造有影響力的產品。憑藉從移動開發、SaaS、AI 系統到系統架構的專業知識，我幫助初創企業和公司實現他們的願景。',
             text2: '無論是原生移動應用、AI 系統、跨平台解決方案還是可擴展的 SaaS 平台，我以用戶體驗、性能和業務目標為重點來處理每個項目。',
             value1: { title: '執行', desc: '快速原型設計和迭代開發，讓您的產品快速進入市場。' },
             value2: { title: '端到端', desc: '從設計到部署，我處理產品開發的各個方面。' },
@@ -256,9 +260,10 @@ const translations = {
             title: '我使用的技術',
             mobile: '移動開發',
             web: '網頁與 SaaS',
+            business: '企業軟件解決方案',
             design: '設計與產品',
             ai: 'AI 系統',
-            infra: '基礎設施架構師'
+            infra: '基礎設施'
         },
         contact: {
             tag: '聯繫我',
@@ -299,7 +304,7 @@ const translations = {
         about: {
             tag: '关于我',
             title: '构建有价值的产品',
-            text1: '我是一名创始人兼全栈开发者，热衷于创造有影响力的产品。凭借从移动开发、SaaS、AI 系统到系统架构的专业知识，我帮助初创企业和公司实现他们的愿景。',
+            text1: '我是一名创始人兼软件工程师，热衷于创造有影响力的产品。凭借从移动开发、SaaS、AI 系统到系统架构的专业知识，我帮助初创企业和公司实现他们的愿景。',
             text2: '无论是原生移动应用、AI 系统、跨平台解决方案还是可扩展的 SaaS 平台，我以用户体验、性能和业务目标为重点来处理每个项目。',
             value1: { title: '执行', desc: '快速原型设计和迭代开发，让您的产品快速进入市场。' },
             value2: { title: '端到端', desc: '从设计到部署，我处理产品开发的各个方面。' },
@@ -310,9 +315,10 @@ const translations = {
             title: '我使用的技术',
             mobile: '移动开发',
             web: '网页与 SaaS',
+            business: '企业软件解决方案',
             design: '设计与产品',
             ai: 'AI 系统',
-            infra: '基础设施架构师'
+            infra: '基础设施'
         },
         contact: {
             tag: '联系我',
@@ -353,7 +359,7 @@ const translations = {
         about: {
             tag: 'मेरे बारे में',
             title: 'मायने रखने वाले उत्पाद बना रहे हैं',
-            text1: 'मैं एक संस्थापक और फुल-स्टैक डेवलपर हूं जो प्रभावशाली उत्पाद बनाने का शौकीन है। मोबाइल डेवलपमेंट, SaaS, AI सिस्टम और सिस्टम आर्किटेक्चर में विशेषज्ञता के साथ, मैं स्टार्टअप्स और व्यवसायों को अपनी दृष्टि को जीवंत करने में मदद करता हूं।',
+            text1: 'मैं एक संस्थापक और सॉफ्टवेयर इंजीनियर हूं जो प्रभावशाली उत्पाद बनाने का शौकीन है। मोबाइल डेवलपमेंट, SaaS, AI सिस्टम और सिस्टम आर्किटेक्चर में विशेषज्ञता के साथ, मैं स्टार्टअप्स और व्यवसायों को अपनी दृष्टि को जीवंत करने में मदद करता हूं।',
             text2: 'चाहे वह एक नेटिव मोबाइल ऐप हो, AI सिस्टम, क्रॉस-प्लेटफॉर्म समाधान, या स्केलेबल SaaS प्लेटफॉर्म, मैं हर प्रोजेक्ट को यूजर एक्सपीरियंस, परफॉर्मेंस और बिजनेस गोल्स पर फोकस के साथ अप्रोच करता हूं।',
             value1: { title: 'एक्जीक्यूशन', desc: 'रैपिड प्रोटोटाइपिंग और इटरेटिव डेवलपमेंट ताकि आपका उत्पाद जल्दी बाजार में आ सके।' },
             value2: { title: 'एंड-टू-एंड', desc: 'डिजाइन से डिप्लॉयमेंट तक, मैं प्रोडक्ट डेवलपमेंट के हर पहलू को संभालता हूं।' },
@@ -364,9 +370,10 @@ const translations = {
             title: 'टेक्नोलॉजी जिनके साथ मैं काम करता हूं',
             mobile: 'मोबाइल डेवलपमेंट',
             web: 'वेब और SaaS',
-            design: 'डिजाइन और प्रोडक्ट',
+            business: 'बिज़नेस सॉफ़्टवेयर समाधान',
+            design: 'डिज़ाइन और प्रोडक्ट',
             ai: 'AI सिस्टम',
-            infra: 'इंफ्रास्ट्रक्चर आर्किटेक्ट'
+            infra: 'इन्फ्रास्ट्रक्चर'
         },
         contact: {
             tag: 'संपर्क करें',
@@ -407,7 +414,7 @@ const translations = {
         about: {
             tag: '私について',
             title: '意義のある製品を構築する',
-            text1: '私は影響力のある製品を作ることに情熱を持つ創業者兼フルスタック開発者です。モバイル開発、SaaS、AIシステム、システムアーキテクチャにわたる専門知識を持ち、スタートアップや企業がビジョンを実現するのをお手伝いします。',
+            text1: '私は影響力のある製品を作ることに情熱を持つ創業者兼ソフトウェアエンジニアです。モバイル開発、SaaS、AIシステム、システムアーキテクチャにわたる専門知識を持ち、スタートアップや企業がビジョンを実現するのをお手伝いします。',
             text2: 'ネイティブモバイルアプリ、AIシステム、クロスプラットフォームソリューション、スケーラブルなSaaSプラットフォームのいずれであれ、ユーザー体験、パフォーマンス、ビジネス目標に焦点を当てて各プロジェクトに取り組みます。',
             value1: { title: '実行', desc: '迅速なプロトタイピングと反復的な開発により、製品を迅速に市場に投入します。' },
             value2: { title: 'エンドツーエンド', desc: 'デザインからデプロイメントまで、製品開発のあらゆる側面を担当します。' },
@@ -418,9 +425,10 @@ const translations = {
             title: '使用している技術',
             mobile: 'モバイル開発',
             web: 'WebとSaaS',
+            business: 'ビジネスソフトウェアソリューション',
             design: 'デザインとプロダクト',
             ai: 'AIシステム',
-            infra: 'インフラストラクチャアーキテクト'
+            infra: 'インフラ'
         },
         contact: {
             tag: 'お問い合わせ',
@@ -461,7 +469,7 @@ const translations = {
         about: {
             tag: 'عني',
             title: 'نبني منتجات ذات أهمية',
-            text1: 'أنا مؤسس ومطور Full-Stack شغوف بإنشاء منتجات مؤثرة. بفضل خبرة تمتد من تطوير الجوال وSaaS وأنظمة الذكاء الاصطناعي وهندسة الأنظمة، أساعد الشركات الناشئة والشركات على تحقيق رؤاهم.',
+            text1: 'أنا مؤسس ومهندس برمجيات شغوف بإنشاء منتجات مؤثرة. بفضل خبرة تمتد من تطوير الجوال وSaaS وأنظمة الذكاء الاصطناعي وهندسة الأنظمة، أساعد الشركات الناشئة والشركات على تحقيق رؤاهم.',
             text2: 'سواء كان تطبيق جوال أصلي، أو نظام ذكاء اصطناعي، أو حل متعدد المنصات، أو منصة SaaS قابلة للتوسع، أتعامل مع كل مشروع مع التركيز على تجربة المستخدم والأداء وأهداف العمل.',
             value1: { title: 'تنفيذ', desc: 'النمذجة السريعة والتطوير التكراري لإدخال منتجك إلى السوق بسرعة.' },
             value2: { title: 'من الألف إلى الياء', desc: 'من التصميم إلى النشر، أتعامل مع كل جانب من جوانب تطوير المنتج.' },
@@ -472,9 +480,10 @@ const translations = {
             title: 'التقنيات التي أعمل بها',
             mobile: 'تطوير الجوال',
             web: 'Web وSaaS',
+            business: 'حلول برامج الأعمال',
             design: 'التصميم والمنتج',
             ai: 'أنظمة الذكاء الاصطناعي',
-            infra: 'مهندس البنية التحتية'
+            infra: 'البنية التحتية'
         },
         contact: {
             tag: 'تواصل معي',

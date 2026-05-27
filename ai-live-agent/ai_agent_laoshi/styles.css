@@ -1,0 +1,274 @@
+:root {
+  --bg: #0f172a;
+  --bg-soft: #111f3a;
+  --card: #17264a;
+  --line: rgba(255, 255, 255, 0.12);
+  --text: #e5e7eb;
+  --muted: #a5b4fc;
+  --accent: #8b5cf6;
+  --accent-soft: #22d3ee;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+  color: var(--text);
+  background: radial-gradient(circle at 20% 0%, #1e1b4b, var(--bg) 50%);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}
+
+.header,
+.section,
+.hero,
+.footer {
+  width: min(1080px, calc(100% - 2rem));
+  margin-inline: auto;
+}
+
+.header {
+  position: sticky;
+  top: 1rem;
+  z-index: 10;
+  margin-top: 1rem;
+  min-height: 60px;
+  padding: 0 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: rgba(15, 23, 42, 0.8);
+  backdrop-filter: blur(12px);
+}
+
+.logo {
+  font-weight: 700;
+}
+
+.nav {
+  display: flex;
+  gap: 1rem;
+}
+
+.nav a {
+  color: #cbd5e1;
+}
+
+.hero {
+  padding: 5rem 0 3rem;
+  display: grid;
+  grid-template-columns: 1.1fr 0.9fr;
+  gap: 2rem;
+  align-items: center;
+}
+
+.tag {
+  display: inline-block;
+  margin-bottom: 1rem;
+  color: var(--accent-soft);
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.hero h1 {
+  font-size: clamp(2rem, 5vw, 3.8rem);
+  line-height: 1.08;
+}
+
+.hero-copy p {
+  margin-top: 1rem;
+  max-width: 60ch;
+  color: #bfdbfe;
+}
+
+.actions {
+  margin-top: 1.6rem;
+  display: flex;
+  gap: 0.8rem;
+  flex-wrap: wrap;
+}
+
+.btn,
+.signup-row button {
+  min-height: 44px;
+  padding: 0 1rem;
+  border-radius: 10px;
+  border: 1px solid transparent;
+  font-weight: 700;
+}
+
+.btn.primary,
+.signup-row button {
+  background: linear-gradient(135deg, var(--accent), #7c3aed);
+  color: #fff;
+}
+
+.btn.ghost {
+  border-color: var(--line);
+  color: #cbd5e1;
+}
+
+.hero-card {
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  padding: 1.4rem;
+  background: linear-gradient(160deg, #1d2e54, var(--card));
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.28);
+}
+
+.chip {
+  display: inline-block;
+  margin-bottom: 0.8rem;
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  background: rgba(34, 211, 238, 0.2);
+  color: var(--accent-soft);
+  font-size: 0.72rem;
+  font-weight: 700;
+}
+
+.hero-card h2 {
+  font-size: 1.4rem;
+}
+
+.hero-card ul {
+  margin: 1rem 0 0;
+  padding-left: 1rem;
+  color: #bfdbfe;
+}
+
+.hero-card li + li {
+  margin-top: 0.5rem;
+}
+
+.section {
+  padding: 2.5rem 0;
+}
+
+.section h2 {
+  font-size: clamp(1.6rem, 4vw, 2.4rem);
+  margin-bottom: 1.2rem;
+}
+
+.grid {
+  display: grid;
+  gap: 1rem;
+}
+
+.grid.three {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.card,
+.step {
+  min-height: 180px;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 1.2rem;
+  background: rgba(23, 38, 74, 0.7);
+}
+
+.card p,
+.step p {
+  margin-top: 0.6rem;
+  color: #bfdbfe;
+}
+
+.step span {
+  display: inline-block;
+  color: var(--accent-soft);
+  font-size: 0.76rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.cta {
+  margin: 2rem auto 3rem;
+  padding: 2rem;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background: linear-gradient(145deg, rgba(139, 92, 246, 0.25), rgba(34, 211, 238, 0.08));
+  display: grid;
+  grid-template-columns: 1fr minmax(280px, 420px);
+  gap: 1.5rem;
+  align-items: center;
+}
+
+.signup-form label {
+  display: block;
+  margin-bottom: 0.5rem;
+  color: #c7d2fe;
+}
+
+.signup-row {
+  display: flex;
+  gap: 0.6rem;
+}
+
+.signup-row input {
+  width: 100%;
+  min-height: 44px;
+  padding: 0 0.8rem;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: rgba(15, 23, 42, 0.65);
+  color: var(--text);
+}
+
+.form-note {
+  margin-top: 0.5rem;
+  min-height: 20px;
+  color: #a7f3d0;
+}
+
+.footer {
+  padding: 1rem 0 2rem;
+  border-top: 1px solid var(--line);
+  display: flex;
+  justify-content: space-between;
+  color: #94a3b8;
+}
+
+@media (max-width: 900px) {
+  .hero,
+  .cta,
+  .grid.three {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 560px) {
+  .nav {
+    display: none;
+  }
+
+  .signup-row {
+    flex-direction: column;
+  }
+
+  .footer {
+    flex-direction: column;
+    gap: 0.4rem;
+  }
+}

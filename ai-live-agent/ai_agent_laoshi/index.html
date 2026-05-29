@@ -1,45 +1,80 @@
 <!doctype html>
 <html lang="en">
+
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta
-      name="description"
-      content="AI Agent Laoshi is a live Mandarin tutor app with real-time voice, camera context, and personalized corrections."
-    >
+    <meta name="description"
+      content="AI Agent Laoshi is a live Mandarin tutor app with real-time voice, camera context, and personalized corrections.">
     <title>AI Agent Laoshi | Live Mandarin Tutor</title>
+    <meta name="theme-color" content="#0a0a0f">
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@500;600;700&display=swap"
+      rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
   </head>
+
   <body>
-    <header class="header">
-      <a class="logo" href="#top">AI Agent Laoshi</a>
-      <nav class="nav">
+    <header class="site-header" aria-label="Primary navigation">
+      <a class="brand" href="#top" aria-label="AI Agent Laoshi home">
+        <img src="images/Carlier_logo_166x160.png" alt="" width="44" height="44">
+        <span>AI Agent Laoshi</span>
+      </a>
+      <nav class="nav-links" aria-label="Page sections">
         <a href="#features">Features</a>
         <a href="#how">How it works</a>
-        <a href="#cta">Get access</a>
+        <a href="https://play.google.com/store/apps/details?id=com.carlier.ai_agent_laoshi">Download</a>
       </nav>
     </header>
 
     <main id="top">
-      <section class="hero">
-        <div class="hero-copy">
-          <p class="tag">Live AI Mandarin Coach</p>
-          <h1>Practice Mandarin in real time with voice and vision.</h1>
-          <p>
+      <section class="hero" aria-labelledby="hero-title">
+        <img class="hero-bg" src="images/FeatureGraphic1024x500px.png" width="1024" height="500"
+          alt="AI Agent Laoshi app artwork and feature highlights">
+        <div class="hero-overlay" aria-hidden="true"></div>
+
+        <div class="hero-content">
+          <p class="eyebrow">Live AI Mandarin Coach</p>
+          <h1 id="hero-title">Practice Mandarin in real time with voice and vision.</h1>
+          <p class="hero-copy">
             AI Agent Laoshi helps you speak naturally, get instant corrections,
             and build confidence through guided conversations.
           </p>
-           <div class="actions">
-           </div>
+          <div class="hero-actions" aria-label="Primary actions">
+            <a class="button button-primary"
+              href="https://play.google.com/store/apps/details?id=com.carlier.ai_agent_laoshi"
+              aria-label="Download AI Agent Laoshi on Google Play">
+              Download now
+            </a>
+            <a class="button button-secondary" href="#features">Explore features</a>
+          </div>
         </div>
+
         <div class="hero-card" aria-label="Live session preview">
-          <p class="chip">GEMINI LIVE ACTIVE</p>
-          <h2>Session: Daily Mandarin</h2>
-          <ul>
-            <li>Real-time voice conversation</li>
-            <li>Camera context for object learning</li>
-            <li>End-of-session recap and notes</li>
-          </ul>
+          <div class="session-panel">
+            <p class="chip">GEMINI LIVE ACTIVE</p>
+            <h2>Session: Daily Mandarin</h2>
+            <ul>
+              <li>Real-time voice conversation</li>
+              <li>Camera context for object learning</li>
+              <li>End-of-session recap and notes</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <section class="section screenshot-section" aria-labelledby="preview-title">
+        <div>
+          <p class="tag">App preview</p>
+          <h2 id="preview-title">Practice through a focused live session interface.</h2>
+        </div>
+        <div class="screenshot-grid" aria-label="AI Agent Laoshi app screenshots">
+          <img src="images/Screenshot_20260527_183122.jpg" alt="AI Agent Laoshi standby screen">
+          <img src="images/Screenshot_20260527_183134.jpg" alt="AI Agent Laoshi live session screen">
+          <img src="images/Screenshot_20260527_183155.jpg" alt="AI Agent Laoshi settings and controls screen">
         </div>
       </section>
 
@@ -85,11 +120,21 @@
 
     </main>
 
-    <footer class="footer">
-      <p>AI Agent Laoshi</p>
-      <p>Live Mandarin practice for modern learners.</p>
-    </footer>
+    <footer class="download-section" id="cta">
+      <div class="download-inner">
+        <img src="images/AgentLaoshi512x512.png" alt="" width="96" height="96">
+        <div>
+          <p class="eyebrow">Live Mandarin practice</p>
+          <h2>Speak naturally with an AI Mandarin coach.</h2>
+          <p>Practice voice conversations, camera-based vocabulary, and structured corrections from your phone.</p>
+        </div>
+        <a class="button button-primary"
+          href="https://play.google.com/store/apps/details?id=com.carlier.ai_agent_laoshi"
+          aria-label="Download AI Agent Laoshi on Google Play">
+          Download on Google Play
+        </a>
 
     <script src="script.js"></script>
   </body>
+
 </html>

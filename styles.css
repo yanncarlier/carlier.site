@@ -10,25 +10,25 @@
     --color-bg-elevated: #12121a;
     --color-bg-card: #1a1a25;
     --color-border: #2a2a3a;
-    
+
     --color-text: #ffffff;
     --color-text-muted: #a0a0b0;
     --color-text-dim: #6a6a7a;
-    
+
     --color-primary: #6366f1;
     --color-primary-light: #818cf8;
     --color-primary-dark: #4f46e5;
     --color-accent-1: #22d3ee;
     --color-accent-2: #f472b6;
     --color-accent-3: #a78bfa;
-    
+
     --color-success: #34d399;
     --color-warning: #fbbf24;
-    
+
     /* Typography */
     --font-display: 'Space Grotesk', sans-serif;
     --font-body: 'Inter', sans-serif;
-    
+
     --text-xs: 0.75rem;
     --text-sm: 0.875rem;
     --text-base: 1rem;
@@ -40,7 +40,7 @@
     --text-5xl: 3rem;
     --text-6xl: 3.75rem;
     --text-7xl: 4.5rem;
-    
+
     /* Spacing */
     --space-1: 0.25rem;
     --space-2: 0.5rem;
@@ -54,12 +54,12 @@
     --space-16: 4rem;
     --space-20: 5rem;
     --space-24: 6rem;
-    
+
     /* Transitions */
     --transition-fast: 150ms ease;
     --transition-base: 250ms ease;
     --transition-slow: 350ms ease;
-    
+
     /* Shadows */
     --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.3);
     --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.4);
@@ -69,7 +69,9 @@
 }
 
 /* Reset & Base */
-*, *::before, *::after {
+*,
+*::before,
+*::after {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
@@ -145,9 +147,9 @@ img {
     right: 0;
     z-index: 1000;
     padding: var(--space-4) 0;
-    transition: background-color var(--transition-base), 
-                backdrop-filter var(--transition-base),
-                box-shadow var(--transition-base);
+    transition: background-color var(--transition-base),
+        backdrop-filter var(--transition-base),
+        box-shadow var(--transition-base);
 }
 
 .nav.scrolled {
@@ -397,15 +399,20 @@ html[lang="zh-CN"] {
 }
 
 @keyframes float {
-    0%, 100% {
+
+    0%,
+    100% {
         transform: translate(0, 0) scale(1);
     }
+
     25% {
         transform: translate(50px, -50px) scale(1.1);
     }
+
     50% {
         transform: translate(0, 50px) scale(0.95);
     }
+
     75% {
         transform: translate(-50px, -25px) scale(1.05);
     }
@@ -442,10 +449,13 @@ html[lang="zh-CN"] {
 }
 
 @keyframes pulse {
-    0%, 100% {
+
+    0%,
+    100% {
         opacity: 1;
         transform: scale(1);
     }
+
     50% {
         opacity: 0.5;
         transform: scale(1.2);
@@ -606,10 +616,13 @@ html[lang="zh-CN"] {
 }
 
 @keyframes scroll {
-    0%, 100% {
+
+    0%,
+    100% {
         transform: translateY(0);
         opacity: 1;
     }
+
     50% {
         transform: translateY(8px);
         opacity: 0.3;
@@ -617,9 +630,12 @@ html[lang="zh-CN"] {
 }
 
 @keyframes bounce {
-    0%, 100% {
+
+    0%,
+    100% {
         transform: translateX(-50%) translateY(0);
     }
+
     50% {
         transform: translateX(-50%) translateY(-10px);
     }
@@ -771,9 +787,17 @@ html[lang="zh-CN"] {
     border-radius: 50%;
 }
 
-.code-dot--red { background-color: #ef4444; }
-.code-dot--yellow { background-color: #fbbf24; }
-.code-dot--green { background-color: #34d399; }
+.code-dot--red {
+    background-color: #ef4444;
+}
+
+.code-dot--yellow {
+    background-color: #fbbf24;
+}
+
+.code-dot--green {
+    background-color: #34d399;
+}
 
 .code-filename {
     margin-left: auto;
@@ -791,14 +815,37 @@ html[lang="zh-CN"] {
     overflow-x: auto;
 }
 
-.code-keyword { color: #c084fc; }
-.code-variable { color: #60a5fa; }
-.code-property { color: #f472b6; }
-.code-string { color: #34d399; }
-.code-comment { color: #6a6a7a; }
-.code-function { color: #fbbf24; }
-.code-method { color: #60a5fa; }
-.code-boolean { color: #f472b6; }
+.code-keyword {
+    color: #c084fc;
+}
+
+.code-variable {
+    color: #60a5fa;
+}
+
+.code-property {
+    color: #f472b6;
+}
+
+.code-string {
+    color: #34d399;
+}
+
+.code-comment {
+    color: #6a6a7a;
+}
+
+.code-function {
+    color: #fbbf24;
+}
+
+.code-method {
+    color: #60a5fa;
+}
+
+.code-boolean {
+    color: #f472b6;
+}
 
 /* ========================================
    Skills Section
@@ -995,9 +1042,9 @@ html[lang="zh-CN"] {
 }
 
 .project-card-logo {
-    width: 120px;
-    height: 120px;
-    border-radius: 24px;
+    width: 250px;
+    height: 250px;
+    border-radius: 30px;
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
     object-fit: cover;
     transition: transform var(--transition-base);
@@ -1335,6 +1382,7 @@ html[lang="zh-CN"] {
         opacity: 0;
         transform: translateY(20px);
     }
+
     to {
         opacity: 1;
         transform: translateY(0);
@@ -1348,7 +1396,7 @@ html[lang="zh-CN"] {
     .nav-toggle {
         display: flex;
     }
-    
+
     .nav-menu {
         position: fixed;
         top: 0;
@@ -1362,15 +1410,15 @@ html[lang="zh-CN"] {
         transform: translateX(100%);
         transition: transform var(--transition-base);
     }
-    
+
     .nav-menu.active {
         transform: translateX(0);
     }
-    
+
     .nav-link {
         font-size: var(--text-xl);
     }
-    
+
     .nav-link--cta {
         margin-top: var(--space-4);
     }
@@ -1415,28 +1463,28 @@ html[lang="zh-CN"] {
     .lang-option.active::before {
         content: "✓ ";
     }
-    
+
     .hero-title {
         font-size: var(--text-4xl);
     }
-    
+
     .hero-stats {
         flex-direction: column;
         gap: var(--space-6);
     }
-    
+
     .scroll-indicator {
         display: none;
     }
-    
+
     .section-title {
         font-size: var(--text-3xl);
     }
-    
+
     .hero-cta {
         flex-direction: column;
     }
-    
+
     .btn {
         width: 100%;
     }

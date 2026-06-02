@@ -11,6 +11,7 @@ const translations = {
         nav: {
             about: 'About',
             skills: 'Skills',
+            projects: 'Projects',
             cta: "Let's Talk"
         },
         hero: {
@@ -45,6 +46,32 @@ const translations = {
             ai: 'AI Systems',
             infra: 'Infrastructure'
         },
+        projects: {
+            tag: 'Featured Work',
+            title: "Projects I've built",
+            view: 'View Project',
+            tags: {
+                mobile: 'Mobile App',
+                aiScanner: 'AI Scanner',
+                aiTutor: 'AI Tutor'
+            },
+            coin: {
+                title: 'Coin Identifier',
+                desc: 'AI-powered coin scanner app for collectors. Instantly identify coins, estimate market values, check rarity, and catalog your collection.'
+            },
+            cantonese: {
+                title: 'AI Agent Lousi',
+                desc: 'Speak and practice Cantonese in real time with a live AI Cantonese teacher featuring natural voice chat and camera-based context.'
+            },
+            mandarin: {
+                title: 'AI Agent Laoshi',
+                desc: 'Practice Mandarin in real time with a live AI Mandarin coach featuring real-time voice, vision-guided practice, and instant corrections.'
+            },
+            thai: {
+                title: 'AI Agent Khru',
+                desc: 'Learn and practice Thai in real time with a live AI Thai teacher featuring voice chat, camera-based vocabulary, and structured corrections.'
+            }
+        },
         contact: {
             tag: 'Get In Touch',
             title: "Let's build something amazing together",
@@ -54,6 +81,7 @@ const translations = {
             tagline: 'Building products that make a difference.',
             about: 'About',
             skills: 'Skills',
+            projects: 'Projects',
             contact: 'Contact',
             copyright: '© 2026 Carlier. All rights reserved.',
             crafted: 'Crafted with passion'
@@ -66,6 +94,7 @@ const translations = {
         nav: {
             about: 'Sobre',
             skills: 'Competências',
+            projects: 'Projetos',
             cta: 'Fale Comigo'
         },
         hero: {
@@ -100,6 +129,32 @@ const translations = {
             ai: 'Sistemas de IA',
             infra: 'Infraestrutura'
         },
+        projects: {
+            tag: 'Trabalhos em Destaque',
+            title: 'Projetos que criei',
+            view: 'Ver Projeto',
+            tags: {
+                mobile: 'App Móvel',
+                aiScanner: 'Scanner de IA',
+                aiTutor: 'Tutor de IA'
+            },
+            coin: {
+                title: 'Coin Identifier',
+                desc: 'Aplicação de scanner de moedas com IA para colecionadores. Identifique moedas instantaneamente, estime valores de mercado e catalogue a sua coleção.'
+            },
+            cantonese: {
+                title: 'AI Agent Lousi',
+                desc: 'Fale e pratique cantonês em tempo real com um tutor de IA ao vivo com chat de voz natural e contexto de câmara.'
+            },
+            mandarin: {
+                title: 'AI Agent Laoshi',
+                desc: 'Pratique mandarim em tempo real com um tutor de IA ao vivo com voz em tempo real, prática guiada por visão e correções instantâneas.'
+            },
+            thai: {
+                title: 'AI Agent Khru',
+                desc: 'Aprenda e pratique tailandês em tempo real com um tutor de IA ao vivo com chat de voz, vocabulário baseado em câmara e correções estruturadas.'
+            }
+        },
         contact: {
             tag: 'Contacte-me',
             title: 'Vamos construir algo incrível juntos',
@@ -109,6 +164,7 @@ const translations = {
             tagline: 'A construir produtos que fazem a diferença.',
             about: 'Sobre',
             skills: 'Competências',
+            projects: 'Projetos',
             contact: 'Contacto',
             copyright: '© 2026 Carlier. Todos os direitos reservados.',
             crafted: 'Criado com paixão'
@@ -121,6 +177,7 @@ const translations = {
         nav: {
             about: 'Sobre',
             skills: 'Habilidades',
+            projects: 'Proyectos',
             cta: 'Hablemos'
         },
         hero: {
@@ -155,6 +212,32 @@ const translations = {
             ai: 'Sistemas de IA',
             infra: 'Infraestructura'
         },
+        projects: {
+            tag: 'Trabajos Destacados',
+            title: 'Proyectos que he creado',
+            view: 'Ver Proyecto',
+            tags: {
+                mobile: 'App Móvil',
+                aiScanner: 'Escáner de IA',
+                aiTutor: 'Tutor de IA'
+            },
+            coin: {
+                title: 'Coin Identifier',
+                desc: 'Aplicación de escáner de monedas con IA para coleccionistas. Identifica monedas al instante, estima valores de mercado y cataloga tu colección.'
+            },
+            cantonese: {
+                title: 'AI Agent Lousi',
+                desc: 'Habla y practica cantonés en tiempo real con un tutor de IA en vivo con chat de voz natural y contexto de cámara.'
+            },
+            mandarin: {
+                title: 'AI Agent Laoshi',
+                desc: 'Practica mandarín en tiempo real con un tutor de IA en vivo con voz en tiempo real, práctica guiada por visión y correcciones al instante.'
+            },
+            thai: {
+                title: 'AI Agent Khru',
+                desc: 'Aprende y practica tailandés en tiempo real con un tutor de IA en vivo con chat de voz, vocabulario basado en cámara y correcciones estructuradas.'
+            }
+        },
         contact: {
             tag: 'Ponte en Contacto',
             title: 'Construyamos algo increíble juntos',
@@ -164,6 +247,7 @@ const translations = {
             tagline: 'Construyendo productos que marcan la diferencia.',
             about: 'Sobre',
             skills: 'Habilidades',
+            projects: 'Proyectos',
             contact: 'Contacto',
             copyright: '© 2026 Carlier. Todos los derechos reservados.',
             crafted: 'Creado con pasión'
@@ -176,6 +260,7 @@ const translations = {
         nav: {
             about: 'À Propos',
             skills: 'Compétences',
+            projects: 'Projets',
             cta: 'Discutons'
         },
         hero: {
@@ -210,6 +295,32 @@ const translations = {
             ai: 'Systèmes d\'IA',
             infra: 'Infrastructure'
         },
+        projects: {
+            tag: 'Travaux Récents',
+            title: 'Projets que j\'ai créés',
+            view: 'Voir le Projet',
+            tags: {
+                mobile: 'App Mobile',
+                aiScanner: 'Scanner IA',
+                aiTutor: 'Tuteur IA'
+            },
+            coin: {
+                title: 'Coin Identifier',
+                desc: 'Application de scanner de pièces alimentée par l\'IA pour les collectionneurs. Identifiez instantanément les pièces, estimez les valeurs de marché et cataloguez votre collection.'
+            },
+            cantonese: {
+                title: 'AI Agent Lousi',
+                desc: 'Parlez et pratiquez le cantonais en temps réel avec un tuteur IA en direct avec chat vocal naturel et contexte de caméra.'
+            },
+            mandarin: {
+                title: 'AI Agent Laoshi',
+                desc: 'Pratiquez le mandarin en temps réel avec un tuteur IA en direct avec voix en temps réel, pratique guidée par la vision et corrections instantanées.'
+            },
+            thai: {
+                title: 'AI Agent Khru',
+                desc: 'Apprenez et pratiquez le thaï en temps réel avec un tuteur IA en direct avec chat vocal, vocabulaire basé sur la caméra et corrections structurées.'
+            }
+        },
         contact: {
             tag: 'Prenez Contact',
             title: 'Construisons quelque chose d\'incroyable ensemble',
@@ -219,6 +330,7 @@ const translations = {
             tagline: 'Construire des produits qui font la différence.',
             about: 'À Propos',
             skills: 'Compétences',
+            projects: 'Projets',
             contact: 'Contact',
             copyright: '© 2026 Carlier. Tous droits réservés.',
             crafted: 'Conçu avec passion'
@@ -231,6 +343,7 @@ const translations = {
         nav: {
             about: '關於',
             skills: '技能',
+            projects: '專案',
             cta: '聯繫我'
         },
         hero: {
@@ -265,6 +378,32 @@ const translations = {
             ai: 'AI 系統',
             infra: '基礎設施'
         },
+        projects: {
+            tag: '精選作品',
+            title: '我構建的專案',
+            view: '查看專案',
+            tags: {
+                mobile: '行動應用',
+                aiScanner: 'AI 掃描器',
+                aiTutor: 'AI 導師'
+            },
+            coin: {
+                title: 'Coin Identifier',
+                desc: '專為收藏家設計的 AI 硬幣掃描應用。即時識別硬幣、估算市場價值並整理您的收藏。'
+            },
+            cantonese: {
+                title: 'AI Agent Lousi',
+                desc: '透過即時語音聊天與相機輔助上下文，與 AI 粵語老師進行即時粵語對話與練習。'
+            },
+            mandarin: {
+                title: 'AI Agent Laoshi',
+                desc: '透過即時語音、視覺引導練習與即時糾錯，與 AI 國語教練進行即時國語練習。'
+            },
+            thai: {
+                title: 'AI Agent Khru',
+                desc: '透過語音聊天、基於相機的詞彙練習與結構化糾錯，與 AI 泰語老師進行即時泰語學習與練習。'
+            }
+        },
         contact: {
             tag: '聯繫我',
             title: '讓我們一起構建驚人的產品',
@@ -274,6 +413,7 @@ const translations = {
             tagline: '構建改變世界的產品。',
             about: '關於',
             skills: '技能',
+            projects: '專案',
             contact: '聯繫',
             copyright: '© 2026 Carlier. 版權所有。',
             crafted: '用心打造'
@@ -286,6 +426,7 @@ const translations = {
         nav: {
             about: '关于',
             skills: '技能',
+            projects: '项目',
             cta: '联系我'
         },
         hero: {
@@ -305,7 +446,7 @@ const translations = {
             tag: '关于我',
             title: '构建有价值的产品',
             text1: '我是一名创始人兼软件工程师，热衷于创造有影响力的产品。凭借从移动开发、SaaS、AI 系统到系统架构的专业知识，我帮助初创企业和公司实现他们的愿景。',
-            text2: '无论是原生移动应用、AI 系统、跨平台解决方案还是可扩展的 SaaS 平台，我以用户体验、性能和业务目标为重点来处理每个项目。',
+            text2: '无论是原生移动应用、AI 系统、跨平台解决方案还是可扩展的 SaaS 平台，我以用户体验、性能 and 业务目标为重点来处理每个项目。',
             value1: { title: '执行', desc: '快速原型设计和迭代开发，让您的产品快速进入市场。' },
             value2: { title: '端到端', desc: '从设计到部署，我处理产品开发的各个方面。' },
             value3: { title: '品质', desc: '每个项目都注重清晰的代码、周到的 UX 和可扩展的架构。' }
@@ -320,15 +461,42 @@ const translations = {
             ai: 'AI 系统',
             infra: '基础设施'
         },
+        projects: {
+            tag: '精选作品',
+            title: '我构建的项目',
+            view: '查看项目',
+            tags: {
+                mobile: '移动应用',
+                aiScanner: 'AI 扫描器',
+                aiTutor: 'AI 导师'
+            },
+            coin: {
+                title: 'Coin Identifier',
+                desc: '专为收藏家设计的 AI 硬币扫描应用。即时识别硬币、估算市场价值并整理您的收藏。'
+            },
+            cantonese: {
+                title: 'AI Agent Lousi',
+                desc: '通过即时语音聊天与相机辅助上下文，与 AI 粤语老师进行即时粤语对话与练习。'
+            },
+            mandarin: {
+                title: 'AI Agent Laoshi',
+                desc: '通过即时语音、视觉引导练习与即时纠错，与 AI 国语教练进行即时国语练习。'
+            },
+            thai: {
+                title: 'AI Agent Khru',
+                desc: '通过语音聊天、基于相机的词汇练习与结构化纠错，与 AI 泰语老师进行即时泰语学习与练习。'
+            }
+        },
         contact: {
             tag: '联系我',
-            title: '让我们一起构建惊人的产品',
+            title: 'lets build something amazing together',
             text: '有项目想法？正在寻找技术合作伙伴？我很乐意听取您的想法。让我们讨论如何实现您的愿景。'
         },
         footer: {
             tagline: '构建改变世界的产品。',
             about: '关于',
             skills: '技能',
+            projects: '项目',
             contact: '联系',
             copyright: '© 2026 Carlier. 版权所有。',
             crafted: '用心打造'
@@ -341,6 +509,7 @@ const translations = {
         nav: {
             about: 'परिचय',
             skills: 'कौशल',
+            projects: 'प्रोजेक्ट्स',
             cta: 'संपर्क करें'
         },
         hero: {
@@ -375,15 +544,32 @@ const translations = {
             ai: 'AI सिस्टम',
             infra: 'इन्फ्रास्ट्रक्चर'
         },
-        contact: {
-            tag: 'संपर्क करें',
-            title: 'आइए मिलकर कुछ अद्भुत बनाएं',
-            text: 'क्या आपके मन में कोई प्रोजेक्ट है? क्या आप एक टेक्निकल पार्टनर खोज रहे हैं? मैं इसके बारे में सुनना पसंद करूंगा। आइए चर्चा करें कि हम आपकी दृष्टि को कैसे साकार कर सकते हैं।'
-        },
-        footer: {
-            tagline: 'ऐसे उत्पाद बना रहे हैं जो बदलाव लाते हैं।',
-            about: 'परिचय',
-            skills: 'कौशल',
+        projects: {
+            tag: 'विशेष कार्य',
+            title: 'मेरे द्वारा बनाए गए प्रोजेक्ट्स',
+            view: 'प्रोजेक्ट देखें',
+            tags: {
+                mobile: 'मोबाइल ऐप',
+                aiScanner: 'AI स्कैनर',
+                aiTutor: 'AI ट्यूटर'
+            },
+            coin: {
+                title: 'Coin Identifier',
+                desc: 'संग्रहकर्ताओं के लिए AI-संचालित सिक्का स्कैनर ऐप। सिक्कों की तुरंत पहचान करें, बाजार मूल्य का अनुमान लगाएं, और संग्रह का कैटलॉग बनाएं।'
+            },
+            cantonese: {
+                title: 'AI Agent Lousi',
+                desc: 'प्राकृतिक वॉयस चैट और कैमरा-आधारित संदर्भ के साथ लाइव AI कैंटोनीज़ शिक्षक के साथ वास्तविक समय में अभ्यास करें।'
+            },
+            mandarin: {
+                title: 'AI Agent Laoshi',
+                desc: 'वास्तविक समय की आवाज, विजन-गाइडेड अभ्यास और त्वरित सुधारों के साथ लाइव AI मंदारिन कोच के साथ अभ्यास करें।'
+            },
+            thai: {
+                title: 'AI Agent Khru',
+                desc: 'वॉयस चैट, कैमरा-आधारित शब्दावली और संरचित सुधारों के साथ लाइव AI थाई शिक्षक के साथ वास्तविक समय में सीखें और अभ्यास करें।'
+            }
+        },,
             contact: 'संपर्क',
             copyright: '© 2026 Carlier. सर्वाधिकार सुरक्षित।',
             crafted: 'जुनून के साथ बनाया गया'
@@ -396,6 +582,7 @@ const translations = {
         nav: {
             about: '概要',
             skills: 'スキル',
+            projects: 'プロジェクト',
             cta: 'お問い合わせ'
         },
         hero: {
@@ -429,6 +616,32 @@ const translations = {
             design: 'デザインとプロダクト',
             ai: 'AIシステム',
             infra: 'インフラ'
+        },
+        projects: {
+            tag: '主な作品',
+            title: '私が構築したプロジェクト',
+            view: 'プロジェクトを見る',
+            tags: {
+                mobile: 'モバイルアプリ',
+                aiScanner: 'AIスキャナー',
+                aiTutor: 'AIチューター'
+            },
+            coin: {
+                title: 'Coin Identifier',
+                desc: 'コレクター向けのAI搭載コインスキャナーアプリ。コインの即時識別、市場価値の推定、コレクションのカタログ化。'
+            },
+            cantonese: {
+                title: 'AI Agent Lousi',
+                desc: '自然な音声チャットとカメラの文脈を使用して、AI広東語教師とリアルタイムで広東語を練習します。'
+            },
+            mandarin: {
+                title: 'AI Agent Laoshi',
+                desc: 'リアルタイム音声、視覚ガイド付き練習、即時修正を使用して、AI中国語コーチとリアルタイムで中国語を練習します。'
+            },
+            thai: {
+                title: 'AI Agent Khru',
+                desc: '音声チャット、カメラベースの語彙、構造化された修正を使用して、AIタイ語教師とリアルタイムでタイ語を学習・練習します。'
+            }
         },
         contact: {
             tag: 'お問い合わせ',

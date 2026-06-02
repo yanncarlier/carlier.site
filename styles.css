@@ -978,6 +978,36 @@ html[lang="zh-CN"] {
     background: linear-gradient(135deg, #34d399, #10b981);
 }
 
+.project-placeholder--cantonese {
+    background: linear-gradient(135deg, #ff4e50, #f9d423);
+}
+
+.project-placeholder--chinese {
+    background: linear-gradient(135deg, #f857a6, #ff5858);
+}
+
+.project-placeholder--thai {
+    background: linear-gradient(135deg, #1f4068, #162447);
+}
+
+.project-placeholder--coin {
+    background: linear-gradient(135deg, #800020, #4a0e17);
+}
+
+.project-card-logo {
+    width: 120px;
+    height: 120px;
+    border-radius: 24px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+    object-fit: cover;
+    transition: transform var(--transition-base);
+}
+
+.project-card:hover .project-card-logo {
+    transform: scale(1.05);
+}
+
+
 .project-overlay {
     position: absolute;
     inset: 0;

@@ -724,6 +724,338 @@ const translations = {
         accessibility: {
             skipToMain: 'انتقل إلى المحتوى الرئيسي'
         }
+    },
+    de: {
+        nav: {
+            about: 'Über',
+            skills: 'Fähigkeiten',
+            projects: 'Projekte',
+            cta: 'Lass uns sprechen'
+        },
+        hero: {
+            title1: 'Vom Konzept zum Launch, Ideen in Produkte verwandeln.',
+            title2: '',
+            subtitle1: 'Ich baue ',
+            highlight1: 'Mobile Apps',
+            subtitle2: ', ',
+            highlight2: 'SaaS-Lösungen',
+            subtitle3: ' und ',
+            highlight3: 'KI-Systeme',
+            subtitle4: ', die skalieren.',
+            subtitle5: 'Mobile Apps, SaaS-Lösungen und KI-Systeme bauen, die skalieren',
+            cta: 'Kontaktieren'
+        },
+        about: {
+            tag: 'Über mich',
+            title: 'Produkte bauen, die zählen',
+            text1: 'Ich bin ein Gründer und Software-Ingenieur, der leidenschaftlich daran ist, wirkungsvolle Produkte zu schaffen. Mit Expertise in mobiler Entwicklung, SaaS, KI-Systemen und Systemarchitektur helfe ich Startups und Unternehmen, ihre Visionen zu verwirklichen.',
+            text2: 'Ob native Mobile-App, KI-System, plattformübergreifende Lösung oder skalierbare SaaS-Plattform – ich gehe jedes Projekt mit Fokus auf Benutzererfahrung, Leistung und Geschäftsziele an.',
+            value1: { title: 'Umsetzung', desc: 'Schnelles Prototyping und iterative Entwicklung, um Ihr Produkt schnell auf den Markt zu bringen.' },
+            value2: { title: 'End-to-End', desc: 'Vom Design bis zur Deployment kümmere ich mich um jeden Aspekt der Produktentwicklung.' },
+            value3: { title: 'Qualität', desc: 'Sauberer Code, durchdachtes UX und skalierbare Architektur in jedem Projekt.' }
+        },
+        skills: {
+            tag: 'Expertise',
+            title: 'Technologien, mit denen ich arbeite',
+            mobile: 'Mobile Entwicklung',
+            web: 'Web & SaaS',
+            business: 'Business-Software-Lösungen',
+            design: 'Design & Produkt',
+            ai: 'KI-Systeme',
+            infra: 'Infrastruktur'
+        },
+        projects: {
+            tag: 'Ausgewählte Arbeiten',
+            title: 'Projekte, die ich gebaut habe',
+            view: 'Projekt ansehen',
+            tags: {
+                mobile: 'Mobile App',
+                aiScanner: 'KI-Scanner',
+                aiTutor: 'KI-Tutor'
+            },
+            coin: {
+                title: 'Coin Identifier',
+                desc: 'KI-gesteuerte Münzscanner-App für Sammler. Identifizieren Sie Münzen sofort, schätzen Sie Marktwerte und katalogisieren Sie Ihre Sammlung.'
+            },
+            cantonese: {
+                title: 'AI Agent Lousi',
+                desc: 'Sprechen und üben Sie Kantonesisch in Echtzeit mit einem live KI-Kantonesisch-Lehrer mit natürlichem Sprachchat und kamerabasiertem Kontext.'
+            },
+            mandarin: {
+                title: 'AI Agent Laoshi',
+                desc: 'Üben Sie Mandarin in Echtzeit mit einem live KI-Mandarin-Coach mit Echtzeit-Stimme, visiongeführter Übung und sofortiger Korrektur.'
+            },
+            thai: {
+                title: 'AI Agent Khru',
+                desc: 'Lernen und üben Sie Thai in Echtzeit mit einem live KI-Thai-Lehrer mit Sprachchat, kamerabasiertem Wortschatz und strukturierten Korrekturen.'
+            }
+        },
+        contact: {
+            tag: 'Kontaktieren',
+            title: 'Lass uns etwas Großartiges zusammen bauen',
+            text: 'Haben Sie eine Projektidee? Suchen Sie einen technischen Partner? Ich würde gerne davon hören. Lass uns besprechen, wie wir Ihre Vision verwirklichen können.'
+        },
+        footer: {
+            tagline: 'Produkte bauen, die einen Unterschied machen.',
+            about: 'Über',
+            skills: 'Fähigkeiten',
+            projects: 'Projekte',
+            contact: 'Kontakt',
+            copyright: '© 2026 Carlier. Alle Rechte vorbehalten.',
+            crafted: 'Mit Leidenschaft erstellt'
+        },
+        accessibility: {
+            skipToMain: 'Zum Hauptinhalt springen'
+        }
+    },
+    it: {
+        nav: {
+            about: 'Chi sono',
+            skills: 'Competenze',
+            projects: 'Progetti',
+            cta: 'Parliamone'
+        },
+        hero: {
+            title1: 'Dal concetto al lancio, Trasformare le Idee in Prodotti.',
+            title2: '',
+            subtitle1: 'Costruisco ',
+            highlight1: 'App Mobile',
+            subtitle2: ', ',
+            highlight2: 'soluzioni SaaS',
+            subtitle3: ' e ',
+            highlight3: 'Sistemi IA',
+            subtitle4: ' che scalano.',
+            subtitle5: 'Costruisco App Mobile, soluzioni SaaS e Sistemi IA che scalano',
+            cta: 'Contattami'
+        },
+        about: {
+            tag: 'Chi sono',
+            title: 'Costruire prodotti che contano',
+            text1: 'Sono un fondatore e Ingegnere del Software appassionato di creare prodotti impattanti. Con competenze che spaziano dallo sviluppo mobile, SaaS, Sistemi IA e Architettura dei Sistemi, aiuto startup e aziende a realizzare le loro visioni.',
+            text2: 'Che si tratti di un\'app mobile nativa, un sistema IA, una soluzione multipiattaforma o una piattaforma SaaS scalabile, affronto ogni progetto con focus sull\'esperienza utente, performance e obiettivi di business.',
+            value1: { title: 'Esecuzione', desc: 'Prototipazione rapida e sviluppo iterativo per portare il tuo prodotto sul mercato velocemente.' },
+            value2: { title: 'End-to-End', desc: 'Dal design al deployment, gestisco ogni aspetto dello sviluppo del prodotto.' },
+            value3: { title: 'Qualità', desc: 'Codice pulito, UX ben pensata e architettura scalabile in ogni progetto.' }
+        },
+        skills: {
+            tag: 'Competenze',
+            title: 'Tecnologie con cui lavoro',
+            mobile: 'Sviluppo Mobile',
+            web: 'Web & SaaS',
+            business: 'Soluzioni Software Aziendali',
+            design: 'Design & Prodotto',
+            ai: 'Sistemi IA',
+            infra: 'Infrastruttura'
+        },
+        projects: {
+            tag: 'Lavori in Evidenza',
+            title: 'Progetti che ho creato',
+            view: 'Vedi Progetto',
+            tags: {
+                mobile: 'App Mobile',
+                aiScanner: 'Scanner IA',
+                aiTutor: 'Tutor IA'
+            },
+            coin: {
+                title: 'Coin Identifier',
+                desc: 'App di scanner di monete alimentata dall\'IA per collezionisti. Identifica le monete istantaneamente, stima i valori di mercato e cataloga la tua collezione.'
+            },
+            cantonese: {
+                title: 'AI Agent Lousi',
+                desc: 'Parla e pratica il cantonese in tempo reale con un tutor IA cantonese dal vivo con chat vocale naturale e contesto basato sulla fotocamera.'
+            },
+            mandarin: {
+                title: 'AI Agent Laoshi',
+                desc: 'Pratica il mandarino in tempo reale con un coach IA mandarino dal vivo con voce in tempo reale, pratica guidata dalla visione e correzioni istantanee.'
+            },
+            thai: {
+                title: 'AI Agent Khru',
+                desc: 'Impara e pratica il tailandese in tempo reale con un tutor IA tailandese dal vivo con chat vocale, vocabolario basato sulla fotocamera e correzioni strutturate.'
+            }
+        },
+        contact: {
+            tag: 'Contattami',
+            title: 'Costruiamo qualcosa di incredibile insieme',
+            text: 'Hai un\'idea di progetto? Cerchi un partner tecnico? Mi piacerebbe sentirne parlare. Discutiamo come possiamo realizzare la tua visione.'
+        },
+        footer: {
+            tagline: 'Costruire prodotti che fanno la differenza.',
+            about: 'Chi sono',
+            skills: 'Competenze',
+            projects: 'Progetti',
+            contact: 'Contatto',
+            copyright: '© 2026 Carlier. Tutti i diritti riservati.',
+            crafted: 'Creato con passione'
+        },
+        accessibility: {
+            skipToMain: 'Vai al contenuto principale'
+        }
+    },
+    ko: {
+        nav: {
+            about: '소개',
+            skills: '기술',
+            projects: '프로젝트',
+            cta: '연락하기'
+        },
+        hero: {
+            title1: '컨셉에서 출시까지, 아이디어를 제품으로 변환합니다.',
+            title2: '',
+            subtitle1: '구축 중 ',
+            highlight1: '모바일 앱',
+            subtitle2: ', ',
+            highlight2: 'SaaS 솔루션',
+            subtitle3: ' 및 ',
+            highlight3: 'AI 시스템',
+            subtitle4: ' 확장 가능합니다.',
+            subtitle5: '확장 가능한 모바일 앱, SaaS 솔루션 및 AI 시스템 구축',
+            cta: '연락하기'
+        },
+        about: {
+            tag: '소개',
+            title: '중요한 제품 구축',
+            text1: '저는 영향력 있는 제품을 만드는 데 열정적인 창업자이자 소프트웨어 엔지니어입니다. 모바일 개발, SaaS, AI 시스템 및 시스템 아키텍처에 대한 전문 지식을 통해 스타트업과 기업이 비전을 실현하도록 돕습니다.',
+            text2: '네이티브 모바일 앱, AI 시스템, 크로스 플랫폼 솔루션 또는 확장 가능한 SaaS 플랫폼이든, 사용자 경험, 성능 및 비즈니스 목표에 중점을 두고 모든 프로젝트를 접근합니다.',
+            value1: { title: '실행', desc: '제품을 빠르게 시장에 출시하기 위한 빠른 프로토타이핑 및 반복적 개발.' },
+            value2: { title: '종단 간', desc: '디자인에서 배포까지 제품 개발의 모든 측면을 처리합니다.' },
+            value3: { title: '품질', desc: '모든 프로젝트에서 깔끔한 코드, 신중한 UX 및 확장 가능한 아키텍처.' }
+        },
+        skills: {
+            tag: '전문성',
+            title: '작업하는 기술',
+            mobile: '모바일 개발',
+            web: '웹 및 SaaS',
+            business: '비즈니스 소프트웨어 솔루션',
+            design: '디자인 및 제품',
+            ai: 'AI 시스템',
+            infra: '인프라'
+        },
+        projects: {
+            tag: '주요 작업',
+            title: '구축한 프로젝트',
+            view: '프로젝트 보기',
+            tags: {
+                mobile: '모바일 앱',
+                aiScanner: 'AI 스캐너',
+                aiTutor: 'AI 튜터'
+            },
+            coin: {
+                title: 'Coin Identifier',
+                desc: '수집가를 위한 AI 기반 동전 스캐너 앱. 동전을 즉시 식별하고, 시장 가치를 추정하며, 컬렉션을 카탈로그화하세요.'
+            },
+            cantonese: {
+                title: 'AI Agent Lousi',
+                desc: '자연스러운 음성 채팅과 카메라 기반 컨텍스트로 라이브 AI 광둥어 강사와 실시간으로 광둥어를 말하고 연습하세요.'
+            },
+            mandarin: {
+                title: 'AI Agent Laoshi',
+                desc: '실시간 음성, 비전 기반 연습 및 즉시 수정으로 라이브 AI 만다린 코치와 실시간으로 만다린을 연습하세요.'
+            },
+            thai: {
+                title: 'AI Agent Khru',
+                desc: '음성 채팅, 카메라 기반 어휘 및 구조화된 수정으로 라이브 AI 태어 강사와 실시간으로 태어를 배우고 연습하세요.'
+            }
+        },
+        contact: {
+            tag: '연락하기',
+            title: '함께 놀라운 것을 만들어 봅시다',
+            text: '프로젝트 아이디어가 있으신가요? 기술 파트너를 찾고 계신가요? 듣고 싶습니다. 비전을 실현하는 방법에 대해 논의해 봅시다.'
+        },
+        footer: {
+            tagline: '차이를 만드는 제품을 구축합니다.',
+            about: '소개',
+            skills: '기술',
+            projects: '프로젝트',
+            contact: '연락처',
+            copyright: '© 2026 Carlier. 모든 권리 보유.',
+            crafted: '열정으로 제작'
+        },
+        accessibility: {
+            skipToMain: '주요 콘텐츠로 건너뛰기'
+        }
+    },
+    ru: {
+        nav: {
+            about: 'О себе',
+            skills: 'Навыки',
+            projects: 'Проекты',
+            cta: 'Давайте поговорим'
+        },
+        hero: {
+            title1: 'От концепции до запуска, Превращение идей в продукты.',
+            title2: '',
+            subtitle1: 'Создаю ',
+            highlight1: 'мобильные приложения',
+            subtitle2: ', ',
+            highlight2: 'SaaS-решения',
+            subtitle3: ' и ',
+            highlight3: 'системы ИИ',
+            subtitle4: ', которые масштабируются.',
+            subtitle5: 'Создаю мобильные приложения, SaaS-решения и системы ИИ, которые масштабируются',
+            cta: 'Связаться'
+        },
+        about: {
+            tag: 'О себе',
+            title: 'Создаю продукты, которые имеют значение',
+            text1: 'Я основатель и инженер-программист, увлеченный созданием влиятельных продуктов. С экспертизой в мобильной разработке, SaaS, системах ИИ и системной архитектуре я помогаю стартапам и компаниям реализовать их видения.',
+            text2: 'Будь то нативное мобильное приложение, система ИИ, кроссплатформенное решение или масштабируемая SaaS-платформа, я подхожу к каждому проекту с фокусом на пользовательский опыт, производительность и бизнес-цели.',
+            value1: { title: 'Исполнение', desc: 'Быстрое прототипирование и итеративная разработка для быстрого вывода вашего продукта на рынок.' },
+            value2: { title: 'От начала до конца', desc: 'От дизайна до деплоя я управляю каждым аспектом разработки продукта.' },
+            value3: { title: 'Качество', desc: 'Чистый код, продуманный UX и масштабируемая архитектура в каждом проекте.' }
+        },
+        skills: {
+            tag: 'Экспертиза',
+            title: 'Технологии, с которыми я работаю',
+            mobile: 'Мобильная разработка',
+            web: 'Веб и SaaS',
+            business: 'Корпоративные программные решения',
+            design: 'Дизайн и продукт',
+            ai: 'Системы ИИ',
+            infra: 'Инфраструктура'
+        },
+        projects: {
+            tag: 'Избранные работы',
+            title: 'Проекты, которые я создал',
+            view: 'Смотреть проект',
+            tags: {
+                mobile: 'Мобильное приложение',
+                aiScanner: 'ИИ-сканер',
+                aiTutor: 'ИИ-репетитор'
+            },
+            coin: {
+                title: 'Coin Identifier',
+                desc: 'Приложение для сканирования монет на базе ИИ для коллекционеров. Мгновенно идентифицируйте монеты, оценивайте рыночную стоимость и каталогизируйте свою коллекцию.'
+            },
+            cantonese: {
+                title: 'AI Agent Lousi',
+                desc: 'Говорите и практикуйте кантонский диалект в реальном времени с живым ИИ-преподавателем кантонского с естественным голосовым чатом и контекстом на основе камеры.'
+            },
+            mandarin: {
+                title: 'AI Agent Laoshi',
+                desc: 'Практикуйте мандаринский в реальном времени с живым ИИ-тренером мандаринского с голосом в реальном времени, практикой с визуальным руководством и мгновенными исправлениями.'
+            },
+            thai: {
+                title: 'AI Agent Khru',
+                desc: 'Учитесь и практикуйте тайский в реальном времени с живым ИИ-преподавателем тайского с голосовым чатом, словарным запасом на основе камеры и структурированными исправлениями.'
+            }
+        },
+        contact: {
+            tag: 'Связаться',
+            title: 'Давайте создадим что-то удивительное вместе',
+            text: 'Есть идея проекта? Ищете технического партнера? Мне бы хотелось услышать об этом. Давайте обсудим, как мы можем реализовать ваше видение.'
+        },
+        footer: {
+            tagline: 'Создаю продукты, которые меняют мир.',
+            about: 'О себе',
+            skills: 'Навыки',
+            projects: 'Проекты',
+            contact: 'Контакт',
+            copyright: '© 2026 Carlier. Все права защищены.',
+            crafted: 'Создано с любовью'
+        },
+        accessibility: {
+            skipToMain: 'Перейти к основному содержанию'
+        }
     }
 };
 
@@ -737,7 +1069,11 @@ const langLabels = {
     ja: 'JA',
     ar: 'AR',
     'zh-TW': '繁中',
-    'zh-CN': '简中'
+    'zh-CN': '简中',
+    de: 'DE',
+    it: 'IT',
+    ko: 'KO',
+    ru: 'RU'
 };
 
 // ========================================

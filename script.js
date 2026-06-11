@@ -67,8 +67,8 @@ const translations = {
                 title: 'AI Agent Laoshi',
                 desc: 'Practice Mandarin in real time with a live AI Mandarin coach featuring real-time voice, vision-guided practice, and instant corrections.'
             },
-            thai: {
-                title: 'AI Agent Khru',
+            khru: {
+                title: 'AI Agent Khru (not published yet)',
                 desc: 'Learn and practice Thai in real time with a live AI Thai teacher featuring voice chat, camera-based vocabulary, and structured corrections.'
             }
         },
@@ -131,7 +131,7 @@ const translations = {
         },
         projects: {
             tag: 'Trabalhos em Destaque',
-            title: 'Projetos que criei',
+            title: 'Apps móveis de IA',
             view: 'Ver Projeto',
             tags: {
                 mobile: 'App Móvel',
@@ -150,8 +150,8 @@ const translations = {
                 title: 'AI Agent Laoshi',
                 desc: 'Pratique mandarim em tempo real com um tutor de IA ao vivo com voz em tempo real, prática guiada por visão e correções instantâneas.'
             },
-            thai: {
-                title: 'AI Agent Khru',
+            khru: {
+                title: 'AI Agent Khru (ainda não publicado)',
                 desc: 'Aprenda e pratique tailandês em tempo real com um tutor de IA ao vivo com chat de voz, vocabulário baseado em câmara e correções estruturadas.'
             }
         },
@@ -214,7 +214,7 @@ const translations = {
         },
         projects: {
             tag: 'Trabajos Destacados',
-            title: 'Proyectos que he creado',
+            title: 'Apps móviles de IA',
             view: 'Ver Proyecto',
             tags: {
                 mobile: 'App Móvil',
@@ -233,8 +233,8 @@ const translations = {
                 title: 'AI Agent Laoshi',
                 desc: 'Practica mandarín en tiempo real con un tutor de IA en vivo con voz en tiempo real, práctica guiada por visión y correcciones al instante.'
             },
-            thai: {
-                title: 'AI Agent Khru',
+            khru: {
+                title: 'AI Agent Khru (aún no publicado)',
                 desc: 'Aprende y practica tailandés en tiempo real con un tutor de IA en vivo con chat de voz, vocabulario basado en cámara y correcciones estructuradas.'
             }
         },
@@ -297,7 +297,7 @@ const translations = {
         },
         projects: {
             tag: 'Travaux Récents',
-            title: 'Projets que j\'ai créés',
+            title: 'Apps mobiles IA',
             view: 'Voir le Projet',
             tags: {
                 mobile: 'App Mobile',
@@ -316,8 +316,8 @@ const translations = {
                 title: 'AI Agent Laoshi',
                 desc: 'Pratiquez le mandarin en temps réel avec un tuteur IA en direct avec voix en temps réel, pratique guidée par la vision et corrections instantanées.'
             },
-            thai: {
-                title: 'AI Agent Khru',
+            khru: {
+                title: 'AI Agent Khru (pas encore publié)',
                 desc: 'Apprenez et pratiquez le thaï en temps réel avec un tuteur IA en direct avec chat vocal, vocabulaire basé sur la caméra et corrections structurées.'
             }
         },
@@ -380,7 +380,7 @@ const translations = {
         },
         projects: {
             tag: '精選作品',
-            title: '我構建的專案',
+            title: 'AI 行動應用',
             view: '查看專案',
             tags: {
                 mobile: '行動應用',
@@ -399,8 +399,8 @@ const translations = {
                 title: 'AI Agent Laoshi',
                 desc: '透過即時語音、視覺引導練習與即時糾錯，與 AI 國語教練進行即時國語練習。'
             },
-            thai: {
-                title: 'AI Agent Khru',
+            khru: {
+                title: 'AI Agent Khru (尚未發佈)',
                 desc: '透過語音聊天、基於相機的詞彙練習與結構化糾錯，與 AI 泰語老師進行即時泰語學習與練習。'
             }
         },
@@ -463,7 +463,7 @@ const translations = {
         },
         projects: {
             tag: '精选作品',
-            title: '我构建的项目',
+            title: 'AI 移动应用',
             view: '查看项目',
             tags: {
                 mobile: '移动应用',
@@ -482,8 +482,8 @@ const translations = {
                 title: 'AI Agent Laoshi',
                 desc: '通过即时语音、视觉引导练习与即时纠错，与 AI 国语教练进行即时国语练习。'
             },
-            thai: {
-                title: 'AI Agent Khru',
+            khru: {
+                title: 'AI Agent Khru (尚未发布)',
                 desc: '通过语音聊天、基于相机的词汇练习与结构化纠错，与 AI 泰语老师进行即时泰语学习与练习。'
             }
         },
@@ -546,7 +546,7 @@ const translations = {
         },
         projects: {
             tag: 'विशेष कार्य',
-            title: 'मेरे द्वारा बनाए गए प्रोजेक्ट्स',
+            title: 'AI मोबाइल ऐप्स',
             view: 'प्रोजेक्ट देखें',
             tags: {
                 mobile: 'मोबाइल ऐप',
@@ -565,8 +565,8 @@ const translations = {
                 title: 'AI Agent Laoshi',
                 desc: 'वास्तविक समय की आवाज, विजन-गाइडेड अभ्यास और त्वरित सुधारों के साथ लाइव AI मंदारिन कोच के साथ अभ्यास करें।'
             },
-            thai: {
-                title: 'AI Agent Khru',
+            khru: {
+                title: 'AI Agent Khru (अभी प्रकाशित नहीं हुआ)',
                 desc: 'वॉयस चैट, कैमरा-आधारित शब्दावली और संरचित सुधारों के साथ लाइव AI थाई शिक्षक के साथ वास्तविक समय में सीखें और अभ्यास करें।'
             }
         },
@@ -629,7 +629,7 @@ const translations = {
         },
         projects: {
             tag: '主な作品',
-            title: '私が構築したプロジェクト',
+            title: 'AI モバイルアプリ',
             view: 'プロジェクトを見る',
             tags: {
                 mobile: 'モバイルアプリ',
@@ -648,8 +648,8 @@ const translations = {
                 title: 'AI Agent Laoshi',
                 desc: 'リアルタイム音声、視覚ガイド付き練習、即時修正を使用して、AI中国語コーチとリアルタイムで中国語を練習します。'
             },
-            thai: {
-                title: 'AI Agent Khru',
+            khru: {
+                title: 'AI Agent Khru (まだ公開されていません)',
                 desc: '音声チャット、カメラベースの語彙、構造化された修正を使用して、AIタイ語教師とリアルタイムでタイ語を学習・練習します。'
             }
         },
@@ -662,6 +662,7 @@ const translations = {
             tagline: '変化をもたらす製品を構築しています。',
             about: '概要',
             skills: 'スキル',
+            projects: 'プロジェクト',
             contact: 'お問い合わせ',
             copyright: '© 2026 Carlier. All rights reserved.',
             crafted: '情熱を込めて作られました'
@@ -674,6 +675,7 @@ const translations = {
         nav: {
             about: 'حول',
             skills: 'المهارات',
+            projects: 'المشاريع',
             cta: 'تواصل معي'
         },
         hero: {
@@ -708,6 +710,32 @@ const translations = {
             ai: 'أنظمة الذكاء الاصطناعي',
             infra: 'البنية التحتية'
         },
+        projects: {
+            tag: 'أعمال مميزة',
+            title: 'تطبيقات AI للجوال',
+            view: 'عرض المشروع',
+            tags: {
+                mobile: 'تطبيق جوال',
+                aiScanner: 'ماسح ضوئي للذكاء الاصطناعي',
+                aiTutor: 'مدرس ذكاء اصطناعي'
+            },
+            coin: {
+                title: 'Coin Identifier',
+                desc: 'تطبيق ماسح عملات يعمل بالذكاء الاصطناعي لهواة الجمع. يحدد العملات على الفور، ويقدر قيم السوق، ويفهرس مجموعتك.'
+            },
+            cantonese: {
+                title: 'AI Agent Lousi',
+                desc: 'تعلم وتدرب على الكانتونية في الوقت الفعلي مع مدرس كانتونيز AI مباشر يتميز بدردشة صوتية طبيعية وسياق مبني على الكاميرا.'
+            },
+            mandarin: {
+                title: 'AI Agent Laoshi',
+                desc: 'تعلم وتدرب على الماندرين في الوقت الفعلي مع مدرب ماندرين AI مباشر بصوت مباشر، ممارسة موجهة برؤية، وتصحيحات فورية.'
+            },
+            khru: {
+                title: 'AI Agent Khru (لم يتم نشره بعد)',
+                desc: 'تعلم وتدرب على التايلاندية في الوقت الفعلي مع مدرس تايلاندي AI مباشر يتميز بدردشة صوتية، ومفردات تعتمد على الكاميرا، وتصحيحات منظمة.'
+            }
+        },
         contact: {
             tag: 'تواصل معي',
             title: 'لنبني شيئاً رائعاً معاً',
@@ -717,6 +745,7 @@ const translations = {
             tagline: 'نبني منتجات تحدث فرقاً.',
             about: 'حول',
             skills: 'المهارات',
+            projects: 'المشاريع',
             contact: 'تواصل',
             copyright: '© 2026 Carlier. جميع الحقوق محفوظة.',
             crafted: 'صُنع بحب'
@@ -766,7 +795,7 @@ const translations = {
         },
         projects: {
             tag: 'Ausgewählte Arbeiten',
-            title: 'Projekte, die ich gebaut habe',
+            title: 'KI Mobile Apps',
             view: 'Projekt ansehen',
             tags: {
                 mobile: 'Mobile App',
@@ -785,8 +814,8 @@ const translations = {
                 title: 'AI Agent Laoshi',
                 desc: 'Üben Sie Mandarin in Echtzeit mit einem live KI-Mandarin-Coach mit Echtzeit-Stimme, visiongeführter Übung und sofortiger Korrektur.'
             },
-            thai: {
-                title: 'AI Agent Khru',
+            khru: {
+                title: 'AI Agent Khru (noch nicht veröffentlicht)',
                 desc: 'Lernen und üben Sie Thai in Echtzeit mit einem live KI-Thai-Lehrer mit Sprachchat, kamerabasiertem Wortschatz und strukturierten Korrekturen.'
             }
         },
@@ -849,7 +878,7 @@ const translations = {
         },
         projects: {
             tag: 'Lavori in Evidenza',
-            title: 'Progetti che ho creato',
+            title: 'App mobili AI',
             view: 'Vedi Progetto',
             tags: {
                 mobile: 'App Mobile',
@@ -868,8 +897,8 @@ const translations = {
                 title: 'AI Agent Laoshi',
                 desc: 'Pratica il mandarino in tempo reale con un coach IA mandarino dal vivo con voce in tempo reale, pratica guidata dalla visione e correzioni istantanee.'
             },
-            thai: {
-                title: 'AI Agent Khru',
+            khru: {
+                title: 'AI Agent Khru (non ancora pubblicato)',
                 desc: 'Impara e pratica il tailandese in tempo reale con un tutor IA tailandese dal vivo con chat vocale, vocabolario basato sulla fotocamera e correzioni strutturate.'
             }
         },
@@ -932,7 +961,7 @@ const translations = {
         },
         projects: {
             tag: '주요 작업',
-            title: '구축한 프로젝트',
+            title: 'AI 모바일 앱',
             view: '프로젝트 보기',
             tags: {
                 mobile: '모바일 앱',
@@ -951,8 +980,8 @@ const translations = {
                 title: 'AI Agent Laoshi',
                 desc: '실시간 음성, 비전 기반 연습 및 즉시 수정으로 라이브 AI 만다린 코치와 실시간으로 만다린을 연습하세요.'
             },
-            thai: {
-                title: 'AI Agent Khru',
+            khru: {
+                title: 'AI Agent Khru (아직 게시되지 않음)',
                 desc: '음성 채팅, 카메라 기반 어휘 및 구조화된 수정으로 라이브 AI 태어 강사와 실시간으로 태어를 배우고 연습하세요.'
             }
         },
@@ -1015,7 +1044,7 @@ const translations = {
         },
         projects: {
             tag: 'Избранные работы',
-            title: 'Проекты, которые я создал',
+            title: 'AI мобильные приложения',
             view: 'Смотреть проект',
             tags: {
                 mobile: 'Мобильное приложение',
@@ -1034,8 +1063,8 @@ const translations = {
                 title: 'AI Agent Laoshi',
                 desc: 'Практикуйте мандаринский в реальном времени с живым ИИ-тренером мандаринского с голосом в реальном времени, практикой с визуальным руководством и мгновенными исправлениями.'
             },
-            thai: {
-                title: 'AI Agent Khru',
+            khru: {
+                title: 'AI Agent Khru (еще не опубликовано)',
                 desc: 'Учитесь и практикуйте тайский в реальном времени с живым ИИ-преподавателем тайского с голосовым чатом, словарным запасом на основе камеры и структурированными исправлениями.'
             }
         },

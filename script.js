@@ -48,7 +48,7 @@ const translations = {
         },
         projects: {
             tag: 'Featured Work',
-            title: "Projects I've built",
+            title: "AI mobile Apps",
             view: 'View Project',
             tags: {
                 mobile: 'Mobile App',

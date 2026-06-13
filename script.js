@@ -49,7 +49,7 @@ const translations = {
         projects: {
             tag: 'Featured Work',
             title: "AI mobile Apps",
-            view: 'View Project',
+            view: 'Get the app',
             tags: {
                 mobile: 'Mobile App',
                 aiScanner: 'AI Scanner',
@@ -132,7 +132,7 @@ const translations = {
         projects: {
             tag: 'Trabalhos em Destaque',
             title: 'Apps móveis de IA',
-            view: 'Ver Projeto',
+            view: 'Obter a app',
             tags: {
                 mobile: 'App Móvel',
                 aiScanner: 'Scanner de IA',
@@ -215,7 +215,7 @@ const translations = {
         projects: {
             tag: 'Trabajos Destacados',
             title: 'Apps móviles de IA',
-            view: 'Ver Proyecto',
+            view: 'Obtener la app',
             tags: {
                 mobile: 'App Móvil',
                 aiScanner: 'Escáner de IA',
@@ -298,7 +298,7 @@ const translations = {
         projects: {
             tag: 'Travaux Récents',
             title: 'Apps mobiles IA',
-            view: 'Voir le Projet',
+            view: 'Obtenir l\'app',
             tags: {
                 mobile: 'App Mobile',
                 aiScanner: 'Scanner IA',
@@ -381,7 +381,7 @@ const translations = {
         projects: {
             tag: '精選作品',
             title: 'AI 行動應用',
-            view: '查看專案',
+            view: '取得應用程式',
             tags: {
                 mobile: '行動應用',
                 aiScanner: 'AI 掃描器',
@@ -464,7 +464,7 @@ const translations = {
         projects: {
             tag: '精选作品',
             title: 'AI 移动应用',
-            view: '查看项目',
+            view: '获取应用',
             tags: {
                 mobile: '移动应用',
                 aiScanner: 'AI 扫描器',
@@ -547,7 +547,7 @@ const translations = {
         projects: {
             tag: 'विशेष कार्य',
             title: 'AI मोबाइल ऐप्स',
-            view: 'प्रोजेक्ट देखें',
+            view: 'ऐप प्राप्त करें',
             tags: {
                 mobile: 'मोबाइल ऐप',
                 aiScanner: 'AI स्कैनर',
@@ -630,7 +630,7 @@ const translations = {
         projects: {
             tag: '主な作品',
             title: 'AI モバイルアプリ',
-            view: 'プロジェクトを見る',
+            view: 'アプリを入手',
             tags: {
                 mobile: 'モバイルアプリ',
                 aiScanner: 'AIスキャナー',
@@ -713,7 +713,7 @@ const translations = {
         projects: {
             tag: 'أعمال مميزة',
             title: 'تطبيقات AI للجوال',
-            view: 'عرض المشروع',
+            view: 'احصل على التطبيق',
             tags: {
                 mobile: 'تطبيق جوال',
                 aiScanner: 'ماسح ضوئي للذكاء الاصطناعي',
@@ -796,7 +796,7 @@ const translations = {
         projects: {
             tag: 'Ausgewählte Arbeiten',
             title: 'KI Mobile Apps',
-            view: 'Projekt ansehen',
+            view: 'App herunterladen',
             tags: {
                 mobile: 'Mobile App',
                 aiScanner: 'KI-Scanner',
@@ -879,7 +879,7 @@ const translations = {
         projects: {
             tag: 'Lavori in Evidenza',
             title: 'App mobili AI',
-            view: 'Vedi Progetto',
+            view: 'Ottieni l\'app',
             tags: {
                 mobile: 'App Mobile',
                 aiScanner: 'Scanner IA',
@@ -962,7 +962,7 @@ const translations = {
         projects: {
             tag: '주요 작업',
             title: 'AI 모바일 앱',
-            view: '프로젝트 보기',
+            view: '앱 받기',
             tags: {
                 mobile: '모바일 앱',
                 aiScanner: 'AI 스캐너',
@@ -1045,7 +1045,7 @@ const translations = {
         projects: {
             tag: 'Избранные работы',
             title: 'AI мобильные приложения',
-            view: 'Смотреть проект',
+            view: 'Скачать приложение',
             tags: {
                 mobile: 'Мобильное приложение',
                 aiScanner: 'ИИ-сканер',

@@ -1037,6 +1037,10 @@ html[lang="zh-CN"] {
     background: linear-gradient(135deg, #1f4068, #162447);
 }
 
+.project-placeholder--ukrainian {
+    background: linear-gradient(135deg, #0ea5e9, #22c55e);
+}
+
 .project-placeholder--coin {
     background: linear-gradient(135deg, #800020, #4a0e17);
 }

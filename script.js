@@ -67,6 +67,10 @@ const translations = {
                 title: 'AI Agent Laoshi',
                 desc: 'Practice Mandarin in real time with a live AI Mandarin coach featuring real-time voice, vision-guided practice, and instant corrections.'
             },
+            vchytel: {
+                title: 'AI Agent Vchytel (not published yet)',
+                desc: 'Learn Ukrainian, practice real conversations, and translate in real time with a live AI Ukrainian teacher featuring voice chat, camera-based context, and instant translation support.'
+            },
             khru: {
                 title: 'AI Agent Khru (not published yet)',
                 desc: 'Learn and practice Thai in real time with a live AI Thai teacher featuring voice chat, camera-based vocabulary, and structured corrections.'
@@ -149,6 +153,10 @@ const translations = {
             mandarin: {
                 title: 'AI Agent Laoshi',
                 desc: 'Практикуйте мандаринську в реальному часі з живим ШІ тренером мандаринської за допомогою голосу в реальному часі, практики під керівництвом зору та миттєвих виправлень.'
+            },
+            vchytel: {
+                title: 'AI Agent Vchytel',
+                desc: 'Вчіть українську, практикуйте реальні розмови та перекладайте в реальному часі з живим ШІ-репетитором української з голосовим чатом, контекстом через камеру та миттєвим перекладом.'
             },
             khru: {
                 title: 'AI Agent Khru (ще не опубліковано)',
@@ -233,6 +241,10 @@ const translations = {
                 title: 'AI Agent Laoshi',
                 desc: 'ฝึกฝนภาษาจีนกลางแบบเรียลไทม์กับโค้ช AI ภาษาจีนกลางสด ด้วยเสียงแบบเรียลไทม์, การฝึกฝนที่ชี้นำด้วยการมองเห็น และการแก้ไขในทันที.'
             },
+            vchytel: {
+                title: 'AI Agent Vchytel',
+                desc: 'เรียนรู้ภาษายูเครน ฝึกสนทนาจริง และแปลแบบเรียลไทม์กับครู AI ยูเครนสด ด้วยแชทด้วยเสียง, บริบทจากกล้อง และการแปลทันที.'
+            },
             khru: {
                 title: 'AI Agent Khru (ยังไม่เผยแพร่)',
                 desc: 'เรียนรู้และฝึกฝนภาษาไทยแบบเรียลไทม์กับครู AI ภาษาไทยสด ด้วยแชทด้วยเสียง, คำศัพท์ที่อิงตามกล้อง และการแก้ไขที่มีโครงสร้าง.'
@@ -315,6 +327,10 @@ const translations = {
             mandarin: {
                 title: 'AI Agent Laoshi',
                 desc: 'Pratique mandarim em tempo real com um tutor de IA ao vivo com voz em tempo real, prática guiada por visão e correções instantâneas.'
+            },
+            vchytel: {
+                title: 'AI Agent Vchytel',
+                desc: 'Aprenda ucraniano, pratique conversas reais e traduza em tempo real com um tutor de IA ucraniano ao vivo, com chat de voz, contexto baseado em câmara e tradução instantânea.'
             },
             khru: {
                 title: 'AI Agent Khru (ainda não publicado)',
@@ -399,6 +415,10 @@ const translations = {
                 title: 'AI Agent Laoshi',
                 desc: 'Practica mandarín en tiempo real con un tutor de IA en vivo con voz en tiempo real, práctica guiada por visión y correcciones al instante.'
             },
+            vchytel: {
+                title: 'AI Agent Vchytel',
+                desc: 'Aprenda ucraniano, practique conversaciones reales y traduzca en tiempo real con un tutor de IA ucraniano en vivo con chat de voz, contexto basado en cámara y traducción instantánea.'
+            },
             khru: {
                 title: 'AI Agent Khru (aún no publicado)',
                 desc: 'Aprende y practica tailandés en tiempo real con un tutor de IA en vivo con chat de voz, vocabulario basado en cámara y correcciones estructuradas.'
@@ -481,6 +501,10 @@ const translations = {
             mandarin: {
                 title: 'AI Agent Laoshi',
                 desc: 'Pratiquez le mandarin en temps réel avec un tuteur IA en direct avec voix en temps réel, pratique guidée par la vision et corrections instantanées.'
+            },
+            vchytel: {
+                title: 'AI Agent Vchytel',
+                desc: 'Apprenez l’ukrainien, pratiquez des conversations réelles et traduisez en temps réel avec un tuteur IA ukrainien en direct avec chat vocal, contexte caméra et traduction instantanée.'
             },
             khru: {
                 title: 'AI Agent Khru (pas encore publié)',
@@ -565,6 +589,10 @@ const translations = {
                 title: 'AI Agent Laoshi',
                 desc: '透過即時語音、視覺引導練習與即時糾錯，與 AI 國語教練進行即時國語練習。'
             },
+            vchytel: {
+                title: 'AI Agent Vchytel',
+                desc: '學習烏克蘭語、練習真實對話，並透過即時語音聊天、相機上下文與即時翻譯，與 AI 烏克蘭語老師進行即時學習。'
+            },
             khru: {
                 title: 'AI Agent Khru (尚未發佈)',
                 desc: '透過語音聊天、基於相機的詞彙練習與結構化糾錯，與 AI 泰語老師進行即時泰語學習與練習。'
@@ -647,6 +675,10 @@ const translations = {
             mandarin: {
                 title: 'AI Agent Laoshi',
                 desc: '通过即时语音、视觉引导练习与即时纠错，与 AI 国语教练进行即时国语练习。'
+            },
+            vchytel: {
+                title: 'AI Agent Vchytel',
+                desc: '学习乌克兰语、练习真实对话，并通过即时语音聊天、相机上下文与即时翻译，与 AI 乌克兰语老师进行实时学习。'
             },
             khru: {
                 title: 'AI Agent Khru (尚未发布)',
@@ -731,6 +763,10 @@ const translations = {
                 title: 'AI Agent Laoshi',
                 desc: 'वास्तविक समय की आवाज, विजन-गाइडेड अभ्यास और त्वरित सुधारों के साथ लाइव AI मंदारिन कोच के साथ अभ्यास करें।'
             },
+            vchytel: {
+                title: 'AI Agent Vchytel',
+                desc: 'यूक्रेनी सीखें, वास्तविक बातचीत का अभ्यास करें, और लाइव AI यूक्रेनी शिक्षक के साथ वॉयस चैट, कैमरा-आधारित संदर्भ और त्वरित अनुवाद के साथ वास्तविक समय में अनुवाद करें।'
+            },
             khru: {
                 title: 'AI Agent Khru (अभी प्रकाशित नहीं हुआ)',
                 desc: 'वॉयस चैट, कैमरा-आधारित शब्दावली और संरचित सुधारों के साथ लाइव AI थाई शिक्षक के साथ वास्तविक समय में सीखें और अभ्यास करें।'
@@ -813,6 +849,10 @@ const translations = {
             mandarin: {
                 title: 'AI Agent Laoshi',
                 desc: 'リアルタイム音声、視覚ガイド付き練習、即時修正を使用して、AI中国語コーチとリアルタイムで中国語を練習します。'
+            },
+            vchytel: {
+                title: 'AI Agent Vchytel',
+                desc: 'ウクライナ語を学び、実際の会話を練習し、自然な音声チャット、カメラベースの文脈、即時翻訳を備えたライブ AI ウクライナ語教師とリアルタイムで翻訳しましょう。'
             },
             khru: {
                 title: 'AI Agent Khru (まだ公開されていません)',
@@ -897,6 +937,10 @@ const translations = {
                 title: 'AI Agent Laoshi',
                 desc: 'تعلم وتدرب على الماندرين في الوقت الفعلي مع مدرب ماندرين AI مباشر بصوت مباشر، ممارسة موجهة برؤية، وتصحيحات فورية.'
             },
+            vchytel: {
+                title: 'AI Agent Vchytel',
+                desc: 'تعلم اللغة الأوكرانية، تدرب على المحادثات الحقيقية، وترجم في الوقت الفعلي مع مدرس أوكراني AI مباشر يتميز بدردشة صوتية وسياق يعتمد على الكاميرا وترجمة فورية.'
+            },
             khru: {
                 title: 'AI Agent Khru (لم يتم نشره بعد)',
                 desc: 'تعلم وتدرب على التايلاندية في الوقت الفعلي مع مدرس تايلاندي AI مباشر يتميز بدردشة صوتية، ومفردات تعتمد على الكاميرا، وتصحيحات منظمة.'
@@ -979,6 +1023,10 @@ const translations = {
             mandarin: {
                 title: 'AI Agent Laoshi',
                 desc: 'Üben Sie Mandarin in Echtzeit mit einem live KI-Mandarin-Coach mit Echtzeit-Stimme, visiongeführter Übung und sofortiger Korrektur.'
+            },
+            vchytel: {
+                title: 'AI Agent Vchytel',
+                desc: 'Lernen Sie Ukrainisch, üben Sie echte Gespräche und übersetzen Sie in Echtzeit mit einem live KI-Ukrainisch-Lehrer mit Sprachchat, kamerabasiertem Kontext und sofortiger Übersetzung.'
             },
             khru: {
                 title: 'AI Agent Khru (noch nicht veröffentlicht)',
@@ -1063,6 +1111,10 @@ const translations = {
                 title: 'AI Agent Laoshi',
                 desc: 'Pratica il mandarino in tempo reale con un coach IA mandarino dal vivo con voce in tempo reale, pratica guidata dalla visione e correzioni istantanee.'
             },
+            vchytel: {
+                title: 'AI Agent Vchytel',
+                desc: 'Impara l’ucraino, pratica conversazioni reali e traduci in tempo reale con un tutor IA ucraino dal vivo con chat vocale, contesto basato sulla fotocamera e traduzione istantanea.'
+            },
             khru: {
                 title: 'AI Agent Khru (non ancora pubblicato)',
                 desc: 'Impara e pratica il tailandese in tempo reale con un tutor IA tailandese dal vivo con chat vocale, vocabolario basato sulla fotocamera e correzioni strutturate.'
@@ -1146,6 +1198,10 @@ const translations = {
                 title: 'AI Agent Laoshi',
                 desc: '실시간 음성, 비전 기반 연습 및 즉시 수정으로 라이브 AI 만다린 코치와 실시간으로 만다린을 연습하세요.'
             },
+            vchytel: {
+                title: 'AI Agent Vchytel',
+                desc: '우크라이나어를 배우고, 실제 대화를 연습하며, 실시간 음성 채팅, 카메라 기반 문맥, 즉각적인 번역 기능을 갖춘 라이브 AI 우크라이나어 튜터와 함께 실시간 번역을 경험하세요.'
+            },
             khru: {
                 title: 'AI Agent Khru (아직 게시되지 않음)',
                 desc: '음성 채팅, 카메라 기반 어휘 및 구조화된 수정으로 라이브 AI 태어 강사와 실시간으로 태어를 배우고 연습하세요.'
@@ -1228,6 +1284,10 @@ const translations = {
             mandarin: {
                 title: 'AI Agent Laoshi',
                 desc: 'Практикуйте мандаринский в реальном времени с живым ИИ-тренером мандаринского с голосом в реальном времени, практикой с визуальным руководством и мгновенными исправлениями.'
+            },
+            vchytel: {
+                title: 'AI Agent Vchytel',
+                desc: 'Изучайте украинский, практикуйте реальные разговоры и переводите в реальном времени с живым ИИ-преподавателем украинского языка с голосовым чатом, контекстом на основе камеры и мгновенным переводом.'
             },
             khru: {
                 title: 'AI Agent Khru (еще не опубликовано)',

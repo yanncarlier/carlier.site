@@ -61,11 +61,11 @@ const translations = {
             },
             cantonese: {
                 title: 'AI Agent Lousi',
-                desc: 'Speak and practice Cantonese in real time with a live AI Cantonese teacher featuring natural voice chat and camera-based context.'
+                desc: 'Learn Chinese Cantonese, practice real conversations, and translate in real time with a live AI Chinese Cantonese teacher featuring voice chat, camera-based context, and instant translation support.'
             },
             mandarin: {
                 title: 'AI Agent Laoshi',
-                desc: 'Practice Mandarin in real time with a live AI Mandarin coach featuring real-time voice, vision-guided practice, and instant corrections.'
+                desc: 'Learn Chinese Mandarin, practice real conversations, and translate in real time with a live AI Chinese Mandarin teacher featuring voice chat, camera-based context, and instant translation support.'
             },
             vchytel: {
                 title: 'AI Agent Vchytel (not published yet)',
@@ -73,7 +73,7 @@ const translations = {
             },
             khru: {
                 title: 'AI Agent Khru (not published yet)',
-                desc: 'Learn and practice Thai in real time with a live AI Thai teacher featuring voice chat, camera-based vocabulary, and structured corrections.'
+                desc: 'Learn Thai, practice real conversations, and translate in real time with a live AI Thai teacher featuring voice chat, camera-based context, and instant translation support.'
             }
         },
         contact: {

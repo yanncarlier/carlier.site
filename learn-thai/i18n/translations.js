@@ -6,9 +6,9 @@ const translations = {
       "download": "Download"
     },
     "hero": {
-      "eyebrow": "Live AI Thai Teacher",
-      "title": "Learn to speak and practice Thai in real time with voice and vision.",
-      "copy": "AI Agent Khru helps you speak naturally, get instant corrections, and build confidence through guided conversations.",
+      "eyebrow": "Live AI Thai Teacher & Translator",
+      "title": "Learn to speak and practice and translate Thai in real time with voice and vision.",
+      "copy": "AI Agent Khru helps you speak naturally, get instant corrections and translate words, phrases, and conversations with confidence through guided conversations.",
       "cta": "Get the app",
       "explore": "Explore features"
     },
@@ -27,8 +27,8 @@ const translations = {
         "desc": "Use your camera to practice vocabulary and describe real objects."
       },
       "corrections": {
-        "title": "Structured corrections",
-        "desc": "Get gentle fixes for pronunciation, grammar, and word choice."
+        "title": "Structured corrections & translation",
+        "desc": "Get gentle fixes for pronunciation, grammar, and word choice plus instant translation support."
       }
     },
     "how": {
@@ -41,7 +41,7 @@ const translations = {
       "step2": {
         "num": "02",
         "title": "Practice with context",
-        "desc": "Switch cameras to describe what you see in Thai and train practical fluency."
+        "desc": "Switch cameras to describe what you see and translate everyday scenes and train practical fluency."
       },
       "step3": {
         "num": "03",
@@ -50,9 +50,9 @@ const translations = {
       }
     },
     "footer": {
-      "eyebrow": "Live Thai practice",
-      "title": "Speak naturally with an AI Thai coach.",
-      "copy": "Practice voice conversations, camera-based vocabulary, and structured corrections from your phone.",
+      "eyebrow": "Live Thai practice & translation",
+      "title": "Speak naturally or translate with an AI Thai coach.",
+      "copy": "Practice voice conversations, camera-based vocabulary, and structured corrections and instant translation from your phone.",
       "cta": "Download on Google Play"
     },
     "session": {
@@ -60,7 +60,7 @@ const translations = {
       "title": "Session: Daily Thai",
       "voice": "Real-time voice conversation",
       "camera": "Camera context for object learning",
-      "recap": "End-of-session recap and notes."
+      "recap": "End-of-session recap and notes and instant translation for phrases and daily dialogue."
     }
   },
   "fr": {
@@ -71,7 +71,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "Professeur Thai IA en Direct",
-      "title": "Apprenez et pratiquez le thaï en temps réel avec la voix et la vision.",
+      "title": "Apprenez à parler, pratiquer et traduire le thaï en temps réel avec la voix et la vision.",
       "copy": "AI Agent Khru vous aide à parler naturellement, obtenir des corrections instantanées et à gagner confiance grâce à des conversations guidées.",
       "cta": "Obtenir l'application",
       "explore": "Explorer les fonctionnalités"
@@ -135,7 +135,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "Live-KI-Thai-Lehrer",
-      "title": "Sprich und übe Thai in Echtzeit mit Stimme und Kamera.",
+      "title": "Lernen Sie, Thai zu sprechen, zu üben und in Echtzeit mit Stimme und Bild zu übersetzen.",
       "copy": "AI Agent Khru hilft dir, natürlich zu sprechen, sofortige Korrekturen zu erhalten und durch geführte Gespräche Selbstvertrauen aufzubauen.",
       "cta": "App holen",
       "explore": "Funktionen entdecken"
@@ -199,7 +199,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "Profesor de Tailandés IA en Vivo",
-      "title": "Aprende a hablar y practicar tailandés en tiempo real con voz y visión.",
+      "title": "Aprende a hablar, practicar y traducir tailandés en tiempo real con voz y visión.",
       "copy": "AI Agent Khru te ayuda a hablar naturalmente, recibir correcciones instantáneas y ganar confianza mediante conversaciones guiadas.",
       "cta": "Obtén la app",
       "explore": "Explorar funciones"
@@ -263,7 +263,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "Insegnante di Thailandese IA dal Vivo",
-      "title": "Impara a parlare e praticare il thailandese in tempo reale con voce e visione.",
+      "title": "Impara a parlare, praticare e tradurre il thailandese in tempo reale con voce e visione.",
       "copy": "AI Agent Khru ti aiuta a parlare in modo naturale, ricevere correzioni istantanee e acquisire sicurezza attraverso conversazioni guidate.",
       "cta": "Ottieni l'app",
       "explore": "Esplora le funzionalità"
@@ -327,7 +327,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "Professor de Tailandês IA ao Vivo",
-      "title": "Aprenda a falar e praticar tailandês em tempo real com voz e visão.",
+      "title": "Aprenda a falar, praticar e traduzir tailandês em tempo real com voz e visão.",
       "copy": "O AI Agent Khru ajuda você a falar naturalmente, receber correções instantâneas e ganhar confiança através de conversas guiadas.",
       "cta": "Baixe o app",
       "explore": "Explorar recursos"
@@ -391,7 +391,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "लाइव AI थाई शिक्षक",
-      "title": "आवाज़ और दृष्टि के साथ रियल टाइम में थाई बोलना और अभ्यास करना सीखें।",
+      "title": "आवाज़ और दृष्टि के साथ रियल टाइम में थाई बोलना, अभ्यास करना और अनुवाद करना सीखें।",
       "copy": "AI Agent Khru आपको स्वाभाविक रूप से बोलने, तुरंत सुधार पाने और निर्देशित बातचीत के माध्यम से आत्मविश्वास बढ़ाने में मदद करता है।",
       "cta": "ऐप प्राप्त करें",
       "explore": "विशेषताएँ देखें"
@@ -455,7 +455,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "ライブAIタイ語講師",
-      "title": "音声とカメラでリアルタイムにタイ語を話し、練習することを学びます。",
+      "title": "音声とビジョンでリアルタイムにタイ語を話し、練習し、翻訳することを学びましょう。",
       "copy": "AI Agent Khruは、自然に話し、即座に修正を受け、ガイド付きの会話を通じて自信をつけるのを助けます。",
       "cta": "アプリを入手",
       "explore": "機能を見る"
@@ -519,7 +519,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "라이브 AI 태국어 선생님",
-      "title": "음성과 비전으로 실시간으로 태국어를 말하고 연습하는 법을 배우세요.",
+      "title": "음성과 비전으로 실시간으로 태국어를 말하고, 연습하고, 번역하는 법을 배우세요.",
       "copy": "AI Agent Khru는 자연스럽게 말하고, 즉각적인 교정을 받으며, 안내된 대화를 통해 자신감을 키울 수 있도록 도와줍니다.",
       "cta": "앱 받기",
       "explore": "기능 살펴보기"
@@ -583,7 +583,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "Живой AI-учитель тайского",
-      "title": "Научитесь говорить и практиковать тайский в реальном времени с голосом и зрением.",
+      "title": "Научитесь говорить, практиковать и переводить тайский в реальном времени с голосом и зрением.",
       "copy": "AI Agent Khru помогает вам говорить естественно, получать мгновенные исправления и обретать уверенность с помощью guided-бесед.",
       "cta": "Получить приложение",
       "explore": "Изучить возможности"
@@ -647,7 +647,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "Живий AI-вчитель тайської",
-      "title": "Навчіться говорити та практикувати тайську в реальному часі з голосом і зором.",
+      "title": "Навчіться говорити, практикувати та перекладати тайську в реальному часі з голосом і зором.",
       "copy": "AI Agent Khru допомагає вам говорити природно, отримувати миттєві виправлення та набувати впевненості через керовані розмови.",
       "cta": "Отримати додаток",
       "explore": "Дослідити можливості"
@@ -711,7 +711,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "ครูสอนภาษาไทย AI สด",
-      "title": "เรียนรู้ที่จะพูดและฝึกภาษาไทยแบบเรียลไทม์ด้วยเสียงและภาพ",
+      "title": "เรียนรู้ที่จะพูด ฝึกฝน และแปลภาษาไทยแบบเรียลไทม์ด้วยเสียงและภาพ",
       "copy": "AI Agent Khru ช่วยให้คุณพูดอย่างเป็นธรรมชาติ รับการแก้ไขทันที และสร้างความมั่นใจผ่านการสนทนาที่มีคำแนะนำ",
       "cta": "รับแอป",
       "explore": "ดูฟีเจอร์"
@@ -775,7 +775,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "مدرس التايلاندية بالذكاء الاصطناعي المباشر",
-      "title": "تعلّم التحدث وممارسة التايلاندية في الوقت الفعلي بالصوت والرؤية.",
+      "title": "تعلّم التحدث والممارسة والترجمة للتايلاندية في الوقت الفعلي بالصوت والرؤية.",
       "copy": "يساعدك AI Agent Khru على التحدث بشكل طبيعي، وتلقي التصحيحات الفورية، وبناء الثقة من خلال المحادثات الموجهة.",
       "cta": "احصل على التطبيق",
       "explore": "استكشف الميزات"
@@ -839,7 +839,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "即時 AI 泰語老師",
-      "title": "透過語音和視覺即時學習說練泰語。",
+      "title": "透過語音和視覺即時學習說、練習和翻譯泰語。",
       "copy": "AI Agent Khru 幫助你自然地說話、獲得即時糾正，並在引導對話中建立自信。",
       "cta": "取得應用程式",
       "explore": "探索功能"
@@ -903,7 +903,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "实时 AI 泰语老师",
-      "title": "通过语音和视觉实时学习和练习说泰语。",
+      "title": "通过语音和视觉实时学习说、练习和翻译泰语。",
       "copy": "AI Agent Khru 帮助你自然地说话、获得即时纠正，并在引导式对话中建立自信。",
       "cta": "获取应用",
       "explore": "探索功能"

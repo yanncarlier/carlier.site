@@ -6,9 +6,9 @@ const translations = {
       "download": "Download"
     },
     "hero": {
-      "eyebrow": "Live AI Mandarin Teacher",
-      "title": "Learn to speak and practice Chinese Mandarin in real time with voice and vision.",
-      "copy": "AI Agent Laoshi helps you speak naturally, get instant corrections, and build confidence through guided conversations.",
+      "eyebrow": "Live AI Mandarin Teacher & Translator",
+      "title": "Learn to speak and practice and translate Chinese Mandarin in real time with voice and vision.",
+      "copy": "AI Agent Laoshi helps you speak naturally, get instant corrections and translate words, phrases, and conversations with confidence through guided conversations.",
       "cta": "Get the app",
       "explore": "Explore features"
     },
@@ -27,8 +27,8 @@ const translations = {
         "desc": "Use your camera to practice vocabulary and describe real objects."
       },
       "corrections": {
-        "title": "Structured corrections",
-        "desc": "Get gentle fixes for pronunciation, grammar, and word choice."
+        "title": "Structured corrections & translation",
+        "desc": "Get gentle fixes for pronunciation, grammar, and word choice plus instant translation support."
       }
     },
     "how": {
@@ -41,7 +41,7 @@ const translations = {
       "step2": {
         "num": "02",
         "title": "Practice with context",
-        "desc": "Switch cameras to describe what you see and train practical fluency."
+        "desc": "Switch cameras to describe what you see and translate everyday scenes and train practical fluency."
       },
       "step3": {
         "num": "03",
@@ -50,9 +50,9 @@ const translations = {
       }
     },
     "footer": {
-      "eyebrow": "Live Mandarin practice",
-      "title": "Speak naturally with an AI Mandarin coach.",
-      "copy": "Practice voice conversations, camera-based vocabulary, and structured corrections from your phone.",
+      "eyebrow": "Live Mandarin practice & translation",
+      "title": "Speak naturally or translate with an AI Mandarin coach.",
+      "copy": "Practice voice conversations, camera-based vocabulary, and structured corrections and instant translation from your phone.",
       "cta": "Download on Google Play"
     },
     "session": {
@@ -60,7 +60,7 @@ const translations = {
       "title": "Session: Daily Mandarin",
       "voice": "Real-time voice conversation",
       "camera": "Camera context for object learning",
-      "recap": "End-of-session recap and notes."
+      "recap": "End-of-session recap and notes and instant translation for phrases and daily dialogue."
     }
   },
   "fr": {
@@ -71,7 +71,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "Professeur IA Mandarin en Direct",
-      "title": "Apprenez et pratiquez le Mandarin en temps réel avec la voix et la vision.",
+      "title": "Apprenez à parler, pratiquer et traduire le mandarin en temps réel avec la voix et la vision.",
       "copy": "AI Agent Laoshi vous aide à parler naturellement, obtenir des corrections instantanées et à gagner confiance grâce à des conversations guidées.",
       "cta": "Obtenir l'application",
       "explore": "Explorer les fonctionnalités"
@@ -135,7 +135,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "Live-KI-Mandarinlehrer",
-      "title": "Sprich und übe Chinesisch in Echtzeit mit Sprache und Kamera.",
+      "title": "Lernen Sie, Chinesisch Mandarin zu sprechen, zu üben und in Echtzeit mit Stimme und Bild zu übersetzen.",
       "copy": "AI Agent Laoshi hilft dir, natürlich zu sprechen, sofortige Korrekturen zu erhalten und durch geführte Gespräche Selbstvertrauen aufzubauen.",
       "cta": "App herunterladen",
       "explore": "Funktionen entdecken"
@@ -199,7 +199,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "Profesor de Mandarín IA en Vivo",
-      "title": "Aprende a hablar y practicar Mandarín en tiempo real con voz y visión.",
+      "title": "Aprende a hablar, practicar y traducir mandarín en tiempo real con voz y visión.",
       "copy": "AI Agent Laoshi te ayuda a hablar de forma natural, obtener correcciones al instante y ganar confianza con conversaciones guiadas.",
       "cta": "Obtén la app",
       "explore": "Explorar funciones"
@@ -263,7 +263,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "Insegnante di Mandarino IA dal Vivo",
-      "title": "Impara a parlare e praticare il cinese Mandarino in tempo reale con voce e visione.",
+      "title": "Impara a parlare, praticare e tradurre il cinese Mandarino in tempo reale con voce e visione.",
       "copy": "AI Agent Laoshi ti aiuta a parlare in modo naturale, ricevere correzioni immediate e acquisire sicurezza attraverso conversazioni guidate.",
       "cta": "Scarica l'app",
       "explore": "Esplora le funzionalità"
@@ -327,7 +327,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "Professor de Mandarim IA ao Vivo",
-      "title": "Aprenda a falar e praticar Mandarim em tempo real com voz e visão.",
+      "title": "Aprenda a falar, praticar e traduzir Mandarim em tempo real com voz e visão.",
       "copy": "O AI Agent Laoshi ajuda você a falar naturalmente, receber correções instantâneas e ganhar confiança com conversas guiadas.",
       "cta": "Baixe o app",
       "explore": "Explorar recursos"
@@ -391,7 +391,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "लाइव AI मंदारिन शिक्षक",
-      "title": "आवाज़ और विज़न के साथ रियल टाइम में चीनी मंदारिन बोलना और अभ्यास करना सीखें।",
+      "title": "आवाज़ और विज़न के साथ रियल टाइम में चीनी मंदारिन बोलना, अभ्यास करना और अनुवाद करना सीखें।",
       "copy": "AI Agent Laoshi आपको स्वाभाविक रूप से बोलने, तुरंत सुधार पाने और निर्देशित वार्तालापों के माध्यम से आत्मविश्वास बढ़ाने में मदद करता है।",
       "cta": "ऐप प्राप्त करें",
       "explore": "विशेषताएँ देखें"
@@ -455,7 +455,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "ライブAI中国語講師",
-      "title": "音声とカメラでリアルタイムに中国語を話して練習しましょう。",
+      "title": "音声とビジョンでリアルタイムに中国語を話し、練習し、翻訳することを学びましょう。",
       "copy": "AI Agent Laoshiは、自然な会話、即時修正、ガイド付きの対話を通じて自信をつけるお手伝いをします。",
       "cta": "アプリを入手",
       "explore": "機能を見る"
@@ -519,7 +519,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "라이브 AI 중국어 선생님",
-      "title": "음성과 카메라로 실시간으로 중국어를 말하고 연습하세요.",
+      "title": "음성과 비전으로 실시간으로 중국어를 말하고, 연습하고, 번역하는 방법을 배우세요.",
       "copy": "AI Agent Laoshi는 자연스럽게 말하고, 즉시 교정을 받고, 안내된 대화를 통해 자신감을 키울 수 있도록 도와줍니다.",
       "cta": "앱 다운로드",
       "explore": "기능 살펴보기"
@@ -583,7 +583,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "Живой ИИ-преподаватель китайского",
-      "title": "Учитесь говорить и практиковать китайский язык в реальном времени с голосом и видео.",
+      "title": "Научитесь говорить, практиковать и переводить китайский (мандарин) в реальном времени с голосом и зрением.",
       "copy": "AI Agent Laoshi помогает вам говорить естественно, получать мгновенные исправления и обретать уверенность с помощью направленных диалогов.",
       "cta": "Скачать приложение",
       "explore": "Изучить возможности"
@@ -647,7 +647,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "Живий ІІ-вчитель китайської",
-      "title": "Навчіться говорити та практикувати китайську мову в реальному часі з голосом та камерою.",
+      "title": "Навчіться говорити, практикувати та перекладати китайську мандарин в реальному часі з голосом та зором.",
       "copy": "AI Agent Laoshi допомагає вам говорити природно, отримувати миттєві виправлення та набувати впевненості через направлені розмови.",
       "cta": "Отримати додаток",
       "explore": "Дослідити можливості"
@@ -711,7 +711,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "ครูสอนภาษาจีนกลาง AI แบบสด",
-      "title": "เรียนรู้การพูดและฝึกภาษาจีนกลางแบบเรียลไทม์ด้วยเสียงและภาพ",
+      "title": "เรียนรู้การพูด ฝึกฝน และแปลภาษาจีนกลางแบบเรียลไทม์ด้วยเสียงและภาพ",
       "copy": "AI Agent Laoshi ช่วยให้คุณพูดอย่างเป็นธรรมชาติ รับการแก้ไขทันที และสร้างความมั่นใจผ่านบทสนทนาที่มีคำแนะนำ",
       "cta": "รับแอป",
       "explore": "ดูฟีเจอร์"
@@ -775,7 +775,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "مدرس صيني مباشر بالذكاء الاصطناعي",
-      "title": "تعلم التحدث والممارسة بالصينية الماندرين في الوقت الفعلي بالصوت والرؤية.",
+      "title": "تعلّم التحدث والممارسة والترجمة للصينية الماندرين في الوقت الفعلي بالصوت والرؤية.",
       "copy": "يساعدك AI Agent Laoshi على التحدث بشكل طبيعي، والحصول على تصحيحات فورية، وبناء الثقة من خلال المحادثات الموجهة.",
       "cta": "احصل على التطبيق",
       "explore": "استكشف المميزات"
@@ -839,7 +839,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "即時 AI 中文老師",
-      "title": "透過語音與視覺即時學習並練習說中文。",
+      "title": "透過語音與視覺即時學習說、練習和翻譯普通話。",
       "copy": "AI Agent Laoshi 協助您自然對話、即時獲得糾正，並透過引導式對話建立信心。",
       "cta": "下載應用程式",
       "explore": "探索功能"
@@ -903,7 +903,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "实时 AI 中文老师",
-      "title": "通过语音和视觉实时学习和练习说中文。",
+      "title": "通过语音和视觉实时学习说、练习和翻译普通话。",
       "copy": "AI Agent Laoshi 帮助您自然对话、即时获得纠正，并通过引导式对话建立自信。",
       "cta": "获取应用",
       "explore": "探索功能"

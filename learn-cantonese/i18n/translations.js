@@ -6,9 +6,9 @@ const translations = {
       "download": "Download"
     },
     "hero": {
-      "eyebrow": "Live AI Cantonese Teacher",
-      "title": "Learn to speak and practice Cantonese in real time with voice and vision.",
-      "copy": "AI Agent Lousi helps you speak naturally, get instant corrections, and build confidence through guided conversations.",
+      "eyebrow": "Live AI Cantonese Teacher & Translator",
+      "title": "Learn to speak and practice and translate Cantonese in real time with voice and vision.",
+      "copy": "AI Agent Lousi helps you speak naturally, get instant corrections and translate words, phrases, and conversations with confidence through guided conversations.",
       "cta": "Get the app",
       "explore": "Explore features"
     },
@@ -27,8 +27,8 @@ const translations = {
         "desc": "Use your camera to practice vocabulary and describe real objects."
       },
       "corrections": {
-        "title": "Structured corrections",
-        "desc": "Get gentle fixes for pronunciation, grammar, and word choice."
+        "title": "Structured corrections & translation",
+        "desc": "Get gentle fixes for pronunciation, grammar, and word choice plus instant translation support."
       }
     },
     "how": {
@@ -41,7 +41,7 @@ const translations = {
       "step2": {
         "num": "02",
         "title": "Practice with context",
-        "desc": "Switch cameras to describe what you see and train practical fluency."
+        "desc": "Switch cameras to describe what you see and translate everyday scenes and train practical fluency."
       },
       "step3": {
         "num": "03",
@@ -50,9 +50,9 @@ const translations = {
       }
     },
     "footer": {
-      "eyebrow": "Live Cantonese practice",
-      "title": "Speak naturally with an AI Cantonese coach.",
-      "copy": "Practice voice conversations, camera-based vocabulary, and structured corrections from your phone.",
+      "eyebrow": "Live Cantonese practice & translation",
+      "title": "Speak naturally or translate with an AI Cantonese coach.",
+      "copy": "Practice voice conversations, camera-based vocabulary, and structured corrections and instant translation from your phone.",
       "cta": "Download on Google Play"
     },
     "session": {
@@ -60,7 +60,7 @@ const translations = {
       "title": "Session: Daily Cantonese",
       "voice": "Real-time voice conversation",
       "camera": "Camera context for object learning",
-      "recap": "End-of-session recap and notes."
+      "recap": "End-of-session recap and notes and instant translation for phrases and daily dialogue."
     }
   },
   "fr": {
@@ -71,7 +71,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "Professeur IA Cantonese en Direct",
-      "title": "Apprenez et pratiquez le Cantonese en temps réel avec la voix et la vision.",
+      "title": "Apprenez à parler, pratiquer et traduire le cantonais en temps réel avec la voix et la vision.",
       "copy": "AI Agent Lousi vous aide à parler naturellement, obtenir des corrections instantanées et à gagner confiance grâce à des conversations guidées.",
       "cta": "Obtenir l'application",
       "explore": "Explorer les fonctionnalités"
@@ -135,7 +135,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "Live-KI-Lehrer für Kantonesisch",
-      "title": "Lerne Kantonesisch in Echtzeit mit Sprache und Kamera zu sprechen und zu üben.",
+      "title": "Lernen Sie, Kantonesisch zu sprechen, zu üben und in Echtzeit mit Stimme und Bild zu übersetzen.",
       "copy": "AI Agent Lousi hilft dir, natürlich zu sprechen, sofortige Korrekturen zu erhalten und durch geführte Gespräche Selbstvertrauen aufzubauen.",
       "cta": "App herunterladen",
       "explore": "Funktionen entdecken"
@@ -199,7 +199,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "Profesor de Cantonés con IA en Vivo",
-      "title": "Aprende a hablar y practicar cantonés en tiempo real con voz y visión.",
+      "title": "Aprende a hablar, practicar y traducir cantonés en tiempo real con voz y visión.",
       "copy": "AI Agent Lousi te ayuda a hablar con naturalidad, recibir correcciones al instante y ganar confianza mediante conversaciones guiadas.",
       "cta": "Conseguir la app",
       "explore": "Explorar funciones"
@@ -263,7 +263,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "Insegnante di Cantonese IA dal Vivo",
-      "title": "Impara a parlare e praticare il cantonese in tempo reale con voce e visione.",
+      "title": "Impara a parlare, praticare e tradurre il cantonese in tempo reale con voce e visione.",
       "copy": "AI Agent Lousi ti aiuta a parlare in modo naturale, ricevere correzioni immediate e acquisire sicurezza attraverso conversazioni guidate.",
       "cta": "Ottieni l'app",
       "explore": "Esplora le funzionalità"
@@ -327,7 +327,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "Professor de Cantonês IA ao Vivo",
-      "title": "Aprenda a falar e praticar cantonês em tempo real com voz e visão.",
+      "title": "Aprenda a falar, praticar e traduzir cantonês em tempo real com voz e visão.",
       "copy": "AI Agent Lousi ajuda você a falar naturalmente, receber correções instantâneas e ganhar confiança por meio de conversas guiadas.",
       "cta": "Obter o app",
       "explore": "Explorar recursos"
@@ -391,7 +391,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "लाइव AI कैंटोनीज़ शिक्षक",
-      "title": "आवाज़ और विज़न के साथ रियल टाइम में कैंटोनीज़ बोलना और अभ्यास करना सीखें।",
+      "title": "आवाज़ और विज़न के साथ रियल टाइम में कैंटोनीज़ बोलना, अभ्यास करना और अनुवाद करना सीखें।",
       "copy": "AI Agent Lousi आपको स्वाभाविक रूप से बोलने, तुरंत सुधार पाने और निर्देशित बातचीत के माध्यम से आत्मविश्वास बढ़ाने में मदद करता है।",
       "cta": "ऐप प्राप्त करें",
       "explore": "विशेषताएँ देखें"
@@ -455,7 +455,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "ライブAI広東語教師",
-      "title": "音声とカメラを使ってリアルタイムで広東語を話し、練習する方法を学びましょう。",
+      "title": "音声とビジョンでリアルタイムに広東語を話し、練習し、翻訳することを学びましょう。",
       "copy": "AI Agent Lousiは、自然に話すこと、即座に訂正を受けること、ガイド付きの会話を通じて自信をつけることを支援します。",
       "cta": "アプリを入手",
       "explore": "機能を見る"
@@ -519,7 +519,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "라이브 AI 광둥어 선생님",
-      "title": "음성과 비전으로 실시간으로 광둥어를 말하고 연습하는 방법을 배우세요.",
+      "title": "음성과 비전으로 실시간으로 광둥어를 말하고, 연습하고, 번역하는 방법을 배우세요.",
       "copy": "AI Agent Lousi가 자연스럽게 말하고, 즉각적인 교정을 받고, 가이드 대화를 통해 자신감을 키울 수 있도록 도와줍니다.",
       "cta": "앱 다운로드",
       "explore": "기능 살펴보기"
@@ -583,7 +583,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "Живой ИИ-преподаватель кантонского",
-      "title": "Научитесь говорить и практиковать кантонский в реальном времени с голосом и камерой.",
+      "title": "Научитесь говорить, практиковать и переводить кантонский в реальном времени с голосом и камерой.",
       "copy": "AI Agent Lousi помогает вам говорить естественно, получать мгновенные исправления и обретать уверенность через guided диалоги.",
       "cta": "Скачать приложение",
       "explore": "Посмотреть возможности"
@@ -647,7 +647,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "Живий ІІ-вчитель кантонської",
-      "title": "Навчіться говорити та практикувати кантонську в реальному часі з голосом та камерою.",
+      "title": "Навчіться говорити, практикувати та перекладати кантонську в реальному часі з голосом та камерою.",
       "copy": "AI Agent Lousi допомагає вам говорити природно, отримувати миттєві виправлення та набувати впевненості через керовані розмови.",
       "cta": "Отримати додаток",
       "explore": "Оглянути можливості"
@@ -711,7 +711,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "ครูสอนภาษากวางตุ้ง AI สด",
-      "title": "เรียนรู้การพูดและฝึกภาษากวางตุ้งแบบเรียลไทม์ด้วยเสียงและกล้อง",
+      "title": "เรียนรู้การพูด ฝึกฝน และแปลภาษากวางตุ้งแบบเรียลไทม์ด้วยเสียงและกล้อง",
       "copy": "AI Agent Lousi ช่วยให้คุณพูดได้อย่างเป็นธรรมชาติ รับการแก้ไขทันที และสร้างความมั่นใจผ่านบทสนทนาที่มีคำแนะนำ",
       "cta": "รับแอป",
       "explore": "สำรวจฟีเจอร์"
@@ -775,7 +775,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "معلم الكانتونية بالذكاء الاصطناعي المباشر",
-      "title": "تعلّم التحدث وممارسة الكانتونية في الوقت الفعلي بالصوت والرؤية.",
+      "title": "تعلّم التحدث والممارسة والترجمة للكانتونية في الوقت الفعلي بالصوت والرؤية.",
       "copy": "يساعدك AI Agent Lousi على التحدث بشكل طبيعي، والحصول على تصحيحات فورية، وبناء الثقة من خلال المحادثات الموجهة.",
       "cta": "احصل على التطبيق",
       "explore": "استكشف الميزات"
@@ -839,7 +839,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "即時 AI 粵語教師",
-      "title": "透過語音與視覺功能，即時學習說粵語並進行練習。",
+      "title": "透過語音與視覺功能，即時學習說粵語、進行練習和翻譯。",
       "copy": "AI Agent Lousi 幫助你自然對話、獲得即時糾正，並在引導式對話中建立自信。",
       "cta": "下載應用程式",
       "explore": "探索功能"
@@ -903,7 +903,7 @@ const translations = {
     },
     "hero": {
       "eyebrow": "实时 AI 粤语教师",
-      "title": "通过语音和视觉功能，实时学习说粤语并进行练习。",
+      "title": "通过语音和视觉功能，实时学习说粤语、进行练习和翻译。",
       "copy": "AI Agent Lousi 帮助你自然对话、获得即时纠正，并在引导式对话中建立自信。",
       "cta": "获取应用",
       "explore": "探索功能"

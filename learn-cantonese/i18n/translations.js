@@ -895,7 +895,72 @@ const translations = {
       "recap": "對話結束後的摘要與筆記。"
     }
   },
+  "pl": {
+    "nav": {
+      "features": "Funkcje",
+      "how": "Jak to działa",
+      "download": "Pobierz"
+    },
+    "hero": {
+      "eyebrow": "Na żywo: chiński (kantoński) z AI",
+      "title": "Naucz się mówić kantońskim na żywo i ćwicz tłumaczenie w czasie rzeczywistym za pomocą głosu i obrazu.",
+      "copy": "AI Agent Lousi pomaga Ci mówić naturalnie, dostawać natychmiastowe poprawki i tłumaczyć słowa, zwroty oraz rozmowy z pewnością — dzięki prowadzonej praktyce.",
+      "cta": "Pobierz aplikację",
+      "explore": "Zobacz funkcje"
+    },
+    "preview": {
+      "tag": "Podgląd aplikacji",
+      "title": "Ćwicz dzięki skoncentrowanemu interfejsowi sesji na żywo."
+    },
+    "features": {
+      "title": "Dlaczego uczniowie wybierają AI Agent Lousi",
+      "voice": {
+        "title": "Naturalna rozmowa głosowa",
+        "desc": "Mów jak zwykle i otrzymuj natychmiastowe odpowiedzi głosowe."
+      },
+      "vision": {
+        "title": "Trening wspierany przez obraz",
+        "desc": "Użyj aparatu, aby ćwiczyć słownictwo i opisywać prawdziwe obiekty."
+      },
+      "corrections": {
+        "title": "Strukturalne poprawki i tłumaczenie",
+        "desc": "Dostawaj łagodne korekty wymowy, gramatyki i doboru słów oraz otrzymuj wsparcie natychmiastowego tłumaczenia."
+      }
+    },
+    "how": {
+      "title": "Jak to działa",
+      "step1": {
+        "num": "01",
+        "title": "Rozpocznij sesję na żywo",
+        "desc": "Otwórz aplikację, kliknij raz i zacznij od razu mówić po kantońsku."
+      },
+      "step2": {
+        "num": "02",
+        "title": "Ćwicz z kontekstem",
+        "desc": "Przełącz kamery, opisz to, co widzisz i tłumacz codzienne sceny — trenuj praktyczną płynność."
+      },
+      "step3": {
+        "num": "03",
+        "title": "Przeglądaj i doskonal",
+        "desc": "Wróć do logów, poprawek i wskazówek po każdej sesji."
+      }
+    },
+    "footer": {
+      "eyebrow": "Kantoński na żywo: praktyka i tłumaczenie",
+      "title": "Mów naturalnie lub tłumacz z AI — Twoim lektorem kantońskiego.",
+      "copy": "Ćwicz rozmowy głosowe, słownictwo oparte na obrazie oraz strukturalne poprawki i natychmiastowe tłumaczenie — z poziomu telefonu.",
+      "cta": "Pobierz w Google Play"
+    },
+    "session": {
+      "chip": "Aktywne na żywo",
+      "title": "Sesja: codzienny kantoński",
+      "voice": "Rozmowa głosowa w czasie rzeczywistym",
+      "camera": "Kontekst z aparatu do nauki obiektów",
+      "recap": "Podsumowanie na koniec sesji oraz natychmiastowe tłumaczenie słów/zwrotów i codziennej rozmowy."
+    }
+  },
   "zh-CN": {
+
     "nav": {
       "features": "功能特色",
       "how": "使用说明",
@@ -960,4 +1025,4 @@ const translations = {
     }
   }
 };
-const langLabels = { en: "EN", fr: "FR", de: "DE", it: "IT", pt: "PT", es: "ES", hi: "HI", ja: "JA", ko: "KO", ru: "RU", uk: "UK", th: "TH", ar: "AR", "zh-TW": "繁中", "zh-CN": "简中" };
+const langLabels = { en: "EN", fr: "FR", de: "DE", it: "IT", pt: "PT", es: "ES", hi: "HI", ja: "JA", ko: "KO", ru: "RU", uk: "UK", pl: "PL", th: "TH", ar: "AR", "zh-TW": "繁中", "zh-CN": "简中" };

@@ -1311,6 +1311,176 @@ const translations = {
         accessibility: {
             skipToMain: 'Перейти к основному содержанию'
         }
+    },
+    pl: {
+        nav: {
+            about: 'O mnie',
+            skills: 'Umiejętności',
+            projects: 'Projekty',
+            cta: 'Porozmawiajmy'
+        },
+
+        hero: {
+            title1: 'Od pomysłu do wdrożenia — zamieniam idee w produkty.',
+            title2: '',
+            subtitle1: 'Tworząc ',
+            highlight1: 'Aplikacje mobilne',
+            subtitle2: ', ',
+            highlight2: 'rozwiązania SaaS',
+            subtitle3: ' oraz ',
+            highlight3: 'systemy AI',
+            subtitle4: ' które się skalują.',
+            subtitle5: 'Tworząc Aplikacje mobilne, rozwiązania SaaS oraz systemy AI, które się skalują.',
+            cta: 'Skontaktuj się'
+        },
+        about: {
+            tag: 'O mnie',
+            title: 'Buduję produkty, które mają znaczenie',
+            text1: 'Jestem założycielem i inżynierem oprogramowania z pasją do tworzenia wpływowych produktów. Dzięki doświadczeniu od rozwoju mobilnego, przez SaaS, systemy AI i architekturę systemów, pomagam startupom i firmom wcielać ich wizje w życie.',
+            text2: 'Niezależnie od tego, czy jest to natywna aplikacja mobilna, system AI, rozwiązanie cross-platform, czy skalowalna platforma SaaS — podchodzę do każdego projektu z naciskiem na doświadczenie użytkownika, wydajność i cele biznesowe.',
+            value1: { title: 'Realizacja', desc: 'Szybkie prototypowanie i iteracyjny rozwój, aby szybko wprowadzić produkt na rynek.' },
+            value2: { title: 'Od A do Z', desc: 'Od designu po wdrożenie — zajmuję się każdym aspektem rozwoju produktu.' },
+            value3: { title: 'Jakość', desc: 'Czysty kod, dopracowane UX i skalowalna architektura w każdym projekcie.' }
+        },
+        skills: {
+            tag: 'Ekspertyza',
+            title: 'Technologie, z których korzystam',
+            mobile: 'Tworzenie aplikacji mobilnych',
+            web: 'Web i SaaS',
+            business: 'Rozwiązania biznesowe',
+            design: 'Design i produkt',
+            ai: 'Systemy AI',
+            infra: 'Infrastruktura'
+        },
+        projects: {
+            tag: 'Wyróżnione prace',
+            title: 'Aplikacje mobilne AI',
+            view: 'Pobierz aplikację',
+            tags: {
+                mobile: 'Aplikacja mobilna',
+                aiScanner: 'AI Scanner',
+                aiTutor: 'AI Tutor'
+            },
+            coin: {
+                title: 'Coin Identifier',
+                desc: 'Aplikacja do skanowania monet napędzana przez AI dla kolekcjonerów. Natychmiast rozpoznawaj monety, szacuj wartości rynkowe, sprawdzaj rzadkość i kataloguj swoją kolekcję.'
+            },
+            cantonese: {
+                title: 'AI Agent Lousi',
+                desc: 'Ucz się kantońskiego, ćwicz prawdziwe rozmowy i tłumacz w czasie rzeczywistym z działającym nauczycielem AI kantońskiego — z naturalnym czatem głosowym, kontekstem z kamery i natychmiastowym wsparciem tłumaczenia.'
+            },
+            mandarin: {
+                title: 'AI Agent Laoshi',
+                desc: 'Ucz się chińskiego mandaryńskiego, ćwicz prawdziwe rozmowy i tłumacz w czasie rzeczywistym z działającym nauczycielem AI mandaryńskiego — z czatem głosowym, kontekstem opartym na kamerze i natychmiastowym wsparciem tłumaczeń.'
+            },
+            vchytel: {
+                title: 'AI Agent Vchytel (jeszcze nieopublikowany)',
+                desc: 'Ucz się języka ukraińskiego, ćwicz prawdziwe rozmowy i tłumacz w czasie rzeczywistym z działającym nauczycielem AI języka ukraińskiego — z czatem głosowym, kontekstem opartym na kamerze i natychmiastowym wsparciem tłumaczeń.'
+            },
+            khru: {
+                title: 'AI Agent Khru (jeszcze nieopublikowany)',
+                desc: 'Ucz się tajskiego, ćwicz prawdziwe rozmowy i tłumacz w czasie rzeczywistym z działającym nauczycielem AI tajskiego — z czatem głosowym, kontekstem opartym na kamerze i natychmiastowym wsparciem tłumaczeń.'
+            }
+        },
+        contact: {
+            tag: 'Napisz do mnie',
+            title: 'Zbudujmy coś niesamowitego razem',
+            text: 'Masz pomysł na projekt? Szukasz technicznego partnera? Chętnie dowiem się więcej. Porozmawiajmy o tym, jak możemy przełożyć Twoją wizję na rzeczywistość.'
+        },
+        footer: {
+            tagline: 'Tworzymy produkty, które robią różnicę.',
+            about: 'O mnie',
+            skills: 'Umiejętności',
+            projects: 'Projekty',
+            contact: 'Kontakt',
+            copyright: '© 2026 Carlier. Wszelkie prawa zastrzeżone.',
+            crafted: 'Stworzone z pasją'
+        },
+        accessibility: {
+            skipToMain: 'Przejdź do treści głównej'
+        }
+    },
+    'zh-TW': {
+
+        hero: {
+            title1: 'От концепции до запуска, Превращение идей в продукты.',
+            title2: '',
+            subtitle1: 'Создаю ',
+            highlight1: 'мобильные приложения',
+            subtitle2: ', ',
+            highlight2: 'SaaS-решения',
+            subtitle3: ' и ',
+            highlight3: 'системы ИИ',
+            subtitle4: ', которые масштабируются.',
+            subtitle5: 'Создаю мобильные приложения, SaaS-решения и системы ИИ, которые масштабируются',
+            cta: 'Связаться'
+        },
+        about: {
+            tag: 'О себе',
+            title: 'Создаю продукты, которые имеют значение',
+            text1: 'Я основатель и инженер-программист, увлеченный созданием влиятельных продуктов. С экспертизой в мобильной разработке, SaaS, системах ИИ и системной архитектуре я помогаю стартапам и компаниям реализовать их видения.',
+            text2: 'Будь то нативное мобильное приложение, система ИИ, кроссплатформенное решение или масштабируемая SaaS-платформа, я подхожу к каждому проекту с фокусом на пользовательский опыт, производительность и бизнес-цели.',
+            value1: { title: 'Исполнение', desc: 'Быстрое прототипирование и итеративная разработка для быстрого вывода вашего продукта на рынок.' },
+            value2: { title: 'От начала до конца', desc: 'От дизайна до деплоя я управляю каждым аспектом разработки продукта.' },
+            value3: { title: 'Качество', desc: 'Чистый код, продуманный UX и масштабируемая архитектура в каждом проекте.' }
+        },
+        skills: {
+            tag: 'Экспертиза',
+            title: 'Технологии, с которыми я работаю',
+            mobile: 'Мобильная разработка',
+            web: 'Веб и SaaS',
+            business: 'Корпоративные программные решения',
+            design: 'Дизайн и продукт',
+            ai: 'Системы ИИ',
+            infra: 'Инфраструктура'
+        },
+        projects: {
+            tag: 'Избранные работы',
+            title: 'AI мобильные приложения',
+            view: 'Скачать приложение',
+            tags: {
+                mobile: 'Мобильное приложение',
+                aiScanner: 'ИИ-сканер',
+                aiTutor: 'ИИ-репетитор'
+            },
+            coin: {
+                title: 'Coin Identifier',
+                desc: 'Приложение для сканирования монет на базе ИИ для коллекционеров. Мгновенно идентифицируйте монеты, оценивайте рыночную стоимость и каталогизируйте свою коллекцию.'
+            },
+            cantonese: {
+                title: 'AI Agent Lousi',
+                desc: 'Говорите и практикуйте кантонский диалект в реальном времени с живым ИИ-преподавателем кантонского с естественным голосовым чатом и контекстом на основе камеры.'
+            },
+            mandarin: {
+                title: 'AI Agent Laoshi',
+                desc: 'Практикуйте мандаринский в реальном времени с живым ИИ-тренером мандаринского с голосом в реальном времени, практикой с визуальным руководством и мгновенными исправлениями.'
+            },
+            vchytel: {
+                title: 'AI Agent Vchytel',
+                desc: 'Изучайте украинский, практикуйте реальные разговоры и переводите в реальном времени с живым ИИ-преподавателем украинского языка с голосовым чатом, контекстом на основе камеры и мгновенным переводом.'
+            },
+            khru: {
+                title: 'AI Agent Khru (еще не опубликовано)',
+                desc: 'Учитесь и практикуйте тайский в реальном времени с живым ИИ-преподавателем тайского с голосовым чатом, словарным запасом на основе камеры и структурированными исправлениями.'
+            }
+        },
+        contact: {
+            tag: 'Связаться',
+            title: 'Давайте создадим что-то удивительное вместе',
+            text: 'Есть идея проекта? Ищете технического партнера? Мне бы хотелось услышать об этом. Давайте обсудим, как мы можем реализовать ваше видение.'
+        },
+        footer: {
+            tagline: 'Создаю продукты, которые меняют мир.',
+            about: 'О себе',
+            skills: 'Навыки',
+            projects: 'Проекты',
+            contact: 'Контакт',
+            copyright: '© 2026 Carlier. Все права защищены.',
+            crafted: 'Создано с любовью'
+        },
+        accessibility: {
+            skipToMain: 'Перейти к основному содержанию'
+        }
     }
 };
 
@@ -1328,7 +1498,8 @@ const langLabels = {
     de: 'DE',
     it: 'IT',
     ko: 'KO',
-    ru: 'RU'
+    ru: 'RU',
+    pl: 'PL'
 };
 
 // ========================================

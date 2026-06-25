@@ -16,6 +16,15 @@ function updateContent(lang) {
 
     document.documentElement.lang = lang;
 
+    // Update footer landing links to point to the right language pages
+    const langQuery = lang ? `?lang=${encodeURIComponent(lang)}` : '';
+    document.querySelectorAll('.footer-landing-link[data-landing]').forEach(a => {
+        const baseHref = a.getAttribute('href')?.split('?')[0] || a.getAttribute('href');
+        if (baseHref) {
+            a.setAttribute('href', `${baseHref}${langQuery}`);
+        }
+    });
+
     document.querySelectorAll('[data-i18n]').forEach(el => {
         const key = el.getAttribute('data-i18n');
         const keys = key.split('.');

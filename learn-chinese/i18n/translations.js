@@ -49,12 +49,18 @@ const translations = {
         "desc": "Revisit logs, corrections, and speaking tips after each session."
       }
     },
-    "footer": {
-      "eyebrow": "Live Mandarin practice & translation",
-      "title": "Speak naturally or translate with an AI Mandarin coach.",
-      "copy": "Practice voice conversations, camera-based vocabulary, and structured corrections and instant translation from your phone.",
-      "cta": "Download on Google Play"
-    },
+"footer": {
+       "eyebrow": "Live Mandarin practice & translation",
+       "title": "Speak naturally or translate with an AI Mandarin coach.",
+       "copy": "Practice voice conversations, camera-based vocabulary, and structured corrections and instant translation from your phone.",
+       "cta": "Download on Google Play",
+       "linksLabel": "More Language Learning Apps:",
+       "links": {
+         "cantonese": "Learn Cantonese",
+         "thai": "Learn Thai",
+         "ukrainian": "Learn Ukrainian"
+       }
+     },
     "session": {
       "chip": "GEMINI LIVE ACTIVE",
       "title": "Session: Daily Mandarin",
@@ -113,12 +119,18 @@ const translations = {
         "desc": "Revoyez les journaux, les corrections et les conseils de prononciation après chaque session."
       }
     },
-    "footer": {
-      "eyebrow": "Pratique Mandarin en direct",
-      "title": "Parlez naturellement avec un coach IA Mandarin.",
-      "copy": "Pratiquez les conversations vocales, le vocabulaire basé sur la caméra et les corrections structurées depuis votre téléphone.",
-      "cta": "Télécharger sur Google Play"
-    },
+"footer": {
+       "eyebrow": "Pratique Mandarin en direct",
+       "title": "Parlez naturellement avec un coach IA Mandarin.",
+       "copy": "Pratiquez les conversations vocales, le vocabulaire basé sur la caméra et les corrections structurées depuis votre téléphone.",
+       "cta": "Télécharger sur Google Play",
+       "linksLabel": "Plus d'applications de langue:",
+       "links": {
+         "cantonese": "Apprendre le Cantonais",
+         "thai": "Apprendre le Thaï",
+         "ukrainian": "Apprendre l'Ukrainien"
+       }
+     },
     "session": {
       "chip": "GEMINI ACTIF EN DIRECT",
       "title": "Session : Mandarin quotidien",
@@ -177,12 +189,18 @@ const translations = {
         "desc": "Sieh dir nach jeder Sitzung Verläufe, Korrekturen und Sprechtipps an."
       }
     },
-    "footer": {
-      "eyebrow": "Live-Mandarin-Übung",
-      "title": "Sprich natürlich mit einem KI-Mandarin-Coach.",
-      "copy": "Übe Sprachkonversationen, kamerabasierten Wortschatz und strukturierte Korrekturen von deinem Handy aus.",
-      "cta": "Bei Google Play herunterladen"
-    },
+"footer": {
+       "eyebrow": "Live-Mandarin-Übung",
+       "title": "Sprich natürlich mit einem KI-Mandarin-Coach.",
+       "copy": "Übe Sprachkonversationen, kamerabasierten Wortschatz und strukturierte Korrekturen von deinem Handy aus.",
+       "cta": "Bei Google Play herunterladen",
+       "linksLabel": "Mehr Sprachlern-Apps:",
+       "links": {
+         "cantonese": "Kantonesisch lernen",
+         "thai": "Thailändisch lernen",
+         "ukrainian": "Ukrainisch lernen"
+       }
+     },
     "session": {
       "chip": "GEMINI LIVE AKTIV",
       "title": "Sitzung: Tägliches Mandarin",
@@ -241,12 +259,18 @@ const translations = {
         "desc": "Revisa registros, correcciones y consejos de conversación tras cada sesión."
       }
     },
-    "footer": {
-      "eyebrow": "Práctica de Mandarín en vivo",
-      "title": "Habla naturalmente con un coach de Mandarín IA.",
-      "copy": "Practica conversaciones de voz, vocabulario con cámara y correcciones estructuradas desde tu teléfono.",
-      "cta": "Descargar en Google Play"
-    },
+"footer": {
+       "eyebrow": "Práctica de Mandarín en vivo",
+       "title": "Habla naturalmente con un coach de Mandarín IA.",
+       "copy": "Practica conversaciones de voz, vocabulario con cámara y correcciones estructuradas desde tu teléfono.",
+       "cta": "Descargar en Google Play",
+       "linksLabel": "Más aplicaciones de idiomas:",
+       "links": {
+         "cantonese": "Aprender Cantones",
+         "thai": "Aprender Tailandés",
+         "ukrainian": "Aprender Ucraniano"
+       }
+     },
     "session": {
       "chip": "GEMINI ACTIVO EN VIVO",
       "title": "Sesión: Mandarín Diario",
@@ -305,12 +329,18 @@ const translations = {
         "desc": "Rivisita registri, correzioni e consigli di conversazione dopo ogni sessione."
       }
     },
-    "footer": {
-      "eyebrow": "Pratica del Mandarino dal vivo",
-      "title": "Parla naturalmente con un coach IA di Mandarino.",
-      "copy": "Pratica conversazioni vocali, vocabolario con la fotocamera e correzioni strutturate dal tuo telefono.",
-      "cta": "Scarica su Google Play"
-    },
+"footer": {
+       "eyebrow": "Pratica del Mandarino dal vivo",
+       "title": "Parla naturalmente con un coach IA di Mandarino.",
+       "copy": "Pratica conversazioni vocali, vocabolario con la fotocamera e correzioni strutturate dal tuo telefono.",
+       "cta": "Scarica su Google Play",
+       "linksLabel": "Altre app per l'apprendimento linguistico:",
+       "links": {
+         "cantonese": "Impara il Cantonese",
+         "thai": "Impara il Thai",
+         "ukrainian": "Impara l'Ucraino"
+       }
+     },
     "session": {
       "chip": "GEMINI LIVE ATTIVO",
       "title": "Sessione: Mandarino Quotidiano",
@@ -369,12 +399,18 @@ const translations = {
         "desc": "Revisite registros, correções e dicas de conversação após cada sessão."
       }
     },
-    "footer": {
-      "eyebrow": "Prática de Mandarim ao vivo",
-      "title": "Fale naturalmente com um coach de Mandarim IA.",
-      "copy": "Pratique conversas por voz, vocabulário com câmera e correções estruturadas do seu celular.",
-      "cta": "Baixar na Google Play"
-    },
+"footer": {
+       "eyebrow": "Prática de Mandarim ao vivo",
+       "title": "Fale naturalmente com um coach de Mandarim IA.",
+       "copy": "Pratique conversas por voz, vocabulário com câmera e correções estruturadas do seu celular.",
+       "cta": "Baixar na Google Play",
+       "linksLabel": "Mais apps de aprendizado de idiomas:",
+       "links": {
+         "cantonese": "Aprender Cantones",
+         "thai": "Aprender Tailandês",
+         "ukrainian": "Aprender Ucraniano"
+       }
+     },
     "session": {
       "chip": "GEMINI ATIVO AO VIVO",
       "title": "Sessão: Mandarim Diário",
@@ -625,12 +661,18 @@ const translations = {
         "desc": "Пересматривайте записи, исправления и советы по речи после каждой сессии."
       }
     },
-    "footer": {
-      "eyebrow": "Живая практика китайского",
-      "title": "Говорите естественно с ИИ-коучем по китайскому.",
-      "copy": "Практикуйте голосовые диалоги, словарный запас с камерой и структурированные исправления прямо с телефона.",
-      "cta": "Скачать в Google Play"
-    },
+"footer": {
+       "eyebrow": "Живая практика китайского",
+       "title": "Говорите естественно с ИИ-коучем по китайскому.",
+       "copy": "Практикуйте голосовые диалоги, словарный запас с камерой и структурированные исправления прямо с телефона.",
+       "cta": "Скачать в Google Play",
+       "linksLabel": "Другие приложения для изучения языков:",
+       "links": {
+         "cantonese": "Учить кантонский",
+         "thai": "Учить тайский",
+         "ukrainian": "Учить украинский"
+       }
+     },
     "session": {
       "chip": "GEMINI LIVE АКТИВНО",
       "title": "Сессия: Ежедневный китайский",
@@ -689,12 +731,18 @@ const translations = {
         "desc": "Переглядайте записи, виправлення та поради щодо мовлення після кожної сесії."
       }
     },
-    "footer": {
-      "eyebrow": "Жива практика китайської",
-      "title": "Говоріть природно з ІІ-коучем з китайської.",
-      "copy": "Практикуйте голосові розмови, словниковий запас з камерою та структуровані виправлення зі свого телефону.",
-      "cta": "Завантажити в Google Play"
-    },
+"footer": {
+       "eyebrow": "Жива практика китайської",
+       "title": "Говоріть природно з ІІ-коучем з китайської.",
+       "copy": "Практикуйте голосові розмови, словниковий запас з камерою та структуровані виправлення зі свого телефону.",
+       "cta": "Завантажити в Google Play",
+       "linksLabel": "Інші додатки для вивчення мов:",
+       "links": {
+         "cantonese": "Вчитись кантонською",
+         "thai": "Вчитись тайською",
+         "ukrainian": "Вчитись українською"
+       }
+     },
     "session": {
       "chip": "GEMINI LIVE АКТИВНО",
       "title": "Сесія: Щоденна китайська",
@@ -753,12 +801,18 @@ const translations = {
         "desc": "กลับมาดูบันทึก การแก้ไข และเคล็ดลับการพูดหลังจากแต่ละเซสชัน"
       }
     },
-    "footer": {
-      "eyebrow": "ฝึกภาษาจีนกลางแบบสด",
-      "title": "พูดอย่างเป็นธรรมชาติกับโค้ชภาษาจีนกลาง AI",
-      "copy": "ฝึกสนทนาด้วยเสียง คำศัพท์จากกล้อง และการแก้ไขอย่างมีโครงสร้างจากโทรศัพท์ของคุณ",
-      "cta": "ดาวน์โหลดจาก Google Play"
-    },
+"footer": {
+       "eyebrow": "ฝึกภาษาจีนกลางแบบสด",
+       "title": "พูดอย่างเป็นธรรมชาติกับโค้ชภาษาจีนกลาง AI",
+       "copy": "ฝึกสนทนาด้วยเสียง คำศัพท์ผ่านกล้อง และการแก้ไขอย่างมีโครงสร้างจากโทรศัพท์ของคุณ",
+       "cta": "ดาวน์โหลดจาก Google Play",
+       "linksLabel": "แอปเรียนภาษาเพิ่มเติม:",
+       "links": {
+         "cantonese": "เรียนภาษากวางตุ้ง",
+         "thai": "เรียนภาษาไทย",
+         "ukrainian": "เรียนภาษาอุโกครินะ"
+       }
+     },
     "session": {
       "chip": "GEMINI กำลังทำงานสด",
       "title": "เซสชัน: ภาษาจีนกลางประจำวัน",
@@ -817,12 +871,18 @@ const translations = {
         "desc": "عد إلى السجلات والتصحيحات ونصائح التحدث بعد كل جلسة."
       }
     },
-    "footer": {
-      "eyebrow": "تدريب صيني مباشر",
-      "title": "تحدث بشكل طبيعي مع مدرب صيني بالذكاء الاصطناعي.",
-      "copy": "تدرب على المحادثات الصوتية، والمفردات بالكاميرا، والتصحيحات المنظمة من هاتفك.",
-      "cta": "تحميل من Google Play"
-    },
+"footer": {
+       "eyebrow": "تدريب صيني مباشر",
+       "title": "تحدث بشكل طبيعي مع مدرب صيني بالذكاء الاصطناعي.",
+       "copy": "تدرب على المحادثات الصوتية، والمفردات بالكاميرا، والتصحيحات المنظمة من هاتفك.",
+       "cta": "تحميل من Google Play",
+       "linksLabel": "تطبيقات تعلم اللغة الأخرى:",
+       "links": {
+         "cantonese": "تعلم الكانتونية",
+         "thai": "تعلم الثيين",
+         "ukrainian": "تعلم الأوكرانية"
+       }
+     },
     "session": {
       "chip": "جيميني نشط مباشر",
       "title": "الجلسة: الصينية اليومية",
@@ -881,12 +941,18 @@ const translations = {
         "desc": "每次課程後檢視記錄、修正和口說技巧。"
       }
     },
-    "footer": {
-      "eyebrow": "即時中文練習",
-      "title": "與 AI 中文教練自然地對話。",
-      "copy": "在手機上練習語音對話、相機詞彙學習與結構化修正。",
-      "cta": "在 Google Play 下載"
-    },
+"footer": {
+       "eyebrow": "即時中文練習",
+       "title": "與 AI 中文教練自然地對話。",
+       "copy": "在手機上練習語音對話、相機詞彙學習與結構化修正。",
+       "cta": "在 Google Play 下載",
+       "linksLabel": "更多語言學習應用程式:",
+       "links": {
+         "cantonese": "學習粵語",
+         "thai": "學習泰語",
+         "ukrainian": "學習烏克蘭語"
+       }
+     },
     "session": {
       "chip": "GEMINI 即時連線中",
       "title": "課程：每日中文",
@@ -945,12 +1011,18 @@ const translations = {
         "desc": "Wróć do logów, poprawek i wskazówek po każdej sesji."
       }
     },
-    "footer": {
-      "eyebrow": "Na żywo: chiński (mandaryński) praktyka i tłumaczenie",
-      "title": "Mów naturalnie lub tłumacz z AI — Twoim lektorem mandaryńskiego.",
-      "copy": "Ćwicz rozmowy głosowe, słownictwo oparte na obrazie oraz strukturalne poprawki i natychmiastowe tłumaczenie — z poziomu telefonu.",
-      "cta": "Pobierz w Google Play"
-    },
+"footer": {
+       "eyebrow": "Na żywo: chiński (mandaryński) praktyka i tłumaczenie",
+       "title": "Mów naturalnie lub tłumacz z AI — Twoim lektorem mandaryńskiego.",
+       "copy": "Ćwicz rozmowy głosowe, słownictwo oparte na obrazie oraz strukturalne poprawki i natychmiastowe tłumaczenie — z poziomu telefonu.",
+       "cta": "Pobierz w Google Play",
+       "linksLabel": "Więcej aplikacji do nauki języków:",
+       "links": {
+         "cantonese": "Naucz się kantońskiego",
+         "thai": "Naucz się tajskiego",
+         "ukrainian": "Naucz się ukraińskiego"
+       }
+     },
     "session": {
       "chip": "Aktywne na żywo",
       "title": "Sesja: codzienny mandaryński",
@@ -1010,19 +1082,18 @@ const translations = {
         "desc": "每次会话后查看记录、纠正和口语技巧。"
       }
     },
-    "footer": {
-      "eyebrow": "实时中文练习",
-      "title": "与 AI 中文教练自然地对话。",
-      "copy": "在手机上练习语音对话、相机词汇学习和结构化纠正。",
-      "cta": "在 Google Play 下载"
-    },
-    "session": {
-      "chip": "GEMINI 实时连接中",
-      "title": "会话：每日中文",
-      "voice": "实时语音对话",
-      "camera": "通过相机学习物体",
-      "recap": "会话结束后的总结与笔记。"
-    }
+"footer": {
+       "eyebrow": "实时中文练习",
+       "title": "与 AI 中文教练自然地对话。",
+       "copy": "在手机上练习语音对话、相机词汇学习和结构化纠正。",
+       "cta": "在 Google Play 下载",
+       "linksLabel": "更多语言学习应用:",
+       "links": {
+         "cantonese": "学习粵语",
+         "thai": "学习泰语",
+         "ukrainian": "学习乌克兰语"
+       }
+     }
   }
 };
 const langLabels = { en: "EN", fr: "FR", de: "DE", it: "IT", pt: "PT", es: "ES", hi: "HI", ja: "JA", ko: "KO", ru: "RU", uk: "UK", pl: "PL", th: "TH", ar: "AR", "zh-TW": "繁中", "zh-CN": "简中" };

@@ -53,7 +53,13 @@ const translations = {
       "eyebrow": "Live Cantonese practice & translation",
       "title": "Speak naturally or translate with an AI Cantonese coach.",
       "copy": "Practice voice conversations, camera-based vocabulary, and structured corrections and instant translation from your phone.",
-      "cta": "Download on Google Play"
+      "cta": "Download on Google Play",
+      "linksLabel": "More Language Learning Apps:",
+      "links": {
+        "chinese": "Learn Chinese",
+        "thai": "Learn Thai",
+        "ukrainian": "Learn Ukrainian"
+      }
     },
     "session": {
       "chip": "GEMINI LIVE ACTIVE",
@@ -117,7 +123,13 @@ const translations = {
       "eyebrow": "Pratique Cantonese en direct",
       "title": "Parlez naturellement avec un coach IA Cantonese.",
       "copy": "Pratiquez les conversations vocales, le vocabulaire basé sur la caméra et les corrections structurées depuis votre téléphone.",
-      "cta": "Télécharger sur Google Play"
+      "cta": "Télécharger sur Google Play",
+      "linksLabel": "Plus d'applications de langue:",
+      "links": {
+        "chinese": "Apprendre le Chinois",
+        "thai": "Apprendre le Thaï",
+        "ukrainian": "Apprendre l'Ukrainien"
+      }
     },
     "session": {
       "chip": "GEMINI ACTIF EN DIRECT",
@@ -181,7 +193,13 @@ const translations = {
       "eyebrow": "Live-Kantonesisch-Übung",
       "title": "Sprich natürlich mit einem KI-Kantonesisch-Coach.",
       "copy": "Übe Sprachgespräche, kamerabasierten Wortschatz und strukturierte Korrekturen von deinem Telefon aus.",
-      "cta": "Bei Google Play herunterladen"
+      "cta": "Bei Google Play herunterladen",
+      "linksLabel": "Mehr Sprachlern-Apps:",
+      "links": {
+        "chinese": "Chinesisch lernen",
+        "thai": "Thailändisch lernen",
+        "ukrainian": "Ukrainisch lernen"
+      }
     },
     "session": {
       "chip": "GEMINI LIVE AKTIV",
@@ -245,7 +263,13 @@ const translations = {
       "eyebrow": "Práctica de cantonés en vivo",
       "title": "Habla con naturalidad con un coach de cantonés con IA.",
       "copy": "Practica conversaciones de voz, vocabulario con cámara y correcciones estructuradas desde tu teléfono.",
-      "cta": "Descargar en Google Play"
+      "cta": "Descargar en Google Play",
+      "linksLabel": "Más aplicaciones de idiomas:",
+      "links": {
+        "chinese": "Aprender Chino",
+        "thai": "Aprender Tailandés",
+        "ukrainian": "Aprender Ucraniano"
+      }
     },
     "session": {
       "chip": "GEMINI ACTIVO EN VIVO",
@@ -309,7 +333,13 @@ const translations = {
       "eyebrow": "Pratica di cantonese dal vivo",
       "title": "Parla naturalmente con un coach IA di cantonese.",
       "copy": "Pratica conversazioni vocali, vocabolario con la fotocamera e correzioni strutturate dal tuo telefono.",
-      "cta": "Scarica su Google Play"
+      "cta": "Scarica su Google Play",
+      "linksLabel": "Altre app per l'apprendimento linguistico:",
+      "links": {
+        "chinese": "Impara il Cinese",
+        "thai": "Impara il Thai",
+        "ukrainian": "Impara l'Ucraino"
+      }
     },
     "session": {
       "chip": "GEMINI ATTIVO DAL VIVO",
@@ -369,12 +399,18 @@ const translations = {
         "desc": "Reveja registros, correções e dicas após cada sessão."
       }
     },
-    "footer": {
-      "eyebrow": "Prática de cantonês ao vivo",
-      "title": "Fale naturalmente com um coach de cantonês IA.",
-      "copy": "Pratique conversas por voz, vocabulário com câmera e correções estruturadas pelo seu celular.",
-      "cta": "Baixar na Google Play"
-    },
+"footer": {
+       "eyebrow": "Prática de cantonês ao vivo",
+       "title": "Fale naturalmente com um coach de cantonês IA.",
+       "copy": "Pratique conversas por voz, vocabulário com câmera e correções estruturadas pelo seu celular.",
+       "cta": "Baixar na Google Play",
+       "linksLabel": "Mais apps de aprendizado de idiomas:",
+       "links": {
+         "chinese": "Aprender Chinês",
+         "thai": "Aprender Tailandês",
+         "ukrainian": "Aprender Ucraniano"
+       }
+     },
     "session": {
       "chip": "GEMINI ATIVO AO VIVO",
       "title": "Sessão: Cantonês diário",
@@ -433,12 +469,18 @@ const translations = {
         "desc": "प्रत्येक सत्र के बाद लॉग, सुधार और बोलने के सुझावों को फिर से देखें।"
       }
     },
-    "footer": {
-      "eyebrow": "लाइव कैंटोनीज़ अभ्यास",
-      "title": "एक AI कैंटोनीज़ कोच के साथ स्वाभाविक रूप से बोलें।",
-      "copy": "अपने फ़ोन से वॉइस वार्तालाप, कैमरा-आधारित शब्दावली और संरचित सुधारों का अभ्यास करें।",
-      "cta": "Google Play से डाउनलोड करें"
-    },
+"footer": {
+       "eyebrow": "लाइव कैंटोनीज़ अभ्यास",
+       "title": "एक AI कैंटोनीज़ कोच के साथ स्वाभाविक रूप से बोलें।",
+       "copy": "अपने फ़ोन से वॉइस वार्तालाप, कैमरा-आधारित शब्दावली और संरचित सुधारों का अभ्यास करें।",
+       "cta": "Google Play से डाउनलोड करें",
+       "linksLabel": "अधिक भाषा सीखने के ऐप्स:",
+       "links": {
+         "chinese": "चीनीज़ सीखें",
+         "thai": "थाई सीखें",
+         "ukrainian": "यूक्रेनियन सीखें"
+       }
+     },
     "session": {
       "chip": "GEMINI लाइव सक्रिय",
       "title": "सत्र: दैनिक कैंटोनीज़",
@@ -497,12 +539,18 @@ const translations = {
         "desc": "各セッション後にログ、訂正、スピーキングのヒントを確認できます。"
       }
     },
-    "footer": {
-      "eyebrow": "ライブ広東語練習",
-      "title": "AI広東語コーチと自然に話しましょう。",
-      "copy": "スマホひとつで音声会話、カメラを使った語彙学習、体系的な訂正を練習できます。",
-      "cta": "Google Playでダウンロード"
-    },
+"footer": {
+       "eyebrow": "ライブ広東語練習",
+       "title": "AI広東語コーチと自然に話しましょう。",
+       "copy": "スマホひとつで音声会話、カメラを使った語彙学習、体系的な訂正を練習できます。",
+       "cta": "Google Playでダウンロード",
+       "linksLabel": "他の言語学習アプリ:",
+       "links": {
+         "chinese": "中国語を学ぶ",
+         "thai": "タイ語を学ぶ",
+         "ukrainian": "ウクライナ語を学ぶ"
+       }
+     },
     "session": {
       "chip": "GEMINI ライブ接続中",
       "title": "セッション: 日常広東語",
@@ -561,12 +609,18 @@ const translations = {
         "desc": "각 세션 후에 로그, 교정, 말하기 팁을 다시 확인하세요."
       }
     },
-    "footer": {
-      "eyebrow": "라이브 광둥어 연습",
-      "title": "AI 광둥어 코치와 자연스럽게 대화하세요.",
-      "copy": "휴대폰에서 음성 대화, 카메라 기반 어휘, 체계적인 교정을 연습하세요.",
-      "cta": "Google Play에서 다운로드"
-    },
+"footer": {
+       "eyebrow": "라이브 광둥어 연습",
+       "title": "AI 광둥어 코치와 자연스럽게 대화하세요.",
+       "copy": "휴대폰에서 음성 대화, 카메라 기반 어휘, 체계적인 교정을 연습하세요.",
+       "cta": "Google Play에서 다운로드",
+       "linksLabel": "더 많은 언어 학습 앱:",
+       "links": {
+         "chinese": "중국어 배우기",
+         "thai": "태국어 배우기",
+         "ukrainian": "우크라이나어 배우기"
+       }
+     },
     "session": {
       "chip": "GEMINI 라이브 활성",
       "title": "세션: 일상 광둥어",
@@ -625,12 +679,18 @@ const translations = {
         "desc": "Просматривайте записи, исправления и советы после каждой сессии."
       }
     },
-    "footer": {
-      "eyebrow": "Живая практика кантонского",
-      "title": "Говорите естественно с ИИ-тренером кантонского.",
-      "copy": "Практикуйте голосовые разговоры, словарный запас по камере и структурированные исправления с телефона.",
-      "cta": "Скачать в Google Play"
-    },
+"footer": {
+       "eyebrow": "Живая практика кантонского",
+       "title": "Говорите естественно с ИИ-тренером кантонского.",
+       "copy": "Практикуйте голосовые разговоры, словарный запас по камере и структурированные исправления с телефона.",
+       "cta": "Скачать в Google Play",
+       "linksLabel": "Другие приложения для изучения языков:",
+       "links": {
+         "chinese": "Учить китайский",
+         "thai": "Учить тайский",
+         "ukrainian": "Учить украинский"
+       }
+     },
     "session": {
       "chip": "GEMINI АКТИВЕН",
       "title": "Сессия: Ежедневный кантонский",
@@ -689,12 +749,18 @@ const translations = {
         "desc": "Переглядайте записи, виправлення та поради після кожної сесії."
       }
     },
-    "footer": {
-      "eyebrow": "Жива практика кантонської",
-      "title": "Говоріть природно з ІІ-тренером кантонської.",
-      "copy": "Практикуйте голосові розмови, словниковий запас з камерою та структуровані виправлення з телефону.",
-      "cta": "Завантажити в Google Play"
-    },
+"footer": {
+       "eyebrow": "Жива практика кантонської",
+       "title": "Говоріть природно з ІІ-тренером кантонської.",
+       "copy": "Практикуйте голосові розмови, словниковий запас з камерою та структуровані виправлення з телефону.",
+       "cta": "Завантажити в Google Play",
+       "linksLabel": "Інші додатки для вивчення мов:",
+       "links": {
+         "chinese": "Вчитись китайською",
+         "thai": "Вчитись тайською",
+         "ukrainian": "Вчитись українською"
+       }
+     },
     "session": {
       "chip": "GEMINI АКТИВНИЙ",
       "title": "Сесія: Щоденна кантонська",
@@ -753,12 +819,18 @@ const translations = {
         "desc": "กลับมาดูบันทึก การแก้ไข และเคล็ดลับการพูดหลังแต่ละเซสชัน"
       }
     },
-    "footer": {
-      "eyebrow": "ฝึกภาษากวางตุ้งแบบสด",
-      "title": "พูดอย่างเป็นธรรมชาติกับโค้ชภาษากวางตุ้ง AI",
-      "copy": "ฝึกสนทนาด้วยเสียง คำศัพท์ผ่านกล้อง และการแก้ไขอย่างมีโครงสร้างจากโทรศัพท์ของคุณ",
-      "cta": "ดาวน์โหลดบน Google Play"
-    },
+"footer": {
+       "eyebrow": "ฝึกภาษากวางตุ้งแบบสด",
+       "title": "พูดอย่างเป็นธรรมชาติกับโค้ชภาษากวางตุ้ง AI",
+       "copy": "ฝึกสนทนาด้วยเสียง คำศัพท์ผ่านกล้อง และการแก้ไขอย่างมีโครงสร้างจากโทรศัพท์ของคุณ",
+       "cta": "ดาวน์โหลดบน Google Play",
+       "linksLabel": "แอปเรียนภาษาเพิ่มเติม:",
+       "links": {
+         "chinese": "เรียนภาษาจีน",
+         "thai": "เรียนภาษาไทย",
+         "ukrainian": "เรียนภาษาอุโกครินะ"
+       }
+     },
     "session": {
       "chip": "GEMINI เปิดใช้งานสด",
       "title": "เซสชัน: ภาษากวางตุ้งประจำวัน",
@@ -817,12 +889,18 @@ const translations = {
         "desc": "راجع السجلات والتصحيحات ونصائح التحدث بعد كل جلسة."
       }
     },
-    "footer": {
-      "eyebrow": "ممارسة الكانتونية المباشرة",
-      "title": "تحدث بشكل طبيعي مع مدرب كانتونية بالذكاء الاصطناعي.",
-      "copy": "تدرب على المحادثات الصوتية، والمفردات بالكاميرا، والتصحيحات المنظمة من هاتفك.",
-      "cta": "حمّله من Google Play"
-    },
+"footer": {
+       "eyebrow": "ممارسة الكانتونية المباشرة",
+       "title": "تحدث بشكل طبيعي مع مدرب كانتونية بالذكاء الاصطناعي.",
+       "copy": "تدرب على المحادثات الصوتية، والمفردات بالكاميرا، والتصحيحات المنظمة من هاتفك.",
+       "cta": "حمّله من Google Play",
+       "linksLabel": "تطبيقات تعلم اللغة الأخرى:",
+       "links": {
+         "chinese": "تعلم الصينية",
+         "thai": "تعلم الثيين",
+         "ukrainian": "تعلم الأوكرانية"
+       }
+     },
     "session": {
       "chip": "GEMINI نشط مباشر",
       "title": "الجلسة: الكانتونية اليومية",
@@ -881,12 +959,18 @@ const translations = {
         "desc": "每次對話後查看記錄、糾正和口說提示。"
       }
     },
-    "footer": {
-      "eyebrow": "即時粵語練習",
-      "title": "與 AI 粵語教練自然對話。",
-      "copy": "在手機上練習語音對話、相機詞彙學習與結構化糾正。",
-      "cta": "在 Google Play 下載"
-    },
+"footer": {
+       "eyebrow": "即時粵語練習",
+       "title": "與 AI 粵語教練自然對話。",
+       "copy": "在手機上練習語音對話、相機詞彙學習與結構化糾正。",
+       "cta": "在 Google Play 下載",
+       "linksLabel": "更多語言學習應用程式:",
+       "links": {
+         "chinese": "學習中文",
+         "thai": "學習泰語",
+         "ukrainian": "學習烏克蘭語"
+       }
+     },
     "session": {
       "chip": "GEMINI 即時連線中",
       "title": "會話：每日粵語",
@@ -945,19 +1029,18 @@ const translations = {
         "desc": "Wróć do logów, poprawek i wskazówek po każdej sesji."
       }
     },
-    "footer": {
-      "eyebrow": "Kantoński na żywo: praktyka i tłumaczenie",
-      "title": "Mów naturalnie lub tłumacz z AI — Twoim lektorem kantońskiego.",
-      "copy": "Ćwicz rozmowy głosowe, słownictwo oparte na obrazie oraz strukturalne poprawki i natychmiastowe tłumaczenie — z poziomu telefonu.",
-      "cta": "Pobierz w Google Play"
-    },
-    "session": {
-      "chip": "Aktywne na żywo",
-      "title": "Sesja: codzienny kantoński",
-      "voice": "Rozmowa głosowa w czasie rzeczywistym",
-      "camera": "Kontekst z aparatu do nauki obiektów",
-      "recap": "Podsumowanie na koniec sesji oraz natychmiastowe tłumaczenie słów/zwrotów i codziennej rozmowy."
-    }
+"footer": {
+       "eyebrow": "Kantoński na żywo: praktyka i tłumaczenie",
+       "title": "Mów naturalnie lub tłumacz z AI — Twoim lektorem kantońskiego.",
+       "copy": "Ćwicz rozmowy głosowe, słownictwo oparte na obrazie oraz strukturalne poprawki i natychmiastowe tłumaczenie — z poziomu telefonu.",
+       "cta": "Pobierz w Google Play",
+       "linksLabel": "Więcej aplikacji do nauki języków:",
+       "links": {
+         "chinese": "Naucz się chińskiego",
+         "thai": "Naucz się tajskiego",
+         "ukrainian": "Naucz się ukraińskiego"
+       }
+     }
   },
   "zh-CN": {
 
@@ -1010,19 +1093,18 @@ const translations = {
         "desc": "每次会话后查看记录、纠正和口语提示。"
       }
     },
-    "footer": {
-      "eyebrow": "实时粤语练习",
-      "title": "与 AI 粤语教练自然对话。",
-      "copy": "在手机上练习语音对话、相机词汇学习与结构化纠正。",
-      "cta": "在 Google Play 下载"
-    },
-    "session": {
-      "chip": "GEMINI 实时连接中",
-      "title": "对话：每日粤语",
-      "voice": "实时语音对话",
-      "camera": "通过相机学习物体",
-      "recap": "对话结束后的摘要与笔记。"
-    }
+"footer": {
+       "eyebrow": "实时粤语练习",
+       "title": "与 AI 粤语教练自然对话。",
+       "copy": "在手机上练习语音对话、相机词汇学习与结构化纠正。",
+       "cta": "在 Google Play 下载",
+       "linksLabel": "更多语言学习应用:",
+       "links": {
+         "chinese": "学习中文",
+         "thai": "学习泰语",
+         "ukrainian": "学习乌克兰语"
+       }
+     }
   }
 };
 const langLabels = { en: "EN", fr: "FR", de: "DE", it: "IT", pt: "PT", es: "ES", hi: "HI", ja: "JA", ko: "KO", ru: "RU", uk: "UK", pl: "PL", th: "TH", ar: "AR", "zh-TW": "繁中", "zh-CN": "简中" };

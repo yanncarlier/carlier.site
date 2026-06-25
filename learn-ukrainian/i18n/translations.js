@@ -49,12 +49,18 @@ const translations = {
         "desc": "Revisit logs, corrections, and speaking tips after each session."
       }
     },
-    "footer": {
-      "eyebrow": "Live Ukrainian practice & translation",
-      "title": "Speak naturally or translate with an AI Ukrainian coach.",
-      "copy": "Practice voice conversations, camera-based vocabulary, and structured corrections and instant translation from your phone.",
-      "cta": "Download on Google Play"
-    },
+"footer": {
+       "eyebrow": "Live Ukrainian practice & translation",
+       "title": "Speak naturally or translate with an AI Ukrainian coach.",
+       "copy": "Practice voice conversations, camera-based vocabulary, and structured corrections and instant translation from your phone.",
+       "cta": "Download on Google Play",
+       "linksLabel": "More Language Learning Apps:",
+       "links": {
+         "cantonese": "Learn Cantonese",
+         "chinese": "Learn Chinese",
+         "thai": "Learn Thai"
+       }
+     },
     "session": {
       "chip": "GEMINI LIVE ACTIVE",
       "title": "Session: Daily Ukrainian",
@@ -177,12 +183,18 @@ const translations = {
         "desc": "Sieh dir nach jeder Sitzung Protokolle, Korrekturen und Sprechtipps an."
       }
     },
-    "footer": {
-      "eyebrow": "Live Ukrainisch üben & übersetzen",
-      "title": "Sprich natürlich oder übersetze mit einem KI-Ukrainisch-Coach.",
-      "copy": "Übe Sprachgespräche, kamerabasierten Wortschatz und strukturierte Korrekturen sowie sofortige Übersetzung von deinem Telefon aus.",
-      "cta": "Bei Google Play herunterladen"
-    },
+"footer": {
+       "eyebrow": "Live Ukrainisch üben & übersetzen",
+       "title": "Sprich natürlich oder übersetze mit einem KI-Ukrainisch-Coach.",
+       "copy": "Übe Sprachgespräche, kamerabasierten Wortschatz und strukturierte Korrekturen sowie sofortige Übersetzung von deinem Telefon aus.",
+       "cta": "Bei Google Play herunterladen",
+       "linksLabel": "Mehr Sprachlern-Apps:",
+       "links": {
+         "cantonese": "Kantonesisch lernen",
+         "chinese": "Chinesisch lernen",
+         "thai": "Thailändisch lernen"
+       }
+     },
     "session": {
       "chip": "GEMINI LIVE AKTIV",
       "title": "Sitzung: Tägliches Ukrainisch",
@@ -241,12 +253,18 @@ const translations = {
         "desc": "Vuelve a consultar registros, correcciones y consejos de expresión después de cada sesión."
       }
     },
-    "footer": {
-      "eyebrow": "Práctica y traducción de ucraniano en vivo",
-      "title": "Habla naturalmente o traduce con un entrenador de IA ucraniano.",
-      "copy": "Practica conversaciones de voz, vocabulario con cámara, correcciones estructuradas y traducción instantánea desde tu teléfono.",
-      "cta": "Descargar en Google Play"
-    },
+"footer": {
+       "eyebrow": "Práctica y traducción de ucraniano en vivo",
+       "title": "Habla naturalmente o traduce con un entrenador de IA ucraniano.",
+       "copy": "Practica conversaciones de voz, vocabulario con cámara, correcciones estructuradas y traducción instantánea desde tu teléfono.",
+       "cta": "Descargar en Google Play",
+       "linksLabel": "Más aplicaciones de idiomas:",
+       "links": {
+         "cantonese": "Aprender Cantones",
+         "chinese": "Aprender Chino",
+         "thai": "Aprender Tailandés"
+       }
+     },
     "session": {
       "chip": "GEMINI EN VIVO ACTIVO",
       "title": "Sesión: Ucraniano diario",
@@ -305,12 +323,18 @@ const translations = {
         "desc": "Rivisita registri, correzioni e consigli di conversazione dopo ogni sessione."
       }
     },
-    "footer": {
-      "eyebrow": "Pratica e traduzione dell'ucraino dal vivo",
-      "title": "Parla naturalmente o traduci con un coach IA ucraino.",
-      "copy": "Pratica conversazioni vocali, vocabolario con la fotocamera, correzioni strutturate e traduzione istantanea dal tuo telefono.",
-      "cta": "Scarica su Google Play"
-    },
+"footer": {
+       "eyebrow": "Pratica e traduzione dell'ucraino dal vivo",
+       "title": "Parla naturalmente o traduci con un coach IA ucraino.",
+       "copy": "Pratica conversazioni vocali, vocabolario con la fotocamera, correzioni strutturate e traduzione istantanea dal tuo telefono.",
+       "cta": "Scarica su Google Play",
+       "linksLabel": "Altre app per l'apprendimento linguistico:",
+       "links": {
+         "cantonese": "Impara il Cantonese",
+         "chinese": "Impara il Cinese",
+         "thai": "Impara il Thai"
+       }
+     },
     "session": {
       "chip": "GEMINI IN DIRETTA ATTIVO",
       "title": "Sessione: Ucraino quotidiano",
@@ -369,12 +393,18 @@ const translations = {
         "desc": "Revise registros, correções e dicas de fala após cada sessão."
       }
     },
-    "footer": {
-      "eyebrow": "Prática e tradução de ucraniano ao vivo",
-      "title": "Fale naturalmente ou traduza com um coach IA ucraniano.",
-      "copy": "Pratique conversas por voz, vocabulário com câmera, correções estruturadas e tradução instantânea pelo seu celular.",
-      "cta": "Baixar na Google Play"
-    },
+"footer": {
+       "eyebrow": "Prática e tradução de ucraniano ao vivo",
+       "title": "Fale naturalmente ou traduza com um coach IA ucraniano.",
+       "copy": "Pratique conversas por voz, vocabulário com câmera, correções estruturadas e tradução instantânea pelo seu celular.",
+       "cta": "Baixar na Google Play",
+       "linksLabel": "Mais apps de aprendizado de idiomas:",
+       "links": {
+         "cantonese": "Aprender Cantones",
+         "chinese": "Aprender Chinês",
+         "thai": "Aprender Tailandês"
+       }
+     },
     "session": {
       "chip": "GEMINI AO VIVO ATIVO",
       "title": "Sessão: Ucraniano diário",
@@ -433,12 +463,18 @@ const translations = {
         "desc": "प्रत्येक सत्र के बाद लॉग, सुधार और बोलने के सुझावों की समीक्षा करें।"
       }
     },
-    "footer": {
-      "eyebrow": "लाइव यूक्रेनी अभ्यास और अनुवाद",
-      "title": "AI यूक्रेनी कोच के साथ स्वाभाविक रूप से बोलें या अनुवाद करें।",
-      "copy": "अपने फ़ोन से वॉइस वार्तालाप, कैमरा-आधारित शब्दावली, संरचित सुधार और तत्काल अनुवाद का अभ्यास करें।",
-      "cta": "Google Play पर डाउनलोड करें"
-    },
+"footer": {
+       "eyebrow": "लाइव यूक्रेनी अभ्यास और अनुवाद",
+       "title": "AI यूक्रेनी कोच के साथ स्वाभाविक रूप से बोलें या अनुवाद करें।",
+       "copy": "अपने फ़ोन से वॉइस वार्तालाप, कैमरा-आधारित शब्दावली, संरचित सुधार और तत्काल अनुवाद का अभ्यास करें।",
+       "cta": "Google Play पर डाउनलोड करें",
+       "linksLabel": "अधिक भाषा सीखने के ऐप्स:",
+       "links": {
+         "cantonese": "कैंटोनीज़ सीखें",
+         "chinese": "चीनीज़ सीखें",
+         "thai": "थाई सीखें"
+       }
+     },
     "session": {
       "chip": "GEMINI लाइव सक्रिय",
       "title": "सत्र: दैनिक यूक्रेनी",
@@ -497,12 +533,18 @@ const translations = {
         "desc": "各セッション後にログ、修正点、スピーキングのヒントを見直しましょう。"
       }
     },
-    "footer": {
-      "eyebrow": "ライブウクライナ語練習＆翻訳",
-      "title": "AIウクライナ語コーチと自然に話すか翻訳しましょう。",
-      "copy": "音声会話、カメラを使った語彙学習、構造化された修正、そして電話から即時翻訳を練習できます。",
-      "cta": "Google Playからダウンロード"
-    },
+"footer": {
+       "eyebrow": "ライブウクライナ語練習＆翻訳",
+       "title": "AIウクライナ語コーチと自然に話すか翻訳ましょう。",
+       "copy": "音声会話、カメラを使った語彙学習、構造化された修正、そして電話から即時翻訳を練習できます。",
+       "cta": "Google Playからダウンロード",
+       "linksLabel": "他の言語学習アプリ:",
+       "links": {
+         "cantonese": "広東語を学ぶ",
+         "chinese": "中国語を学ぶ",
+         "thai": "タイ語を学ぶ"
+       }
+     },
     "session": {
       "chip": "GEMINIライブアクティブ",
       "title": "セッション：日常ウクライナ語",
@@ -561,12 +603,18 @@ const translations = {
         "desc": "각 세션 후에 로그, 교정 및 말하기 팁을 다시 확인하세요."
       }
     },
-    "footer": {
-      "eyebrow": "라이브 우크라이나어 연습 및 번역",
-      "title": "AI 우크라이나어 코치와 자연스럽게 말하거나 번역하세요.",
-      "copy": "음성 대화, 카메라 기반 어휘, 체계적인 교정 및 휴대폰에서 즉시 번역을 연습하세요.",
-      "cta": "Google Play에서 다운로드"
-    },
+"footer": {
+       "eyebrow": "라이브 우크라이나어 연습 및 번역",
+       "title": "AI 우크라이나어 코치와 자연스럽게 말하거나 번역하세요.",
+       "copy": "음성 대화, 카메라 기반 어휘, 체계적인 교정 및 휴대폰에서 즉시 번역을 연습하세요.",
+       "cta": "Google Play에서 다운로드",
+       "linksLabel": "더 많은 언어 학습 앱:",
+       "links": {
+         "cantonese": "관동어 배우기",
+         "chinese": "중국어 배우기",
+         "thai": "태국어 배우기"
+       }
+     },
     "session": {
       "chip": "GEMINI 라이브 활성",
       "title": "세션: 데일리 우크라이나어",
@@ -625,12 +673,18 @@ const translations = {
         "desc": "Просматривайте журналы, исправления и советы по речи после каждой сессии."
       }
     },
-    "footer": {
-      "eyebrow": "Живая практика и перевод украинского",
-      "title": "Говорите естественно или переводите с ИИ-тренером украинского.",
-      "copy": "Практикуйте голосовые разговоры, словарный запас с камерой, структурированные исправления и мгновенный перевод с телефона.",
-      "cta": "Скачать в Google Play"
-    },
+"footer": {
+       "eyebrow": "Живая практика и перевод украинского",
+       "title": "Говорите естественно или переводите с ИИ-тренером украинского.",
+       "copy": "Практикуйте голосовые разговоры, словарный запас с камерой, структурированные исправления и мгновенный перевод с телефона.",
+       "cta": "Скачать в Google Play",
+       "linksLabel": "Другие приложения для изучения языков:",
+       "links": {
+         "cantonese": "Учить кантонский",
+         "chinese": "Учить китайский",
+         "thai": "Учить тайский"
+       }
+     },
     "session": {
       "chip": "GEMINI LIVE АКТИВЕН",
       "title": "Сессия: Ежедневный украинский",
@@ -689,12 +743,18 @@ const translations = {
         "desc": "Переглядайте журнали, виправлення та поради щодо мовлення після кожної сесії."
       }
     },
-    "footer": {
-      "eyebrow": "Жива практика та переклад української",
-      "title": "Говоріть природно або перекладайте з ІІ-тренером української.",
-      "copy": "Практикуйте голосові розмови, словниковий запас через камеру, структуровані виправлення та миттєвий переклад з телефону.",
-      "cta": "Завантажити в Google Play"
-    },
+"footer": {
+       "eyebrow": "Жива практика та переклад української",
+       "title": "Говоріть природно або перекладайте з ІІ-тренером української.",
+       "copy": "Практикуйте голосові розмови, словниковий запас з камерою, структуровані виправлення та миттєвий переклад зі свого телефону.",
+       "cta": "Завантажити в Google Play",
+       "linksLabel": "Інші додатки для вивчення мов:",
+       "links": {
+         "cantonese": "Вчитись кантонською",
+         "chinese": "Вчитись китайською",
+         "thai": "Вчитись тайською"
+       }
+     },
     "session": {
       "chip": "GEMINI АКТИВНИЙ",
       "title": "Сесія: Щоденна українська",
@@ -753,12 +813,18 @@ const translations = {
         "desc": "กลับมาดูบันทึก การแก้ไข และเคล็ดลับการพูดหลังจากแต่ละเซสชัน"
       }
     },
-    "footer": {
-      "eyebrow": "ฝึกฝนและแปลภาษายูเครนแบบสด",
-      "title": "พูดอย่างเป็นธรรมชาติหรือแปลภาษากับโค้ช AI ภาษายูเครน",
-      "copy": "ฝึกฝนการสนทนาด้วยเสียง คำศัพท์ผ่านกล้อง การแก้ไขที่มีโครงสร้าง และการแปลทันทีจากโทรศัพท์ของคุณ",
-      "cta": "ดาวน์โหลดบน Google Play"
-    },
+"footer": {
+       "eyebrow": "ฝึกฝนและแปลภาษายูเครนแบบสด",
+       "title": "พูดอย่างเป็นธรรมชาติหรือแปลภาษากับโค้ชภาษายูเครน AI",
+       "copy": "ฝึกฝนการสนทนาด้วยเสียง คำศัพท์ผ่านกล้อง การแก้ไขที่มีโครงสร้างและการแปลทันทีจากโทรศัพท์ของคุณ",
+       "cta": "ดาวน์โหลดบน Google Play",
+       "linksLabel": "แอปเรียนภาษาเพิ่มเติม:",
+       "links": {
+         "cantonese": "เรียนภาษากวางตุ้ง",
+         "chinese": "เรียนภาษาจีน",
+         "thai": "เรียนภาษาไทย"
+       }
+     },
     "session": {
       "chip": "GEMINI เปิดใช้งานสด",
       "title": "เซสชัน: ภาษายูเครนประจำวัน",
@@ -817,12 +883,18 @@ const translations = {
         "desc": "عد إلى السجلات والتصحيحات ونصائح التحدث بعد كل جلسة."
       }
     },
-    "footer": {
-      "eyebrow": "ممارسة وترجمة أوكرانية مباشرة",
-      "title": "تحدث بشكل طبيعي أو ترجم مع مدرب أوكراني بالذكاء الاصطناعي.",
-      "copy": "تدرب على المحادثات الصوتية والمفردات عبر الكاميرا والتصحيحات المنظمة والترجمة الفورية من هاتفك.",
-      "cta": "تحميل من Google Play"
-    },
+"footer": {
+       "eyebrow": "ممارسة وترجمة أوكرانية مباشرة",
+       "title": "تحدث بشكل طبيعي أو ترجم مع مدرب أوكراني بالذكاء الاصطناعي.",
+       "copy": "تدرب على المحادثات الصوتية، والمفردات بالكاميرا، والتصحيحات المنظمة والترجمة الفورية من هاتفك.",
+       "cta": "تحميل من Google Play",
+       "linksLabel": "تطبيقات تعلم اللغة الأخرى:",
+       "links": {
+         "cantonese": "تعلم الكانتونية",
+         "chinese": "تعلم الصينية",
+         "thai": "تعلم الثيين"
+       }
+     },
     "session": {
       "chip": "GEMINI نشط مباشر",
       "title": "الجلسة: الأوكرانية اليومية",
@@ -881,12 +953,18 @@ const translations = {
         "desc": "每次會話後重新檢視記錄、糾正和口說技巧。"
       }
     },
-    "footer": {
-      "eyebrow": "即時烏克蘭語練習與翻譯",
-      "title": "與 AI 烏克蘭語教練自然對話或翻譯。",
-      "copy": "在手機上練習語音對話、相機詞彙學習、結構化糾正以及即時翻譯。",
-      "cta": "在 Google Play 下載"
-    },
+"footer": {
+       "eyebrow": "即時烏克蘭語練習與翻譯",
+       "title": "與 AI 烏克蘭語教練自然對話或翻譯。",
+       "copy": "在手機上練習語音對話、相機詞彙學習、結構化糾正以及即時翻譯。",
+       "cta": "在 Google Play 下載",
+       "linksLabel": "更多語言學習應用程式:",
+       "links": {
+         "cantonese": "學習廣東話",
+         "chinese": "學習中文",
+         "thai": "學習泰語"
+       }
+     },
     "session": {
       "chip": "GEMINI 即時啟用中",
       "title": "會話：日常烏克蘭語",
@@ -945,12 +1023,18 @@ const translations = {
         "desc": "Wróć do logów, poprawek i wskazówek po każdej sesji."
       }
     },
-    "footer": {
-      "eyebrow": "Na żywo: ukraiński praktyka i tłumaczenie",
-      "title": "Mów naturalnie lub tłumacz z AI — Twoim lektorem ukraińskiego.",
-      "copy": "Ćwicz rozmowy głosowe, słownictwo oparte na obrazie oraz strukturalne poprawki i natychmiastowe tłumaczenie — z poziomu telefonu.",
-      "cta": "Pobierz w Google Play"
-    },
+"footer": {
+       "eyebrow": "Na żywo: ukraiński praktyka i tłumaczenie",
+       "title": "Mów naturalnie lub tłumacz z AI — Twoim lektorem ukraińskiego.",
+       "copy": "Ćwicz rozmowy głosowe, słownictwo oparte na obrazie oraz strukturalne poprawki i natychmiastowe tłumaczenie — z poziomu telefonu.",
+       "cta": "Pobierz w Google Play",
+       "linksLabel": "Więcej aplikacji do nauki języków:",
+       "links": {
+         "cantonese": "Naucz się kantońskiego",
+         "chinese": "Naucz się chińskiego",
+         "thai": "Naucz się tajskiego"
+       }
+     },
     "session": {
       "chip": "Aktywne na żywo",
       "title": "Sesja: codzienny ukraiński",

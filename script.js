@@ -87,6 +87,12 @@ const translations = {
             skills: 'Skills',
             projects: 'Projects',
             contact: 'Contact',
+            landing: {
+                cantonese: 'Learn Cantonese',
+                chinese: 'Learn Chinese',
+                thai: 'Learn Thai',
+                ukrainian: 'Learn Ukrainian'
+            },
             copyright: '© 2026 Carlier. All rights reserved.',
             crafted: 'Crafted with passion'
         },
@@ -174,6 +180,12 @@ const translations = {
             skills: 'Навички',
             projects: 'Проєкти',
             contact: 'Контакти',
+            landing: {
+                cantonese: 'Вчитись кантонською',
+                chinese: 'Вчитись китайською',
+                thai: 'Вчитись тайською',
+                ukrainian: 'Вчитись українською'
+            },
             copyright: '© 2026 Carlier. Всі права захищені.',
             crafted: 'Створено з пристрастю'
         },
@@ -261,6 +273,12 @@ const translations = {
             skills: 'ทักษะ',
             projects: 'โปรเจกต์',
             contact: 'ติดต่อ',
+            landing: {
+                cantonese: 'เรียนภาษากวางตุ้ง',
+                chinese: 'เรียนภาษาจีน',
+                thai: 'เรียนภาษาไทย',
+                ukrainian: 'เรียนภาษาอุโกครินะ'
+            },
             copyright: '© 2026 Carlier. สงวนลิขสิทธิ์.',
             crafted: 'สร้างด้วยความหลงใหล'
         },
@@ -348,6 +366,12 @@ const translations = {
             skills: 'Competências',
             projects: 'Projetos',
             contact: 'Contacto',
+            landing: {
+                cantonese: 'Aprender Cantones',
+                chinese: 'Aprender Chinês',
+                thai: 'Aprender Tailandês',
+                ukrainian: 'Aprender Ucraniano'
+            },
             copyright: '© 2026 Carlier. Todos os direitos reservados.',
             crafted: 'Criado com paixão'
         },
@@ -435,6 +459,12 @@ const translations = {
             skills: 'Habilidades',
             projects: 'Proyectos',
             contact: 'Contacto',
+            landing: {
+                cantonese: 'Aprender Cantones',
+                chinese: 'Aprender Chino',
+                thai: 'Aprender Tailandés',
+                ukrainian: 'Aprender Ucraniano'
+            },
             copyright: '© 2026 Carlier. Todos los derechos reservados.',
             crafted: 'Creado con pasión'
         },
@@ -522,6 +552,12 @@ const translations = {
             skills: 'Compétences',
             projects: 'Projets',
             contact: 'Contact',
+            landing: {
+                cantonese: 'Apprendre le Cantonais',
+                chinese: 'Apprendre le Chinois',
+                thai: 'Apprendre le Thaï',
+                ukrainian: 'Apprendre l\'Ukrainien'
+            },
             copyright: '© 2026 Carlier. Tous droits réservés.',
             crafted: 'Conçu avec passion'
         },
@@ -609,6 +645,12 @@ const translations = {
             skills: '技能',
             projects: '專案',
             contact: '聯繫',
+            landing: {
+                cantonese: '學習粵語',
+                chinese: '學習中文',
+                thai: '學習泰語',
+                ukrainian: '學習烏克蘭語'
+            },
             copyright: '© 2026 Carlier. 版權所有。',
             crafted: '用心打造'
         },
@@ -696,6 +738,12 @@ const translations = {
             skills: '技能',
             projects: '项目',
             contact: '联系',
+            landing: {
+                cantonese: '学习粤语',
+                chinese: '学习中文',
+                thai: '学习泰语',
+                ukrainian: '学习乌克兰语'
+            },
             copyright: '© 2026 Carlier. 版权所有。',
             crafted: '用心打造'
         },
@@ -783,6 +831,12 @@ const translations = {
             skills: 'कौशल',
             projects: 'प्रोजेक्ट्स',
             contact: 'संपर्क',
+            landing: {
+                cantonese: 'कैंटोनीज़ सीखें',
+                chinese: 'चीनीज़ सीखें',
+                thai: 'थाई सीखें',
+                ukrainian: 'यूक्रेनियन सीखें'
+            },
             copyright: '© 2026 Carlier. सर्वाधिकार सुरक्षित।',
             crafted: 'जुनून के साथ बनाया गया'
         },
@@ -870,6 +924,12 @@ const translations = {
             skills: 'スキル',
             projects: 'プロジェクト',
             contact: 'お問い合わせ',
+            landing: {
+                cantonese: '広東語を学ぶ',
+                chinese: '中国語を学ぶ',
+                thai: 'タイ語を学ぶ',
+                ukrainian: 'ウクライナ語を学ぶ'
+            },
             copyright: '© 2026 Carlier. All rights reserved.',
             crafted: '情熱を込めて作られました'
         },
@@ -957,6 +1017,12 @@ const translations = {
             skills: 'المهارات',
             projects: 'المشاريع',
             contact: 'تواصل',
+            landing: {
+                cantonese: 'تعلم الكانتونيز',
+                chinese: 'تعلم الصينية',
+                thai: 'تعلم الثيين',
+                ukrainian: 'تعلم الأوكرانية'
+            },
             copyright: '© 2026 Carlier. جميع الحقوق محفوظة.',
             crafted: 'صُنع بحب'
         },
@@ -1044,6 +1110,12 @@ const translations = {
             skills: 'Fähigkeiten',
             projects: 'Projekte',
             contact: 'Kontakt',
+            landing: {
+                cantonese: 'Kantonesisch lernen',
+                chinese: 'Chinesisch lernen',
+                thai: 'Thailändisch lernen',
+                ukrainian: 'Ukrainisch lernen'
+            },
             copyright: '© 2026 Carlier. Alle Rechte vorbehalten.',
             crafted: 'Mit Leidenschaft erstellt'
         },
@@ -1131,6 +1203,12 @@ const translations = {
             skills: 'Competenze',
             projects: 'Progetti',
             contact: 'Contatto',
+            landing: {
+                cantonese: 'Impara il Cantonese',
+                chinese: 'Impara il Cinese',
+                thai: 'Impara il Thai',
+                ukrainian: 'Impara l\'Ucraino'
+            },
             copyright: '© 2026 Carlier. Tutti i diritti riservati.',
             crafted: 'Creato con passione'
         },
@@ -1218,6 +1296,12 @@ const translations = {
             skills: '기술',
             projects: '프로젝트',
             contact: '연락처',
+            landing: {
+                cantonese: '광둥어 배우기',
+                chinese: '중국어 배우기',
+                thai: '태국어 배우기',
+                ukrainian: '우크라이나어 배우기'
+            },
             copyright: '© 2026 Carlier. 모든 권리 보유.',
             crafted: '열정으로 제작'
         },
@@ -1305,6 +1389,12 @@ const translations = {
             skills: 'Навыки',
             projects: 'Проекты',
             contact: 'Контакт',
+            landing: {
+                cantonese: 'Учить кантонский',
+                chinese: 'Учить китайский',
+                thai: 'Учить тайский',
+                ukrainian: 'Учить украинский'
+            },
             copyright: '© 2026 Carlier. Все права защищены.',
             crafted: 'Создано с любовью'
         },
@@ -1381,7 +1471,7 @@ const translations = {
                 title: 'AI Agent Khru (jeszcze nieopublikowany)',
                 desc: 'Ucz się tajskiego, ćwicz prawdziwe rozmowy i tłumacz w czasie rzeczywistym z działającym nauczycielem AI tajskiego — z czatem głosowym, kontekstem opartym na kamerze i natychmiastowym wsparciem tłumaczeń.'
             }
-        },
+},
         contact: {
             tag: 'Napisz do mnie',
             title: 'Zbudujmy coś niesamowitego razem',
@@ -1393,93 +1483,17 @@ const translations = {
             skills: 'Umiejętności',
             projects: 'Projekty',
             contact: 'Kontakt',
+            landing: {
+                cantonese: 'Naucz się kantońskiego',
+                chinese: 'Naucz się chińskiego',
+                thai: 'Naucz się tajskiego',
+                ukrainian: 'Naucz się ukraińskiego'
+            },
             copyright: '© 2026 Carlier. Wszelkie prawa zastrzeżone.',
             crafted: 'Stworzone z pasją'
         },
         accessibility: {
             skipToMain: 'Przejdź do treści głównej'
-        }
-    },
-    'zh-TW': {
-
-        hero: {
-            title1: 'От концепции до запуска, Превращение идей в продукты.',
-            title2: '',
-            subtitle1: 'Создаю ',
-            highlight1: 'мобильные приложения',
-            subtitle2: ', ',
-            highlight2: 'SaaS-решения',
-            subtitle3: ' и ',
-            highlight3: 'системы ИИ',
-            subtitle4: ', которые масштабируются.',
-            subtitle5: 'Создаю мобильные приложения, SaaS-решения и системы ИИ, которые масштабируются',
-            cta: 'Связаться'
-        },
-        about: {
-            tag: 'О себе',
-            title: 'Создаю продукты, которые имеют значение',
-            text1: 'Я основатель и инженер-программист, увлеченный созданием влиятельных продуктов. С экспертизой в мобильной разработке, SaaS, системах ИИ и системной архитектуре я помогаю стартапам и компаниям реализовать их видения.',
-            text2: 'Будь то нативное мобильное приложение, система ИИ, кроссплатформенное решение или масштабируемая SaaS-платформа, я подхожу к каждому проекту с фокусом на пользовательский опыт, производительность и бизнес-цели.',
-            value1: { title: 'Исполнение', desc: 'Быстрое прототипирование и итеративная разработка для быстрого вывода вашего продукта на рынок.' },
-            value2: { title: 'От начала до конца', desc: 'От дизайна до деплоя я управляю каждым аспектом разработки продукта.' },
-            value3: { title: 'Качество', desc: 'Чистый код, продуманный UX и масштабируемая архитектура в каждом проекте.' }
-        },
-        skills: {
-            tag: 'Экспертиза',
-            title: 'Технологии, с которыми я работаю',
-            mobile: 'Мобильная разработка',
-            web: 'Веб и SaaS',
-            business: 'Корпоративные программные решения',
-            design: 'Дизайн и продукт',
-            ai: 'Системы ИИ',
-            infra: 'Инфраструктура'
-        },
-        projects: {
-            tag: 'Избранные работы',
-            title: 'AI мобильные приложения',
-            view: 'Скачать приложение',
-            tags: {
-                mobile: 'Мобильное приложение',
-                aiScanner: 'ИИ-сканер',
-                aiTutor: 'ИИ-репетитор'
-            },
-            coin: {
-                title: 'Coin Identifier',
-                desc: 'Приложение для сканирования монет на базе ИИ для коллекционеров. Мгновенно идентифицируйте монеты, оценивайте рыночную стоимость и каталогизируйте свою коллекцию.'
-            },
-            cantonese: {
-                title: 'AI Agent Lousi',
-                desc: 'Говорите и практикуйте кантонский диалект в реальном времени с живым ИИ-преподавателем кантонского с естественным голосовым чатом и контекстом на основе камеры.'
-            },
-            mandarin: {
-                title: 'AI Agent Laoshi',
-                desc: 'Практикуйте мандаринский в реальном времени с живым ИИ-тренером мандаринского с голосом в реальном времени, практикой с визуальным руководством и мгновенными исправлениями.'
-            },
-            vchytel: {
-                title: 'AI Agent Vchytel',
-                desc: 'Изучайте украинский, практикуйте реальные разговоры и переводите в реальном времени с живым ИИ-преподавателем украинского языка с голосовым чатом, контекстом на основе камеры и мгновенным переводом.'
-            },
-            khru: {
-                title: 'AI Agent Khru (еще не опубликовано)',
-                desc: 'Учитесь и практикуйте тайский в реальном времени с живым ИИ-преподавателем тайского с голосовым чатом, словарным запасом на основе камеры и структурированными исправлениями.'
-            }
-        },
-        contact: {
-            tag: 'Связаться',
-            title: 'Давайте создадим что-то удивительное вместе',
-            text: 'Есть идея проекта? Ищете технического партнера? Мне бы хотелось услышать об этом. Давайте обсудим, как мы можем реализовать ваше видение.'
-        },
-        footer: {
-            tagline: 'Создаю продукты, которые меняют мир.',
-            about: 'О себе',
-            skills: 'Навыки',
-            projects: 'Проекты',
-            contact: 'Контакт',
-            copyright: '© 2026 Carlier. Все права защищены.',
-            crafted: 'Создано с любовью'
-        },
-        accessibility: {
-            skipToMain: 'Перейти к основному содержанию'
         }
     }
 };
@@ -1490,6 +1504,7 @@ const langLabels = {
     fr: 'FR',
     pt: 'PT',
     es: 'ES',
+    th: 'TH',
     hi: 'HI',
     ja: 'JA',
     ar: 'AR',
@@ -1499,6 +1514,7 @@ const langLabels = {
     it: 'IT',
     ko: 'KO',
     ru: 'RU',
+    uk: 'UK',
     pl: 'PL'
 };
 
@@ -1517,6 +1533,17 @@ function setStoredLanguage(lang) {
 function updateContent(lang) {
     const t = translations[lang];
     if (!t) return;
+
+    // Update footer landing links to point to the right language pages
+    // (these pages use ?lang=xx on the main site and should be passed through).
+    const langQuery = lang ? `?lang=${encodeURIComponent(lang)}` : '';
+    document.querySelectorAll('.footer-landing-link[data-landing]').forEach(a => {
+        const baseHref = a.getAttribute('href')?.split('?')[0] || a.getAttribute('href');
+        if (baseHref) {
+            a.setAttribute('href', `${baseHref}${langQuery}`);
+        }
+    });
+
 
     // Update HTML lang attribute
     document.documentElement.lang = lang;

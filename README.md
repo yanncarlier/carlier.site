@@ -148,3 +148,4 @@ For feedback, bug reports, or feature requests, please reach out via:
 &copy; 2026 Carlier. All rights reserved.
 
 </div>
+

@@ -1,0 +1,7 @@
+name = "carlier-security-headers"
+main = "workers/security-headers.js"
+compatibility_date = "2026-06-30"
+
+routes = [
+  { pattern = "carlier.site/*", zone_id = "REPLACE_WITH_YOUR_CLOUDFLARE_ZONE_ID" }
+]

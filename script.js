@@ -1530,6 +1530,17 @@ function setStoredLanguage(lang) {
     localStorage.setItem('preferred-language', lang);
 }
 
+function updateCanonical(lang) {
+    const canonical = document.querySelector('link[rel="canonical"]');
+    if (!canonical) return;
+    const baseUrl = 'https://carlier.site/';
+    if (lang && lang !== 'en') {
+        canonical.setAttribute('href', `${baseUrl}?lang=${encodeURIComponent(lang)}`);
+    } else {
+        canonical.setAttribute('href', baseUrl);
+    }
+}
+
 function updateContent(lang) {
     const t = translations[lang];
     if (!t) return;
@@ -1547,6 +1558,9 @@ function updateContent(lang) {
 
     // Update HTML lang attribute
     document.documentElement.lang = lang;
+
+    // Update canonical to be self-referencing for non-default languages
+    updateCanonical(lang);
 
     // Update all elements with data-i18n attribute
     document.querySelectorAll('[data-i18n]').forEach(el => {

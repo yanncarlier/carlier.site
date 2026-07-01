@@ -83,6 +83,7 @@ const translations = {
         },
         footer: {
             tagline: 'Building products that make a difference.',
+            home: 'Home',
             about: 'About',
             skills: 'Skills',
             projects: 'Projects',
@@ -176,6 +177,7 @@ const translations = {
         },
         footer: {
             tagline: 'Створюю продукти, які змінюють світ.',
+            home: 'Головна',
             about: 'Про мене',
             skills: 'Навички',
             projects: 'Проєкти',
@@ -269,6 +271,7 @@ const translations = {
         },
         footer: {
             tagline: 'สร้างผลิตภัณฑ์ที่สร้างความแตกต่าง.',
+            home: 'หน้าแรก',
             about: 'เกี่ยวกับ',
             skills: 'ทักษะ',
             projects: 'โปรเจกต์',
@@ -362,6 +365,7 @@ const translations = {
         },
         footer: {
             tagline: 'A construir produtos que fazem a diferença.',
+            home: 'Início',
             about: 'Sobre',
             skills: 'Competências',
             projects: 'Projetos',
@@ -455,6 +459,7 @@ const translations = {
         },
         footer: {
             tagline: 'Construyendo productos que marcan la diferencia.',
+            home: 'Inicio',
             about: 'Sobre',
             skills: 'Habilidades',
             projects: 'Proyectos',
@@ -547,7 +552,8 @@ const translations = {
             text: 'Vous avez un projet en tête ? Vous cherchez un partenaire technique ? J\'adorerais en entendre parler. Discutons de la façon dont nous pouvons concrétiser votre vision.'
         },
         footer: {
-            tagline: 'Construire des produits qui font la différence.',
+            tagline: 'Construire des Apps Mobiles, des solutions SaaS et des Systèmes IA qui passent à l\'échelle.',
+            home: 'Accueil',
             about: 'À Propos',
             skills: 'Compétences',
             projects: 'Projets',
@@ -641,6 +647,7 @@ const translations = {
         },
         footer: {
             tagline: '構建改變世界的產品。',
+            home: '首頁',
             about: '關於',
             skills: '技能',
             projects: '專案',
@@ -734,6 +741,7 @@ const translations = {
         },
         footer: {
             tagline: '构建改变世界的产品。',
+            home: '首页',
             about: '关于',
             skills: '技能',
             projects: '项目',
@@ -827,6 +835,7 @@ const translations = {
         },
         footer: {
             tagline: 'अंतर लाने वाले उत्पाद बना रहे हैं।',
+            home: 'होम',
             about: 'परिचय',
             skills: 'कौशल',
             projects: 'प्रोजेक्ट्स',
@@ -920,6 +929,7 @@ const translations = {
         },
         footer: {
             tagline: '変化をもたらす製品を構築しています。',
+            home: 'ホーム',
             about: '概要',
             skills: 'スキル',
             projects: 'プロジェクト',
@@ -1013,6 +1023,7 @@ const translations = {
         },
         footer: {
             tagline: 'نبني منتجات تحدث فرقاً.',
+            home: 'الرئيسية',
             about: 'حول',
             skills: 'المهارات',
             projects: 'المشاريع',
@@ -1106,6 +1117,7 @@ const translations = {
         },
         footer: {
             tagline: 'Produkte bauen, die einen Unterschied machen.',
+            home: 'Startseite',
             about: 'Über',
             skills: 'Fähigkeiten',
             projects: 'Projekte',
@@ -1199,6 +1211,7 @@ const translations = {
         },
         footer: {
             tagline: 'Costruire prodotti che fanno la differenza.',
+            home: 'Home',
             about: 'Chi sono',
             skills: 'Competenze',
             projects: 'Progetti',
@@ -1292,6 +1305,7 @@ const translations = {
         },
         footer: {
             tagline: '차이를 만드는 제품을 구축합니다.',
+            home: '홈',
             about: '소개',
             skills: '기술',
             projects: '프로젝트',
@@ -1385,6 +1399,7 @@ const translations = {
         },
         footer: {
             tagline: 'Создаю продукты, которые меняют мир.',
+            home: 'Главная',
             about: 'О себе',
             skills: 'Навыки',
             projects: 'Проекты',
@@ -1479,6 +1494,7 @@ const translations = {
         },
         footer: {
             tagline: 'Tworzymy produkty, które robią różnicę.',
+            home: 'Strona główna',
             about: 'O mnie',
             skills: 'Umiejętności',
             projects: 'Projekty',

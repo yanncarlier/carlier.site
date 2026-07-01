@@ -376,16 +376,8 @@ h1 {
   gap: 3rem;
 }
 
-.screenshot-grid {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 1rem;
-}
-
-.screenshot-grid img {
+.screenshot-section > img {
   width: 100%;
-  aspect-ratio: 9 / 16;
-  object-fit: cover;
   border: 1px solid var(--color-border);
   border-radius: 8px;
   box-shadow: var(--shadow-lg);
@@ -536,12 +528,7 @@ h1 {
     padding-bottom: 82px;
   }
 
-  .screenshot-grid {
-    grid-template-columns: repeat(3, minmax(180px, 1fr));
-    overflow-x: auto;
-    padding-bottom: 0.4rem;
-  }
-}
+  .hero {
 
 @media (max-width: 560px) {
   .site-header {
@@ -575,11 +562,6 @@ h1 {
     position: static;
     pointer-events: auto;
     overflow: visible;
-  }
-
-  .screenshot-grid {
-    grid-template-columns: 1fr;
-    overflow-x: visible;
   }
 
   .signup-row {

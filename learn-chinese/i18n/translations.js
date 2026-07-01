@@ -59,7 +59,8 @@ const translations = {
          "cantonese": "Learn Cantonese",
          "thai": "Learn Thai",
          "ukrainian": "Learn Ukrainian"
-       }
+       },
+       "home": "Home",
      },
     "session": {
       "chip": "GEMINI LIVE ACTIVE",
@@ -129,7 +130,8 @@ const translations = {
          "cantonese": "Apprendre le Cantonais",
          "thai": "Apprendre le Thaï",
          "ukrainian": "Apprendre l'Ukrainien"
-       }
+       },
+       "home": "Accueil",
      },
     "session": {
       "chip": "GEMINI ACTIF EN DIRECT",
@@ -199,7 +201,8 @@ const translations = {
          "cantonese": "Kantonesisch lernen",
          "thai": "Thailändisch lernen",
          "ukrainian": "Ukrainisch lernen"
-       }
+       },
+       "home": "Startseite",
      },
     "session": {
       "chip": "GEMINI LIVE AKTIV",
@@ -269,7 +272,8 @@ const translations = {
          "cantonese": "Aprender Cantones",
          "thai": "Aprender Tailandés",
          "ukrainian": "Aprender Ucraniano"
-       }
+       },
+       "home": "Inicio",
      },
     "session": {
       "chip": "GEMINI ACTIVO EN VIVO",
@@ -339,7 +343,8 @@ const translations = {
          "cantonese": "Impara il Cantonese",
          "thai": "Impara il Thai",
          "ukrainian": "Impara l'Ucraino"
-       }
+       },
+       "home": "Home",
      },
     "session": {
       "chip": "GEMINI LIVE ATTIVO",
@@ -409,7 +414,8 @@ const translations = {
          "cantonese": "Aprender Cantones",
          "thai": "Aprender Tailandês",
          "ukrainian": "Aprender Ucraniano"
-       }
+       },
+       "home": "Início",
      },
     "session": {
       "chip": "GEMINI ATIVO AO VIVO",
@@ -671,7 +677,8 @@ const translations = {
          "cantonese": "Учить кантонский",
          "thai": "Учить тайский",
          "ukrainian": "Учить украинский"
-       }
+       },
+       "home": "Главная",
      },
     "session": {
       "chip": "GEMINI LIVE АКТИВНО",
@@ -741,7 +748,8 @@ const translations = {
          "cantonese": "Вчитись кантонською",
          "thai": "Вчитись тайською",
          "ukrainian": "Вчитись українською"
-       }
+       },
+       "home": "Головна",
      },
     "session": {
       "chip": "GEMINI LIVE АКТИВНО",
@@ -811,7 +819,8 @@ const translations = {
          "cantonese": "เรียนภาษากวางตุ้ง",
          "thai": "เรียนภาษาไทย",
          "ukrainian": "เรียนภาษาอุโกครินะ"
-       }
+       },
+       "home": "หน้าแรก",
      },
     "session": {
       "chip": "GEMINI กำลังทำงานสด",
@@ -881,7 +890,8 @@ const translations = {
          "cantonese": "تعلم الكانتونية",
          "thai": "تعلم الثيين",
          "ukrainian": "تعلم الأوكرانية"
-       }
+       },
+       "home": "الرئيسية",
      },
     "session": {
       "chip": "جيميني نشط مباشر",
@@ -951,7 +961,8 @@ const translations = {
          "cantonese": "學習粵語",
          "thai": "學習泰語",
          "ukrainian": "學習烏克蘭語"
-       }
+       },
+       "home": "首頁",
      },
     "session": {
       "chip": "GEMINI 即時連線中",
@@ -1021,7 +1032,8 @@ const translations = {
          "cantonese": "Naucz się kantońskiego",
          "thai": "Naucz się tajskiego",
          "ukrainian": "Naucz się ukraińskiego"
-       }
+       },
+       "home": "Strona główna",
      },
     "session": {
       "chip": "Aktywne na żywo",
@@ -1092,7 +1104,8 @@ const translations = {
          "cantonese": "学习粵语",
          "thai": "学习泰语",
          "ukrainian": "学习乌克兰语"
-       }
+       },
+       "home": "首页",
      }
   }
 };

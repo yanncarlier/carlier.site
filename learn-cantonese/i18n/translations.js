@@ -59,7 +59,8 @@ const translations = {
         "chinese": "Learn Chinese",
         "thai": "Learn Thai",
         "ukrainian": "Learn Ukrainian"
-      }
+      },
+      "home": "Home",
     },
     "session": {
       "chip": "GEMINI LIVE ACTIVE",
@@ -129,7 +130,8 @@ const translations = {
         "chinese": "Apprendre le Chinois",
         "thai": "Apprendre le Thaï",
         "ukrainian": "Apprendre l'Ukrainien"
-      }
+      },
+      "home": "Accueil",
     },
     "session": {
       "chip": "GEMINI ACTIF EN DIRECT",
@@ -199,7 +201,8 @@ const translations = {
         "chinese": "Chinesisch lernen",
         "thai": "Thailändisch lernen",
         "ukrainian": "Ukrainisch lernen"
-      }
+      },
+      "home": "Startseite",
     },
     "session": {
       "chip": "GEMINI LIVE AKTIV",
@@ -269,7 +272,8 @@ const translations = {
         "chinese": "Aprender Chino",
         "thai": "Aprender Tailandés",
         "ukrainian": "Aprender Ucraniano"
-      }
+      },
+      "home": "Inicio",
     },
     "session": {
       "chip": "GEMINI ACTIVO EN VIVO",
@@ -339,7 +343,8 @@ const translations = {
         "chinese": "Impara il Cinese",
         "thai": "Impara il Thai",
         "ukrainian": "Impara l'Ucraino"
-      }
+      },
+      "home": "Home",
     },
     "session": {
       "chip": "GEMINI ATTIVO DAL VIVO",
@@ -409,7 +414,8 @@ const translations = {
          "chinese": "Aprender Chinês",
          "thai": "Aprender Tailandês",
          "ukrainian": "Aprender Ucraniano"
-       }
+       },
+       "home": "Início",
      },
     "session": {
       "chip": "GEMINI ATIVO AO VIVO",
@@ -479,7 +485,8 @@ const translations = {
          "chinese": "चीनीज़ सीखें",
          "thai": "थाई सीखें",
          "ukrainian": "यूक्रेनियन सीखें"
-       }
+       },
+       "home": "होम",
      },
     "session": {
       "chip": "GEMINI लाइव सक्रिय",
@@ -549,7 +556,8 @@ const translations = {
          "chinese": "中国語を学ぶ",
          "thai": "タイ語を学ぶ",
          "ukrainian": "ウクライナ語を学ぶ"
-       }
+       },
+       "home": "ホーム",
      },
     "session": {
       "chip": "GEMINI ライブ接続中",
@@ -619,7 +627,8 @@ const translations = {
          "chinese": "중국어 배우기",
          "thai": "태국어 배우기",
          "ukrainian": "우크라이나어 배우기"
-       }
+       },
+       "home": "홈",
      },
     "session": {
       "chip": "GEMINI 라이브 활성",
@@ -689,7 +698,8 @@ const translations = {
          "chinese": "Учить китайский",
          "thai": "Учить тайский",
          "ukrainian": "Учить украинский"
-       }
+       },
+       "home": "Главная",
      },
     "session": {
       "chip": "GEMINI АКТИВЕН",
@@ -759,7 +769,8 @@ const translations = {
          "chinese": "Вчитись китайською",
          "thai": "Вчитись тайською",
          "ukrainian": "Вчитись українською"
-       }
+       },
+       "home": "Головна",
      },
     "session": {
       "chip": "GEMINI АКТИВНИЙ",
@@ -829,7 +840,8 @@ const translations = {
          "chinese": "เรียนภาษาจีน",
          "thai": "เรียนภาษาไทย",
          "ukrainian": "เรียนภาษาอุโกครินะ"
-       }
+       },
+       "home": "หน้าแรก",
      },
     "session": {
       "chip": "GEMINI เปิดใช้งานสด",
@@ -899,7 +911,8 @@ const translations = {
          "chinese": "تعلم الصينية",
          "thai": "تعلم الثيين",
          "ukrainian": "تعلم الأوكرانية"
-       }
+       },
+       "home": "الرئيسية",
      },
     "session": {
       "chip": "GEMINI نشط مباشر",
@@ -969,7 +982,8 @@ const translations = {
          "chinese": "學習中文",
          "thai": "學習泰語",
          "ukrainian": "學習烏克蘭語"
-       }
+       },
+       "home": "首頁",
      },
     "session": {
       "chip": "GEMINI 即時連線中",
@@ -1039,7 +1053,8 @@ const translations = {
          "chinese": "Naucz się chińskiego",
          "thai": "Naucz się tajskiego",
          "ukrainian": "Naucz się ukraińskiego"
-       }
+       },
+       "home": "Strona główna",
      }
   },
   "zh-CN": {
@@ -1103,7 +1118,8 @@ const translations = {
          "chinese": "学习中文",
          "thai": "学习泰语",
          "ukrainian": "学习乌克兰语"
-       }
+       },
+       "home": "首页",
      }
   }
 };

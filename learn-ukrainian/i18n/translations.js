@@ -54,7 +54,7 @@ const translations = {
        "title": "Speak naturally or translate with an AI Ukrainian coach.",
        "copy": "Practice voice conversations, camera-based vocabulary, and structured corrections and instant translation from your phone.",
        "cta": "Download on Google Play",
-       "linksLabel": "More Language Learning Apps:",
+       "linksLabel": "More Apps:",
        "links": {
          "cantonese": "Learn Cantonese",
          "chinese": "Learn Chinese",
@@ -188,7 +188,7 @@ const translations = {
        "title": "Sprich natürlich oder übersetze mit einem KI-Ukrainisch-Coach.",
        "copy": "Übe Sprachgespräche, kamerabasierten Wortschatz und strukturierte Korrekturen sowie sofortige Übersetzung von deinem Telefon aus.",
        "cta": "Bei Google Play herunterladen",
-       "linksLabel": "Mehr Sprachlern-Apps:",
+       "linksLabel": "Mehr Apps:",
        "links": {
          "cantonese": "Kantonesisch lernen",
          "chinese": "Chinesisch lernen",
@@ -258,7 +258,7 @@ const translations = {
        "title": "Habla naturalmente o traduce con un entrenador de IA ucraniano.",
        "copy": "Practica conversaciones de voz, vocabulario con cámara, correcciones estructuradas y traducción instantánea desde tu teléfono.",
        "cta": "Descargar en Google Play",
-       "linksLabel": "Más aplicaciones de idiomas:",
+       "linksLabel": "Más aplicaciones:",
        "links": {
          "cantonese": "Aprender Cantones",
          "chinese": "Aprender Chino",
@@ -328,7 +328,7 @@ const translations = {
        "title": "Parla naturalmente o traduci con un coach IA ucraino.",
        "copy": "Pratica conversazioni vocali, vocabolario con la fotocamera, correzioni strutturate e traduzione istantanea dal tuo telefono.",
        "cta": "Scarica su Google Play",
-       "linksLabel": "Altre app per l'apprendimento linguistico:",
+       "linksLabel": "Altre App:",
        "links": {
          "cantonese": "Impara il Cantonese",
          "chinese": "Impara il Cinese",
@@ -398,7 +398,7 @@ const translations = {
        "title": "Fale naturalmente ou traduza com um coach IA ucraniano.",
        "copy": "Pratique conversas por voz, vocabulário com câmera, correções estruturadas e tradução instantânea pelo seu celular.",
        "cta": "Baixar na Google Play",
-       "linksLabel": "Mais apps de aprendizado de idiomas:",
+       "linksLabel": "Mais apps:",
        "links": {
          "cantonese": "Aprender Cantones",
          "chinese": "Aprender Chinês",
@@ -468,7 +468,7 @@ const translations = {
        "title": "AI यूक्रेनी कोच के साथ स्वाभाविक रूप से बोलें या अनुवाद करें।",
        "copy": "अपने फ़ोन से वॉइस वार्तालाप, कैमरा-आधारित शब्दावली, संरचित सुधार और तत्काल अनुवाद का अभ्यास करें।",
        "cta": "Google Play पर डाउनलोड करें",
-       "linksLabel": "अधिक भाषा सीखने के ऐप्स:",
+       "linksLabel": "अधिक ऐप्स:",
        "links": {
          "cantonese": "कैंटोनीज़ सीखें",
          "chinese": "चीनीज़ सीखें",
@@ -538,7 +538,7 @@ const translations = {
        "title": "AIウクライナ語コーチと自然に話すか翻訳ましょう。",
        "copy": "音声会話、カメラを使った語彙学習、構造化された修正、そして電話から即時翻訳を練習できます。",
        "cta": "Google Playからダウンロード",
-       "linksLabel": "他の言語学習アプリ:",
+       "linksLabel": "その他のアプリ:",
        "links": {
          "cantonese": "広東語を学ぶ",
          "chinese": "中国語を学ぶ",
@@ -608,7 +608,7 @@ const translations = {
        "title": "AI 우크라이나어 코치와 자연스럽게 말하거나 번역하세요.",
        "copy": "음성 대화, 카메라 기반 어휘, 체계적인 교정 및 휴대폰에서 즉시 번역을 연습하세요.",
        "cta": "Google Play에서 다운로드",
-       "linksLabel": "더 많은 언어 학습 앱:",
+       "linksLabel": "더 많은 앱:",
        "links": {
          "cantonese": "관동어 배우기",
          "chinese": "중국어 배우기",
@@ -678,7 +678,7 @@ const translations = {
        "title": "Говорите естественно или переводите с ИИ-тренером украинского.",
        "copy": "Практикуйте голосовые разговоры, словарный запас с камерой, структурированные исправления и мгновенный перевод с телефона.",
        "cta": "Скачать в Google Play",
-       "linksLabel": "Другие приложения для изучения языков:",
+       "linksLabel": "Другие приложения:",
        "links": {
          "cantonese": "Учить кантонский",
          "chinese": "Учить китайский",
@@ -748,7 +748,7 @@ const translations = {
        "title": "Говоріть природно або перекладайте з ІІ-тренером української.",
        "copy": "Практикуйте голосові розмови, словниковий запас з камерою, структуровані виправлення та миттєвий переклад зі свого телефону.",
        "cta": "Завантажити в Google Play",
-       "linksLabel": "Інші додатки для вивчення мов:",
+       "linksLabel": "В<SPECIAL_571>",
        "links": {
          "cantonese": "Вчитись кантонською",
          "chinese": "Вчитись китайською",
@@ -818,7 +818,7 @@ const translations = {
        "title": "พูดอย่างเป็นธรรมชาติหรือแปลภาษากับโค้ชภาษายูเครน AI",
        "copy": "ฝึกฝนการสนทนาด้วยเสียง คำศัพท์ผ่านกล้อง การแก้ไขที่มีโครงสร้างและการแปลทันทีจากโทรศัพท์ของคุณ",
        "cta": "ดาวน์โหลดบน Google Play",
-       "linksLabel": "แอปเรียนภาษาเพิ่มเติม:",
+       "linksLabel": "แอปเพิ่มเติม:",
        "links": {
          "cantonese": "เรียนภาษากวางตุ้ง",
          "chinese": "เรียนภาษาจีน",
@@ -888,7 +888,7 @@ const translations = {
        "title": "تحدث بشكل طبيعي أو ترجم مع مدرب أوكراني بالذكاء الاصطناعي.",
        "copy": "تدرب على المحادثات الصوتية، والمفردات بالكاميرا، والتصحيحات المنظمة والترجمة الفورية من هاتفك.",
        "cta": "تحميل من Google Play",
-       "linksLabel": "تطبيقات تعلم اللغة الأخرى:",
+       "linksLabel": "تطبيقات أخرى:",
        "links": {
          "cantonese": "تعلم الكانتونية",
          "chinese": "تعلم الصينية",
@@ -958,7 +958,7 @@ const translations = {
        "title": "與 AI 烏克蘭語教練自然對話或翻譯。",
        "copy": "在手機上練習語音對話、相機詞彙學習、結構化糾正以及即時翻譯。",
        "cta": "在 Google Play 下載",
-       "linksLabel": "更多語言學習應用程式:",
+       "linksLabel": "更多應用程式:",
        "links": {
          "cantonese": "學習廣東話",
          "chinese": "學習中文",
@@ -1028,7 +1028,7 @@ const translations = {
        "title": "Mów naturalnie lub tłumacz z AI — Twoim lektorem ukraińskiego.",
        "copy": "Ćwicz rozmowy głosowe, słownictwo oparte na obrazie oraz strukturalne poprawki i natychmiastowe tłumaczenie — z poziomu telefonu.",
        "cta": "Pobierz w Google Play",
-       "linksLabel": "Więcej aplikacji do nauki języków:",
+       "linksLabel": "Więcej aplikacji:",
        "links": {
          "cantonese": "Naucz się kantońskiego",
          "chinese": "Naucz się chińskiego",

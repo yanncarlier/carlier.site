@@ -54,7 +54,7 @@ const translations = {
        "title": "Speak naturally or translate with an AI Mandarin coach.",
        "copy": "Practice voice conversations, camera-based vocabulary, and structured corrections and instant translation from your phone.",
        "cta": "Download on Google Play",
-       "linksLabel": "More Language Learning Apps:",
+       "linksLabel": "More Apps:",
        "links": {
          "cantonese": "Learn Cantonese",
          "thai": "Learn Thai",
@@ -125,7 +125,7 @@ const translations = {
        "title": "Parlez naturellement avec un coach IA Mandarin.",
        "copy": "Pratiquez les conversations vocales, le vocabulaire basé sur la caméra et les corrections structurées depuis votre téléphone.",
        "cta": "Télécharger sur Google Play",
-       "linksLabel": "Plus d'applications de langue:",
+       "linksLabel": "Plus d'applications:",
        "links": {
          "cantonese": "Apprendre le Cantonais",
          "thai": "Apprendre le Thaï",
@@ -196,7 +196,7 @@ const translations = {
        "title": "Sprich natürlich mit einem KI-Mandarin-Coach.",
        "copy": "Übe Sprachkonversationen, kamerabasierten Wortschatz und strukturierte Korrekturen von deinem Handy aus.",
        "cta": "Bei Google Play herunterladen",
-       "linksLabel": "Mehr Sprachlern-Apps:",
+       "linksLabel": "Mehr Apps:",
        "links": {
          "cantonese": "Kantonesisch lernen",
          "thai": "Thailändisch lernen",
@@ -267,7 +267,7 @@ const translations = {
        "title": "Habla naturalmente con un coach de Mandarín IA.",
        "copy": "Practica conversaciones de voz, vocabulario con cámara y correcciones estructuradas desde tu teléfono.",
        "cta": "Descargar en Google Play",
-       "linksLabel": "Más aplicaciones de idiomas:",
+       "linksLabel": "Más aplicaciones:",
        "links": {
          "cantonese": "Aprender Cantones",
          "thai": "Aprender Tailandés",
@@ -338,7 +338,7 @@ const translations = {
        "title": "Parla naturalmente con un coach IA di Mandarino.",
        "copy": "Pratica conversazioni vocali, vocabolario con la fotocamera e correzioni strutturate dal tuo telefono.",
        "cta": "Scarica su Google Play",
-       "linksLabel": "Altre app per l'apprendimento linguistico:",
+       "linksLabel": "Altre App:",
        "links": {
          "cantonese": "Impara il Cantonese",
          "thai": "Impara il Thai",
@@ -409,7 +409,7 @@ const translations = {
        "title": "Fale naturalmente com um coach de Mandarim IA.",
        "copy": "Pratique conversas por voz, vocabulário com câmera e correções estruturadas do seu celular.",
        "cta": "Baixar na Google Play",
-       "linksLabel": "Mais apps de aprendizado de idiomas:",
+       "linksLabel": "Mais apps:",
        "links": {
          "cantonese": "Aprender Cantones",
          "thai": "Aprender Tailandês",
@@ -672,7 +672,7 @@ const translations = {
        "title": "Говорите естественно с ИИ-коучем по китайскому.",
        "copy": "Практикуйте голосовые диалоги, словарный запас с камерой и структурированные исправления прямо с телефона.",
        "cta": "Скачать в Google Play",
-       "linksLabel": "Другие приложения для изучения языков:",
+       "linksLabel": "Другие приложения:",
        "links": {
          "cantonese": "Учить кантонский",
          "thai": "Учить тайский",
@@ -743,7 +743,7 @@ const translations = {
        "title": "Говоріть природно з ІІ-коучем з китайської.",
        "copy": "Практикуйте голосові розмови, словниковий запас з камерою та структуровані виправлення зі свого телефону.",
        "cta": "Завантажити в Google Play",
-       "linksLabel": "Інші додатки для вивчення мов:",
+       "linksLabel": "Інші додатки:",
        "links": {
          "cantonese": "Вчитись кантонською",
          "thai": "Вчитись тайською",
@@ -814,7 +814,7 @@ const translations = {
        "title": "พูดอย่างเป็นธรรมชาติกับโค้ชภาษาจีนกลาง AI",
        "copy": "ฝึกสนทนาด้วยเสียง คำศัพท์ผ่านกล้อง และการแก้ไขอย่างมีโครงสร้างจากโทรศัพท์ของคุณ",
        "cta": "ดาวน์โหลดจาก Google Play",
-       "linksLabel": "แอปเรียนภาษาเพิ่มเติม:",
+       "linksLabel": "แอปเพิ่มเติม:",
        "links": {
          "cantonese": "เรียนภาษากวางตุ้ง",
          "thai": "เรียนภาษาไทย",
@@ -885,7 +885,7 @@ const translations = {
        "title": "تحدث بشكل طبيعي مع مدرب صيني بالذكاء الاصطناعي.",
        "copy": "تدرب على المحادثات الصوتية، والمفردات بالكاميرا، والتصحيحات المنظمة من هاتفك.",
        "cta": "تحميل من Google Play",
-       "linksLabel": "تطبيقات تعلم اللغة الأخرى:",
+       "linksLabel": "تطبيقات أخرى:",
        "links": {
          "cantonese": "تعلم الكانتونية",
          "thai": "تعلم الثيين",
@@ -956,7 +956,7 @@ const translations = {
        "title": "與 AI 中文教練自然地對話。",
        "copy": "在手機上練習語音對話、相機詞彙學習與結構化修正。",
        "cta": "在 Google Play 下載",
-       "linksLabel": "更多語言學習應用程式:",
+       "linksLabel": "更多應用程式:",
        "links": {
          "cantonese": "學習粵語",
          "thai": "學習泰語",
@@ -1027,7 +1027,7 @@ const translations = {
        "title": "Mów naturalnie lub tłumacz z AI — Twoim lektorem mandaryńskiego.",
        "copy": "Ćwicz rozmowy głosowe, słownictwo oparte na obrazie oraz strukturalne poprawki i natychmiastowe tłumaczenie — z poziomu telefonu.",
        "cta": "Pobierz w Google Play",
-       "linksLabel": "Więcej aplikacji do nauki języków:",
+       "linksLabel": "Więcej aplikacji:",
        "links": {
          "cantonese": "Naucz się kantońskiego",
          "thai": "Naucz się tajskiego",
@@ -1099,7 +1099,7 @@ const translations = {
        "title": "与 AI 中文教练自然地对话。",
        "copy": "在手机上练习语音对话、相机词汇学习和结构化纠正。",
        "cta": "在 Google Play 下载",
-       "linksLabel": "更多语言学习应用:",
+       "linksLabel": "更多应用:",
        "links": {
          "cantonese": "学习粵语",
          "thai": "学习泰语",

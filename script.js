@@ -25,6 +25,7 @@ const translations = {
             highlight3: 'AI Systems',
             subtitle4: ' that scale.',
             subtitle5: 'Building Mobile Apps, SaaS solutions and AI Systems that scale',
+            recentReleases: 'Recent Releases',
             cta: 'Get in Touch'
         },
         about: {
@@ -119,6 +120,7 @@ const translations = {
             highlight3: 'ШІ системи',
             subtitle4: ' що масштабуються.',
             subtitle5: 'Створюю Мобільні додатки, SaaS рішення та ШІ системи, що масштабуються.',
+            recentReleases: 'Останні релізи',
             cta: 'Зв\'язатися'
         },
         about: {
@@ -213,6 +215,7 @@ const translations = {
             highlight3: 'ระบบ AI',
             subtitle4: ' ที่สามารถปรับขนาดได้.',
             subtitle5: 'สร้างแอปพลิเคชันมือถือ, โซลูชัน SaaS และระบบ AI ที่สามารถปรับขนาดได้.',
+            recentReleases: 'การเปิดตัวล่าสุด',
             cta: 'ติดต่อเรา'
         },
         about: {
@@ -307,6 +310,7 @@ const translations = {
             highlight3: 'Sistemas de IA',
             subtitle4: ' que escalam.',
             subtitle5: 'A construir Apps Móveis, soluções SaaS e Sistemas de IA que escalam.',
+            recentReleases: 'Lançamentos recentes',
             cta: 'Contacte-me'
         },
         about: {
@@ -401,6 +405,7 @@ const translations = {
             highlight3: 'Sistemas de IA',
             subtitle4: ' que escalan.',
             subtitle5: 'Construyendo Apps Móviles, soluciones SaaS y Sistemas de IA que escalan.',
+            recentReleases: 'Lanzamientos recientes',
             cta: 'Ponte en Contacto'
         },
         about: {
@@ -495,6 +500,7 @@ const translations = {
             highlight3: 'Systèmes IA',
             subtitle4: ' qui passent à l\'échelle.',
             subtitle5: 'Construire des Apps Mobiles, des solutions SaaS et des Systèmes IA qui passent à l\'échelle.',
+            recentReleases: 'Dernières sorties',
             cta: 'Prenez Contact'
         },
         about: {
@@ -589,6 +595,7 @@ const translations = {
             highlight3: 'AI 系統',
             subtitle4: '，實現規模化。',
             subtitle5: '構建移動應用、SaaS 解決方案和AI 系統，實現規模化。',
+            recentReleases: '最新發布',
             cta: '聯繫我'
         },
         about: {
@@ -683,6 +690,7 @@ const translations = {
             highlight3: 'AI 系统',
             subtitle4: '，实现规模化。',
             subtitle5: '构建移动应用、SaaS 解决方案和AI 系统，实现规模化。',
+            recentReleases: '最新发布',
             cta: '联系我'
         },
         about: {
@@ -871,6 +879,7 @@ const translations = {
             highlight3: 'AIシステム',
             subtitle4: 'を構築し、スケールさせます。',
             subtitle5: 'モバイルアプリ、SaaSソリューション、AIシステムを構築し、スケールさせます。',
+            recentReleases: '最新のリリース',
             cta: 'お問い合わせ'
         },
         about: {
@@ -965,6 +974,7 @@ const translations = {
             highlight3: 'أنظمة الذكاء الاصطناعي',
             subtitle4: ' القابلة للتوسع.',
             subtitle5: 'نبني تطبيقات الجوال وحلول SaaS وأنظمة الذكاء الاصطناعي القابلة للتوسع.',
+            recentReleases: 'الإصدارات الأخيرة',
             cta: 'تواصل معي'
         },
         about: {
@@ -1059,6 +1069,7 @@ const translations = {
             highlight3: 'KI-Systeme',
             subtitle4: ', die skalieren.',
             subtitle5: 'Mobile Apps, SaaS-Lösungen und KI-Systeme bauen, die skalieren',
+            recentReleases: 'Neueste Veröffentlichungen',
             cta: 'Kontaktieren'
         },
         about: {
@@ -1153,6 +1164,7 @@ const translations = {
             highlight3: 'Sistemi IA',
             subtitle4: ' che scalano.',
             subtitle5: 'Costruisco App Mobile, soluzioni SaaS e Sistemi IA che scalano',
+            recentReleases: 'Ultime uscite',
             cta: 'Contattami'
         },
         about: {
@@ -1247,6 +1259,7 @@ const translations = {
             highlight3: 'AI 시스템',
             subtitle4: ' 확장 가능합니다.',
             subtitle5: '확장 가능한 모바일 앱, SaaS 솔루션 및 AI 시스템 구축',
+            recentReleases: '최근 출시',
             cta: '연락하기'
         },
         about: {
@@ -1436,6 +1449,7 @@ const translations = {
             highlight3: 'systemy AI',
             subtitle4: ' które się skalują.',
             subtitle5: 'Tworząc Aplikacje mobilne, rozwiązania SaaS oraz systemy AI, które się skalują.',
+            recentReleases: 'Najnowsze wydania',
             cta: 'Skontaktuj się'
         },
         about: {
@@ -1486,7 +1500,7 @@ const translations = {
                 title: 'AI Agent Khru (jeszcze nieopublikowany)',
                 desc: 'Ucz się tajskiego, ćwicz prawdziwe rozmowy i tłumacz w czasie rzeczywistym z działającym nauczycielem AI tajskiego — z czatem głosowym, kontekstem opartym na kamerze i natychmiastowym wsparciem tłumaczeń.'
             }
-},
+        },
         contact: {
             tag: 'Napisz do mnie',
             title: 'Zbudujmy coś niesamowitego razem',
@@ -1743,43 +1757,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-    // ========================================
-    // Contact Form Handling
-    // ========================================
-    const contactForm = document.getElementById('contactForm');
 
-    if (contactForm) {
-        contactForm.addEventListener('submit', (e) => {
-            e.preventDefault();
-
-            const formData = new FormData(contactForm);
-            const data = Object.fromEntries(formData);
-
-            // Show success message
-            const submitBtn = contactForm.querySelector('button[type="submit"]');
-            const originalText = submitBtn.innerHTML;
-
-            submitBtn.innerHTML = `
-                <span>Message Sent!</span>
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                    <path d="M20 6L9 17l-5-5"/>
-                </svg>
-            `;
-            submitBtn.style.background = 'linear-gradient(135deg, #34d399, #10b981)';
-
-            // Reset form
-            contactForm.reset();
-
-            // Reset button after 3 seconds
-            setTimeout(() => {
-                submitBtn.innerHTML = originalText;
-                submitBtn.style.background = '';
-            }, 3000);
-
-            // Log form data (replace with actual submission)
-            console.log('Form submitted:', data);
-        });
-    }
 
     // ========================================
     // Counter Animation for Stats

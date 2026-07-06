@@ -224,8 +224,14 @@ html[lang="zh-CN"] {
 }
 
 .hero {
+  width: min(100% - 32px, 1200px);
+  margin: 0 auto;
   min-height: auto;
   display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(320px, 420px);
+  grid-template-areas:
+    "image image"
+    "content card";
   gap: 2rem;
   overflow: visible;
   padding: 128px 24px 82px;
@@ -233,6 +239,7 @@ html[lang="zh-CN"] {
 
 .hero-bg,
 .hero-overlay {
+  grid-area: image;
   position: static;
   inset: auto;
   width: 100%;
@@ -251,11 +258,22 @@ html[lang="zh-CN"] {
 }
 
 .hero-content {
+  grid-area: content;
   position: relative;
   z-index: 1;
   width: min(100%, 1200px);
-  margin: 0 auto;
-  max-width: 1200px;
+  margin: 0;
+  max-width: 100%;
+}
+
+.hero-card {
+  grid-area: card;
+  position: static;
+  pointer-events: auto;
+  overflow: visible;
+  width: 100%;
+  max-width: 420px;
+  justify-self: end;
 }
 
 .eyebrow {
@@ -320,23 +338,23 @@ h1 {
 }
 
 .hero-card {
-  position: absolute;
-  inset: 0;
-  pointer-events: none;
+  position: static;
+  pointer-events: auto;
+  overflow: visible;
+  width: min(100%, 420px);
+  margin: 0 auto;
 }
 
 .session-panel {
-  position: absolute;
-  right: 18px;
-  bottom: 18px;
+  position: static;
   padding: 1.2rem;
   border: 1px solid rgba(42, 42, 58, 0.86);
   border-radius: 8px;
   background: rgba(18, 18, 26, 0.84);
   backdrop-filter: blur(18px);
   -webkit-backdrop-filter: blur(18px);
-  pointer-events: auto;
   max-width: 360px;
+  margin: 0 auto;
 }
 
 .chip {

@@ -69,7 +69,7 @@ const translations = {
                 desc: 'Learn Chinese Mandarin, practice real conversations, and translate in real time with a live AI Chinese Mandarin teacher featuring voice chat, camera-based context, and instant translation support.'
             },
             vchytel: {
-                title: 'AI Agent Vchytel (not published yet)',
+                title: 'AI Agent Vchytel',
                 desc: 'Learn Ukrainian, practice real conversations, and translate in real time with a live AI Ukrainian teacher featuring voice chat, camera-based context, and instant translation support.'
             },
             khru: {

@@ -5,7 +5,7 @@ const translations = {
       "home": "Home",
       "about": "About",
       "skills": "Skills",
-      "aiApps": "AI Apps",
+      "aiApps": "AI mobile apps",
       "contact": "Let's Talk"
     },
     "hero": {
@@ -71,7 +71,7 @@ const translations = {
         "home": "Home",
         "about": "About",
         "skills": "Skills",
-        "aiApps": "AI Apps",
+        "aiApps": "AI mobile apps",
         "contact": "Contact"
       },
       "links2": {
@@ -766,14 +766,14 @@ const translations = {
   }
 };
 
-const langLabels = { 
-  en: "EN", 
-  fr: "FR", 
-  de: "DE", 
-  es: "ES", 
-  it: "IT", 
-  pt: "PT", 
-  ja: "JA", 
-  "zh-CN": "简中", 
+const langLabels = {
+  en: "EN",
+  fr: "FR",
+  de: "DE",
+  es: "ES",
+  it: "IT",
+  pt: "PT",
+  ja: "JA",
+  "zh-CN": "简中",
   "zh-TW": "繁中"
 };

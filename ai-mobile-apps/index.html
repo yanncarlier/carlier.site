@@ -134,7 +134,9 @@
             }
 
             @media (min-width: 768px) {
-                .apps-hero-title { font-size: var(--text-7xl); }
+                .apps-hero-title {
+                    font-size: var(--text-7xl);
+                }
             }
 
             .apps-hero-grad {
@@ -171,11 +173,15 @@
             }
 
             @media (min-width: 640px) {
-                .apps-grid { grid-template-columns: repeat(2, 1fr); }
+                .apps-grid {
+                    grid-template-columns: repeat(2, 1fr);
+                }
             }
 
             @media (min-width: 1024px) {
-                .apps-grid { grid-template-columns: repeat(3, 1fr); }
+                .apps-grid {
+                    grid-template-columns: repeat(3, 1fr);
+                }
             }
 
             /* ---- App card ---- */
@@ -229,7 +235,9 @@
                 transition: transform var(--transition-base);
             }
 
-            .app-card:hover .app-card-logo { transform: scale(1.06); }
+            .app-card:hover .app-card-logo {
+                transform: scale(1.06);
+            }
 
             .app-card-overlay {
                 position: absolute;
@@ -242,7 +250,9 @@
                 transition: opacity var(--transition-base);
             }
 
-            .app-card:hover .app-card-overlay { opacity: 1; }
+            .app-card:hover .app-card-overlay {
+                opacity: 1;
+            }
 
             .app-store-btn {
                 display: inline-flex;
@@ -259,7 +269,9 @@
                 text-decoration: none;
             }
 
-            .app-card:hover .app-store-btn { transform: translateY(0); }
+            .app-card:hover .app-store-btn {
+                transform: translateY(0);
+            }
 
             .app-card-body {
                 padding: var(--space-6);
@@ -318,11 +330,25 @@
             }
 
             /* Card background gradients */
-            .bg-ukrainian { background: linear-gradient(135deg, #0a4a70, #0d4a28); }
-            .bg-cantonese  { background: linear-gradient(135deg, #7c2c20, #5a3010); }
-            .bg-chinese    { background: linear-gradient(135deg, #7c1a5a, #4a1030); }
-            .bg-thai       { background: linear-gradient(135deg, #1a3a5a, #101c38); }
-            .bg-coin       { background: linear-gradient(135deg, #5a1020, #38080f); }
+            .bg-ukrainian {
+                background: linear-gradient(135deg, #0a4a70, #0d4a28);
+            }
+
+            .bg-cantonese {
+                background: linear-gradient(135deg, #7c2c20, #5a3010);
+            }
+
+            .bg-chinese {
+                background: linear-gradient(135deg, #7c1a5a, #4a1030);
+            }
+
+            .bg-thai {
+                background: linear-gradient(135deg, #1a3a5a, #101c38);
+            }
+
+            .bg-coin {
+                background: linear-gradient(135deg, #5a1020, #38080f);
+            }
 
             /* ---- CTA banner ---- */
             .apps-cta-banner {
@@ -331,8 +357,8 @@
             }
 
             .cta-card {
-                background: linear-gradient(135deg, rgba(99,102,241,0.1), rgba(34,211,238,0.06));
-                border: 1px solid rgba(99,102,241,0.3);
+                background: linear-gradient(135deg, rgba(99, 102, 241, 0.1), rgba(34, 211, 238, 0.06));
+                border: 1px solid rgba(99, 102, 241, 0.3);
                 border-radius: 24px;
                 padding: var(--space-16) var(--space-10);
                 text-align: center;
@@ -361,11 +387,26 @@
 
             /* ---- Responsive tweaks ---- */
             @media (max-width: 640px) {
-                .apps-hero-title  { font-size: var(--text-4xl); }
-                .apps-hero-stats  { gap: var(--space-6); }
-                .app-card-logo    { width: 100px; height: 100px; }
-                .cta-card h2      { font-size: var(--text-3xl); }
-                .cta-card         { padding: var(--space-10) var(--space-6); }
+                .apps-hero-title {
+                    font-size: var(--text-4xl);
+                }
+
+                .apps-hero-stats {
+                    gap: var(--space-6);
+                }
+
+                .app-card-logo {
+                    width: 100px;
+                    height: 100px;
+                }
+
+                .cta-card h2 {
+                    font-size: var(--text-3xl);
+                }
+
+                .cta-card {
+                    padding: var(--space-10) var(--space-6);
+                }
             }
         </style>
 
@@ -394,8 +435,8 @@
         <nav class="nav" role="navigation" aria-label="Main navigation">
             <div class="nav-container">
                 <a href="https://carlier.site/" class="nav-logo" aria-label="Carlier - Home">
-                    <img src="images/Carlier_logo_160x160.webp" alt="Carlier logo" width="40" height="40"
-                        loading="lazy" decoding="async">
+                    <img src="images/Carlier_logo_160x160.webp" alt="Carlier logo" width="40" height="40" loading="lazy"
+                        decoding="async">
                     <span class="nav-brand-name" data-i18n="nav.brand">Carlier</span>
                 </a>
                 <button class="nav-toggle" aria-label="Toggle menu" id="nav-toggle-btn">
@@ -407,29 +448,33 @@
                     <li><a href="https://carlier.site/" class="nav-link" data-i18n="nav.home">Home</a></li>
                     <li><a href="https://carlier.site/#about" class="nav-link" data-i18n="nav.about">About</a></li>
                     <li><a href="https://carlier.site/#skills" class="nav-link" data-i18n="nav.skills">Skills</a></li>
-                    <li><a href="https://carlier.site/ai-mobile-apps/" class="nav-link" aria-current="page" data-i18n="nav.aiApps">AI Apps</a></li>
-                    <li><a href="https://carlier.site/#contact" class="nav-link nav-link--cta" data-i18n="nav.contact">Let's Talk</a></li>
+                    <li><a href="https://carlier.site/ai-mobile-apps/" class="nav-link" aria-current="page"
+                            data-i18n="nav.aiApps">AI mobile apps</a></li>
+                    <li><a href="https://carlier.site/#contact" class="nav-link nav-link--cta"
+                            data-i18n="nav.contact">Let's Talk</a></li>
                 </ul>
                 <div class="language-switcher">
-                  <button class="lang-toggle" aria-label="Select language">
-                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                      <circle cx="12" cy="12" r="10" />
-                      <path d="M2 12h20" />
-                      <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z" />
-                    </svg>
-                    <span class="current-lang">EN</span>
-                  </button>
-                  <ul class="lang-dropdown">
-                    <li><button data-lang="en" class="lang-option active">English</button></li>
-                    <li><button data-lang="fr" class="lang-option">Français (French)</button></li>
-                    <li><button data-lang="de" class="lang-option">Deutsch (German)</button></li>
-                    <li><button data-lang="it" class="lang-option">Italiano (Italian)</button></li>
-                    <li><button data-lang="pt" class="lang-option">Português (Portuguese)</button></li>
-                    <li><button data-lang="es" class="lang-option">Español (Spanish)</button></li>
-                    <li><button data-lang="ja" class="lang-option">日本語 (Japanese)</button></li>
-                    <li><button data-lang="zh-TW" class="lang-option">繁體中文 (Traditional Chinese)</button></li>
-                    <li><button data-lang="zh-CN" class="lang-option">简体中文 (Simplified Chinese)</button></li>
-                  </ul>
+                    <button class="lang-toggle" aria-label="Select language">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2">
+                            <circle cx="12" cy="12" r="10" />
+                            <path d="M2 12h20" />
+                            <path
+                                d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z" />
+                        </svg>
+                        <span class="current-lang">EN</span>
+                    </button>
+                    <ul class="lang-dropdown">
+                        <li><button data-lang="en" class="lang-option active">English</button></li>
+                        <li><button data-lang="fr" class="lang-option">Français (French)</button></li>
+                        <li><button data-lang="de" class="lang-option">Deutsch (German)</button></li>
+                        <li><button data-lang="it" class="lang-option">Italiano (Italian)</button></li>
+                        <li><button data-lang="pt" class="lang-option">Português (Portuguese)</button></li>
+                        <li><button data-lang="es" class="lang-option">Español (Spanish)</button></li>
+                        <li><button data-lang="ja" class="lang-option">日本語 (Japanese)</button></li>
+                        <li><button data-lang="zh-TW" class="lang-option">繁體中文 (Traditional Chinese)</button></li>
+                        <li><button data-lang="zh-CN" class="lang-option">简体中文 (Simplified Chinese)</button></li>
+                    </ul>
                 </div>
             </div>
         </nav>
@@ -478,7 +523,8 @@
                 <div class="container">
                     <div class="section-header">
                         <span class="section-tag" data-i18n="appsSection.tag">All Apps</span>
-                        <h2 id="apps-grid-title" class="section-title" data-i18n="appsSection.title">Browse the Collection</h2>
+                        <h2 id="apps-grid-title" class="section-title" data-i18n="appsSection.title">Browse the
+                            Collection</h2>
                     </div>
 
                     <div class="apps-grid">
@@ -486,15 +532,16 @@
                         <!-- AI Agent Vchytel -->
                         <article class="app-card reveal">
                             <div class="app-card-visual bg-ukrainian">
-                                <img src="images/AgentVchytel192x192.webp"
-                                    alt="AI Agent Vchytel Logo" class="app-card-logo" width="192" height="192"
-                                    loading="lazy" decoding="async">
+                                <img src="images/AgentVchytel192x192.webp" alt="AI Agent Vchytel Logo"
+                                    class="app-card-logo" width="192" height="192" loading="lazy" decoding="async">
                                 <div class="app-card-overlay">
                                     <a href="https://play.google.com/store/apps/details?id=com.carlier.ai_agent_vchytel"
                                         class="app-store-btn" target="_blank" rel="noopener noreferrer"
                                         aria-label="Get AI Agent Vchytel on Google Play">
-                                        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
-                                            <path d="M3 20.5v-17c0-.83 1.02-1.28 1.63-.7l14 8.5c.52.31.52 1.09 0 1.4l-14 8.5C3.98 21.78 3 21.33 3 20.5z" />
+                                        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"
+                                            aria-hidden="true">
+                                            <path
+                                                d="M3 20.5v-17c0-.83 1.02-1.28 1.63-.7l14 8.5c.52.31.52 1.09 0 1.4l-14 8.5C3.98 21.78 3 21.33 3 20.5z" />
                                         </svg>
                                         <span data-i18n="storeBtn">Get on Google Play</span>
                                     </a>
@@ -507,11 +554,17 @@
                                     <span class="app-tag" data-i18n="appCards.tags.ukrainian">Ukrainian</span>
                                 </div>
                                 <h3 class="app-card-title" data-i18n="appCards.titles.vchytel">AI Agent Vchytel</h3>
-                                <p class="app-card-desc" data-i18n="appCards.descriptions.vchytel">Learn Ukrainian, practice real conversations, and translate in real time with a live AI Ukrainian teacher. Features voice chat, camera-based context understanding, and instant translation support.</p>
+                                <p class="app-card-desc" data-i18n="appCards.descriptions.vchytel">Learn Ukrainian,
+                                    practice real conversations, and translate in real time with a live AI Ukrainian
+                                    teacher. Features voice chat, camera-based context understanding, and instant
+                                    translation support.</p>
                                 <div class="app-card-features">
-                                    <span class="app-feature-chip" data-i18n="appCards.features.voiceChat">Voice Chat</span>
-                                    <span class="app-feature-chip" data-i18n="appCards.features.cameraContext">Camera Context</span>
-                                    <span class="app-feature-chip" data-i18n="appCards.features.instantTranslation">Instant Translation</span>
+                                    <span class="app-feature-chip" data-i18n="appCards.features.voiceChat">Voice
+                                        Chat</span>
+                                    <span class="app-feature-chip" data-i18n="appCards.features.cameraContext">Camera
+                                        Context</span>
+                                    <span class="app-feature-chip"
+                                        data-i18n="appCards.features.instantTranslation">Instant Translation</span>
                                     <span class="app-feature-chip" data-i18n="appCards.features.flutter">Flutter</span>
                                 </div>
                             </div>
@@ -520,15 +573,16 @@
                         <!-- AI Agent Lousi -->
                         <article class="app-card reveal">
                             <div class="app-card-visual bg-cantonese">
-                                <img src="images/AgentLousi192x192.webp"
-                                    alt="AI Agent Lousi Logo" class="app-card-logo" width="192" height="192"
-                                    loading="lazy" decoding="async">
+                                <img src="images/AgentLousi192x192.webp" alt="AI Agent Lousi Logo" class="app-card-logo"
+                                    width="192" height="192" loading="lazy" decoding="async">
                                 <div class="app-card-overlay">
                                     <a href="https://play.google.com/store/apps/details?id=com.carlier.ai_agent_lousi"
                                         class="app-store-btn" target="_blank" rel="noopener noreferrer"
                                         aria-label="Get AI Agent Lousi on Google Play">
-                                        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
-                                            <path d="M3 20.5v-17c0-.83 1.02-1.28 1.63-.7l14 8.5c.52.31.52 1.09 0 1.4l-14 8.5C3.98 21.78 3 21.33 3 20.5z" />
+                                        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"
+                                            aria-hidden="true">
+                                            <path
+                                                d="M3 20.5v-17c0-.83 1.02-1.28 1.63-.7l14 8.5c.52.31.52 1.09 0 1.4l-14 8.5C3.98 21.78 3 21.33 3 20.5z" />
                                         </svg>
                                         <span data-i18n="storeBtn">Get on Google Play</span>
                                     </a>
@@ -541,10 +595,15 @@
                                     <span class="app-tag" data-i18n="appCards.tags.cantonese">Cantonese</span>
                                 </div>
                                 <h3 class="app-card-title" data-i18n="appCards.titles.lousi">AI Agent Lousi</h3>
-                                <p class="app-card-desc" data-i18n="appCards.descriptions.lousi">Learn Chinese Cantonese, practice real conversations, and translate in real time with a live AI Cantonese teacher. Features voice chat, camera-based context understanding, and instant translation support.</p>
+                                <p class="app-card-desc" data-i18n="appCards.descriptions.lousi">Learn Chinese
+                                    Cantonese, practice real conversations, and translate in real time with a live AI
+                                    Cantonese teacher. Features voice chat, camera-based context understanding, and
+                                    instant translation support.</p>
                                 <div class="app-card-features">
-                                    <span class="app-feature-chip" data-i18n="appCards.features.voiceChat">Voice Chat</span>
-                                    <span class="app-feature-chip" data-i18n="appCards.features.cameraContext">Camera Context</span>
+                                    <span class="app-feature-chip" data-i18n="appCards.features.voiceChat">Voice
+                                        Chat</span>
+                                    <span class="app-feature-chip" data-i18n="appCards.features.cameraContext">Camera
+                                        Context</span>
                                     <span class="app-feature-chip" data-i18n="appCards.tags.cantonese">Cantonese</span>
                                     <span class="app-feature-chip" data-i18n="appCards.features.flutter">Flutter</span>
                                 </div>
@@ -554,15 +613,16 @@
                         <!-- AI Agent Laoshi -->
                         <article class="app-card reveal">
                             <div class="app-card-visual bg-chinese">
-                                <img src="images/AgentLaoshi192x192.webp"
-                                    alt="AI Agent Laoshi Logo" class="app-card-logo" width="192" height="192"
-                                    loading="lazy" decoding="async">
+                                <img src="images/AgentLaoshi192x192.webp" alt="AI Agent Laoshi Logo"
+                                    class="app-card-logo" width="192" height="192" loading="lazy" decoding="async">
                                 <div class="app-card-overlay">
                                     <a href="https://play.google.com/store/apps/details?id=com.carlier.ai_agent_laoshi"
                                         class="app-store-btn" target="_blank" rel="noopener noreferrer"
                                         aria-label="Get AI Agent Laoshi on Google Play">
-                                        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
-                                            <path d="M3 20.5v-17c0-.83 1.02-1.28 1.63-.7l14 8.5c.52.31.52 1.09 0 1.4l-14 8.5C3.98 21.78 3 21.33 3 20.5z" />
+                                        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"
+                                            aria-hidden="true">
+                                            <path
+                                                d="M3 20.5v-17c0-.83 1.02-1.28 1.63-.7l14 8.5c.52.31.52 1.09 0 1.4l-14 8.5C3.98 21.78 3 21.33 3 20.5z" />
                                         </svg>
                                         <span data-i18n="storeBtn">Get on Google Play</span>
                                     </a>
@@ -575,10 +635,15 @@
                                     <span class="app-tag" data-i18n="appCards.tags.mandarin">Mandarin</span>
                                 </div>
                                 <h3 class="app-card-title" data-i18n="appCards.titles.laoshi">AI Agent Laoshi</h3>
-                                <p class="app-card-desc" data-i18n="appCards.descriptions.laoshi">Learn Chinese Mandarin, practice real conversations, and translate in real time with a live AI Mandarin teacher. Features voice chat, camera-based context understanding, and instant translation support.</p>
+                                <p class="app-card-desc" data-i18n="appCards.descriptions.laoshi">Learn Chinese
+                                    Mandarin, practice real conversations, and translate in real time with a live AI
+                                    Mandarin teacher. Features voice chat, camera-based context understanding, and
+                                    instant translation support.</p>
                                 <div class="app-card-features">
-                                    <span class="app-feature-chip" data-i18n="appCards.features.voiceChat">Voice Chat</span>
-                                    <span class="app-feature-chip" data-i18n="appCards.features.cameraContext">Camera Context</span>
+                                    <span class="app-feature-chip" data-i18n="appCards.features.voiceChat">Voice
+                                        Chat</span>
+                                    <span class="app-feature-chip" data-i18n="appCards.features.cameraContext">Camera
+                                        Context</span>
                                     <span class="app-feature-chip" data-i18n="appCards.tags.mandarin">Mandarin</span>
                                     <span class="app-feature-chip" data-i18n="appCards.features.flutter">Flutter</span>
                                 </div>
@@ -588,15 +653,16 @@
                         <!-- AI Agent Khru -->
                         <article class="app-card reveal">
                             <div class="app-card-visual bg-thai">
-                                <img src="images/AgentKhru192x192.webp"
-                                    alt="AI Agent Khru Logo" class="app-card-logo" width="192" height="192"
-                                    loading="lazy" decoding="async">
+                                <img src="images/AgentKhru192x192.webp" alt="AI Agent Khru Logo" class="app-card-logo"
+                                    width="192" height="192" loading="lazy" decoding="async">
                                 <div class="app-card-overlay">
                                     <a href="https://play.google.com/store/apps/details?id=com.carlier.ai_agent_khru"
                                         class="app-store-btn" target="_blank" rel="noopener noreferrer"
                                         aria-label="Get AI Agent Khru on Google Play">
-                                        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
-                                            <path d="M3 20.5v-17c0-.83 1.02-1.28 1.63-.7l14 8.5c.52.31.52 1.09 0 1.4l-14 8.5C3.98 21.78 3 21.33 3 20.5z" />
+                                        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"
+                                            aria-hidden="true">
+                                            <path
+                                                d="M3 20.5v-17c0-.83 1.02-1.28 1.63-.7l14 8.5c.52.31.52 1.09 0 1.4l-14 8.5C3.98 21.78 3 21.33 3 20.5z" />
                                         </svg>
                                         <span data-i18n="storeBtn">Get on Google Play</span>
                                     </a>
@@ -609,10 +675,14 @@
                                     <span class="app-tag" data-i18n="appCards.tags.thai">Thai</span>
                                 </div>
                                 <h3 class="app-card-title" data-i18n="appCards.titles.khru">AI Agent Khru</h3>
-                                <p class="app-card-desc" data-i18n="appCards.descriptions.khru">Learn Thai, practice real conversations, and translate in real time with a live AI Thai teacher. Features voice chat, camera-based context understanding, and instant translation support.</p>
+                                <p class="app-card-desc" data-i18n="appCards.descriptions.khru">Learn Thai, practice
+                                    real conversations, and translate in real time with a live AI Thai teacher. Features
+                                    voice chat, camera-based context understanding, and instant translation support.</p>
                                 <div class="app-card-features">
-                                    <span class="app-feature-chip" data-i18n="appCards.features.voiceChat">Voice Chat</span>
-                                    <span class="app-feature-chip" data-i18n="appCards.features.cameraContext">Camera Context</span>
+                                    <span class="app-feature-chip" data-i18n="appCards.features.voiceChat">Voice
+                                        Chat</span>
+                                    <span class="app-feature-chip" data-i18n="appCards.features.cameraContext">Camera
+                                        Context</span>
                                     <span class="app-feature-chip" data-i18n="appCards.tags.thai">Thai</span>
                                     <span class="app-feature-chip" data-i18n="appCards.features.flutter">Flutter</span>
                                 </div>
@@ -622,15 +692,16 @@
                         <!-- Coin Identifier featured -->
                         <article class="app-card app-card--featured reveal">
                             <div class="app-card-visual bg-coin">
-                                <img src="images/CoinIdentifier192x192.webp"
-                                    alt="Coin Identifier Logo" class="app-card-logo" width="192" height="192"
-                                    loading="lazy" decoding="async">
+                                <img src="images/CoinIdentifier192x192.webp" alt="Coin Identifier Logo"
+                                    class="app-card-logo" width="192" height="192" loading="lazy" decoding="async">
                                 <div class="app-card-overlay">
                                     <a href="https://play.google.com/store/apps/details?id=com.carlier.coinidentifier"
                                         class="app-store-btn" target="_blank" rel="noopener noreferrer"
                                         aria-label="Get Coin Identifier on Google Play">
-                                        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
-                                            <path d="M3 20.5v-17c0-.83 1.02-1.28 1.63-.7l14 8.5c.52.31.52 1.09 0 1.4l-14 8.5C3.98 21.78 3 21.33 3 20.5z" />
+                                        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"
+                                            aria-hidden="true">
+                                            <path
+                                                d="M3 20.5v-17c0-.83 1.02-1.28 1.63-.7l14 8.5c.52.31.52 1.09 0 1.4l-14 8.5C3.98 21.78 3 21.33 3 20.5z" />
                                         </svg>
                                         <span data-i18n="storeBtn">Get on Google Play</span>
                                     </a>
@@ -642,13 +713,21 @@
                                     <span class="app-tag" data-i18n="appCards.tags.aiScanner">AI Scanner</span>
                                     <span class="app-tag" data-i18n="appCards.tags.featured">Featured</span>
                                 </div>
-                                <h3 class="app-card-title" data-i18n="appCards.titles.coinIdentifier">Coin Identifier</h3>
-                                <p class="app-card-desc" data-i18n="appCards.descriptions.coinIdentifier">AI-powered coin scanner app for collectors. Instantly identify coins from around the world, estimate market values, check rarity, and build a digital catalog of your collection all from your phone's camera.</p>
+                                <h3 class="app-card-title" data-i18n="appCards.titles.coinIdentifier">Coin Identifier
+                                </h3>
+                                <p class="app-card-desc" data-i18n="appCards.descriptions.coinIdentifier">AI-powered
+                                    coin scanner app for collectors. Instantly identify coins from around the world,
+                                    estimate market values, check rarity, and build a digital catalog of your collection
+                                    all from your phone's camera.</p>
                                 <div class="app-card-features">
-                                    <span class="app-feature-chip" data-i18n="appCards.features.aiVision">AI Vision</span>
-                                    <span class="app-feature-chip" data-i18n="appCards.features.coinValuation">Coin Valuation</span>
-                                    <span class="app-feature-chip" data-i18n="appCards.features.rarityCheck">Rarity Check</span>
-                                    <span class="app-feature-chip" data-i18n="appCards.features.collectionCatalog">Collection Catalog</span>
+                                    <span class="app-feature-chip" data-i18n="appCards.features.aiVision">AI
+                                        Vision</span>
+                                    <span class="app-feature-chip" data-i18n="appCards.features.coinValuation">Coin
+                                        Valuation</span>
+                                    <span class="app-feature-chip" data-i18n="appCards.features.rarityCheck">Rarity
+                                        Check</span>
+                                    <span class="app-feature-chip"
+                                        data-i18n="appCards.features.collectionCatalog">Collection Catalog</span>
                                     <span class="app-feature-chip" data-i18n="appCards.features.flutter">Flutter</span>
                                 </div>
                             </div>
@@ -664,7 +743,8 @@
                 <div class="container">
                     <div class="cta-card reveal">
                         <h2 id="cta-title" data-i18n="cta.title">Have an app idea?</h2>
-                        <p data-i18n="cta.subtitle">I build AI-native mobile apps from concept to the App Store &amp; Google Play. Let's turn
+                        <p data-i18n="cta.subtitle">I build AI-native mobile apps from concept to the App Store &amp;
+                            Google Play. Let's turn
                             your vision into a product people love.</p>
                         <div class="btn-group">
                             <a href="https://carlier.site/#contact" class="btn btn--primary">
@@ -674,7 +754,8 @@
                                     <path d="M5 12h14M12 5l7 7-7 7" />
                                 </svg>
                             </a>
-                            <a href="https://carlier.site/" class="btn btn--secondary" data-i18n="cta.secondary">Back to Home</a>
+                            <a href="https://carlier.site/" class="btn btn--secondary" data-i18n="cta.secondary">Back to
+                                Home</a>
                         </div>
                     </div>
                 </div>
@@ -695,14 +776,19 @@
                         <a href="https://carlier.site/" data-i18n="footer.links1.home">Home</a>
                         <a href="https://carlier.site/#about" data-i18n="footer.links1.about">About</a>
                         <a href="https://carlier.site/#skills" data-i18n="footer.links1.skills">Skills</a>
-                        <a href="https://carlier.site/ai-mobile-apps/" aria-current="page" data-i18n="footer.links1.aiApps">AI Apps</a>
+                        <a href="https://carlier.site/ai-mobile-apps/" aria-current="page"
+                            data-i18n="footer.links1.aiApps">AI mobile apps</a>
                         <a href="https://carlier.site/#contact" data-i18n="footer.links1.contact">Contact</a>
                     </div>
                     <div class="footer-links">
-                        <a href="https://carlier.site/learn-chinese/" target="_blank" data-i18n="footer.links2.learnChinese">Learn Chinese</a>
-                        <a href="https://carlier.site/learn-cantonese/" target="_blank" data-i18n="footer.links2.learnCantonese">Learn Cantonese</a>
-                        <a href="https://carlier.site/learn-ukrainian/" target="_blank" data-i18n="footer.links2.learnUkrainian">Learn Ukrainian</a>
-                        <a href="https://carlier.site/coin-identifier/" target="_blank" data-i18n="footer.links2.coinIdentifier">Coin Identifier</a>
+                        <a href="https://carlier.site/learn-chinese/" target="_blank"
+                            data-i18n="footer.links2.learnChinese">Learn Chinese</a>
+                        <a href="https://carlier.site/learn-cantonese/" target="_blank"
+                            data-i18n="footer.links2.learnCantonese">Learn Cantonese</a>
+                        <a href="https://carlier.site/learn-ukrainian/" target="_blank"
+                            data-i18n="footer.links2.learnUkrainian">Learn Ukrainian</a>
+                        <a href="https://carlier.site/coin-identifier/" target="_blank"
+                            data-i18n="footer.links2.coinIdentifier">Coin Identifier</a>
                     </div>
                 </div>
                 <div class="footer-bottom">

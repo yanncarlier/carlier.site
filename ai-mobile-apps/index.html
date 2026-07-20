@@ -766,33 +766,46 @@
         <!-- Footer -->
         <footer class="footer" role="contentinfo">
             <div class="container">
-                <div class="footer-content">
+                <div class="footer-main">
                     <div class="footer-brand">
-                        <img class="footer-logo" src="images/Carlier_logo_160x160.webp" alt="Carlier logo" width="64"
+                        <img class="footer-logo" src="../images/Carlier_logo_160x160.webp" alt="Carlier logo" width="64"
                             height="64" loading="lazy" decoding="async">
-                        <p data-i18n="footer.tagline">Building products that make a difference.</p>
+                        <p class="footer-powered-by" data-i18n="footer.tagline">Building products that make a
+                            difference.</p>
                     </div>
-                    <div class="footer-links">
-                        <a href="https://carlier.site/" data-i18n="footer.links1.home">Home</a>
-                        <a href="https://carlier.site/#about" data-i18n="footer.links1.about">About</a>
-                        <a href="https://carlier.site/#skills" data-i18n="footer.links1.skills">Skills</a>
-                        <a href="https://carlier.site/ai-mobile-apps/" aria-current="page"
-                            data-i18n="footer.links1.aiApps">AI mobile apps</a>
-                        <a href="https://carlier.site/#contact" data-i18n="footer.links1.contact">Contact</a>
-                    </div>
-                    <div class="footer-links">
-                        <a href="https://carlier.site/learn-chinese/" target="_blank"
-                            data-i18n="footer.links2.learnChinese">Learn Chinese</a>
-                        <a href="https://carlier.site/learn-cantonese/" target="_blank"
-                            data-i18n="footer.links2.learnCantonese">Learn Cantonese</a>
-                        <a href="https://carlier.site/learn-ukrainian/" target="_blank"
-                            data-i18n="footer.links2.learnUkrainian">Learn Ukrainian</a>
-                        <a href="https://carlier.site/coin-identifier/" target="_blank"
-                            data-i18n="footer.links2.coinIdentifier">Coin Identifier</a>
+                    <div class="footer-columns">
+                        <div class="footer-column">
+                            <h4 class="footer-column-title">Main</h4>
+                            <ul class="footer-column-links">
+                                <li><a href="../" data-i18n="footer.home">Home</a></li>
+                                <li><a href="../#about" data-i18n="footer.about">About</a></li>
+                                <li><a href="../#skills" data-i18n="footer.skills">Skills</a></li>
+                                <li><a href="../#contact" data-i18n="footer.contact">Contact</a></li>
+                            </ul>
+                        </div>
+                        <div class="footer-column">
+                            <h4 class="footer-column-title">Product Apps</h4>
+                            <ul class="footer-column-links">
+                                <li><a class="footer-landing-link" target="_blank" data-landing="ai-mobile-apps"
+                                        data-i18n="footer.landing.aiMobileApps" href="../">AI Mobile Apps</a></li>
+                                <li><a class="footer-landing-link" target="_blank" data-landing="chinese"
+                                        data-i18n="footer.landing.chinese" href="../learn-chinese/">Learn Chinese</a>
+                                </li>
+                                <li><a class="footer-landing-link" target="_blank" data-landing="cantonese"
+                                        data-i18n="footer.landing.cantonese" href="../learn-cantonese/">Learn
+                                        Cantonese</a></li>
+                                <li><a class="footer-landing-link" target="_blank" data-landing="ukrainian"
+                                        data-i18n="footer.landing.ukrainian" href="../learn-ukrainian/">Learn
+                                        Ukrainian</a></li>
+                                <li><a class="footer-landing-link" target="_blank" data-landing="coin-identifier"
+                                        data-i18n="footer.landing.coin-identifier" href="../coin-identifier/">Coin
+                                        Identifier</a></li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
                 <div class="footer-bottom">
-                    <p>&copy; 2026 Carlier. <span data-i18n="footer.copyright">All rights reserved.</span></p>
+                    <p data-i18n="footer.copyright">&copy; 2026 Carlier. All rights reserved.</p>
                     <p class="footer-crafted" data-i18n="footer.crafted">Crafted with passion</p>
                 </div>
             </div>

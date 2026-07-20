@@ -90,6 +90,7 @@ const translations = {
             projects: 'Projects',
             contact: 'Contact',
             landing: {
+                aiMobileApps: 'AI Mobile Apps',
                 cantonese: 'Learn Cantonese',
                 chinese: 'Learn Chinese',
                 thai: 'Learn Thai',
@@ -185,6 +186,7 @@ const translations = {
             projects: 'Проєкти',
             contact: 'Контакти',
             landing: {
+                aiMobileApps: 'AI Mobile Apps',
                 cantonese: 'Вчитись кантонською',
                 chinese: 'Вчитись китайською',
                 thai: 'Вчитись тайською',
@@ -280,6 +282,7 @@ const translations = {
             projects: 'โปรเจกต์',
             contact: 'ติดต่อ',
             landing: {
+                aiMobileApps: 'AI Mobile Apps',
                 cantonese: 'เรียนภาษากวางตุ้ง',
                 chinese: 'เรียนภาษาจีน',
                 thai: 'เรียนภาษาไทย',
@@ -375,6 +378,7 @@ const translations = {
             projects: 'Projetos',
             contact: 'Contacto',
             landing: {
+                aiMobileApps: 'AI Mobile Apps',
                 cantonese: 'Aprender Cantones',
                 chinese: 'Aprender Chinês',
                 thai: 'Aprender Tailandês',
@@ -470,6 +474,7 @@ const translations = {
             projects: 'Proyectos',
             contact: 'Contacto',
             landing: {
+                aiMobileApps: 'AI Mobile Apps',
                 cantonese: 'Aprender Cantones',
                 chinese: 'Aprender Chino',
                 thai: 'Aprender Tailandés',
@@ -565,6 +570,7 @@ const translations = {
             projects: 'Projets',
             contact: 'Contact',
             landing: {
+                aiMobileApps: 'AI Mobile Apps',
                 cantonese: 'Apprendre le Cantonais',
                 chinese: 'Apprendre le Chinois',
                 thai: 'Apprendre le Thaï',
@@ -660,6 +666,7 @@ const translations = {
             projects: '專案',
             contact: '聯繫',
             landing: {
+                aiMobileApps: 'AI Mobile Apps',
                 cantonese: '學習粵語',
                 chinese: '學習中文',
                 thai: '學習泰語',
@@ -755,6 +762,7 @@ const translations = {
             projects: '项目',
             contact: '联系',
             landing: {
+                aiMobileApps: 'AI Mobile Apps',
                 cantonese: '学习粤语',
                 chinese: '学习中文',
                 thai: '学习泰语',
@@ -849,6 +857,7 @@ const translations = {
             projects: 'प्रोजेक्ट्स',
             contact: 'संपर्क',
             landing: {
+                aiMobileApps: 'AI Mobile Apps',
                 cantonese: 'कैंटोनीज़ सीखें',
                 chinese: 'चीनीज़ सीखें',
                 thai: 'थाई सीखें',
@@ -944,6 +953,7 @@ const translations = {
             projects: 'プロジェクト',
             contact: 'お問い合わせ',
             landing: {
+                aiMobileApps: 'AI Mobile Apps',
                 cantonese: '広東語を学ぶ',
                 chinese: '中国語を学ぶ',
                 thai: 'タイ語を学ぶ',
@@ -1039,6 +1049,7 @@ const translations = {
             projects: 'المشاريع',
             contact: 'تواصل',
             landing: {
+                aiMobileApps: 'AI Mobile Apps',
                 cantonese: 'تعلم الكانتونيز',
                 chinese: 'تعلم الصينية',
                 thai: 'تعلم الثيين',
@@ -1134,6 +1145,7 @@ const translations = {
             projects: 'Projekte',
             contact: 'Kontakt',
             landing: {
+                aiMobileApps: 'AI Mobile Apps',
                 cantonese: 'Kantonesisch lernen',
                 chinese: 'Chinesisch lernen',
                 thai: 'Thailändisch lernen',
@@ -1229,6 +1241,7 @@ const translations = {
             projects: 'Progetti',
             contact: 'Contatto',
             landing: {
+                aiMobileApps: 'AI Mobile Apps',
                 cantonese: 'Impara il Cantonese',
                 chinese: 'Impara il Cinese',
                 thai: 'Impara il Thai',
@@ -1324,6 +1337,7 @@ const translations = {
             projects: '프로젝트',
             contact: '연락처',
             landing: {
+                aiMobileApps: 'AI Mobile Apps',
                 cantonese: '광둥어 배우기',
                 chinese: '중국어 배우기',
                 thai: '태국어 배우기',
@@ -1418,6 +1432,7 @@ const translations = {
             projects: 'Проекты',
             contact: 'Контакт',
             landing: {
+                aiMobileApps: 'AI Mobile Apps',
                 cantonese: 'Учить кантонский',
                 chinese: 'Учить китайский',
                 thai: 'Учить тайский',
@@ -1514,6 +1529,7 @@ const translations = {
             projects: 'Projekty',
             contact: 'Kontakt',
             landing: {
+                aiMobileApps: 'AI Mobile Apps',
                 cantonese: 'Naucz się kantońskiego',
                 chinese: 'Naucz się chińskiego',
                 thai: 'Naucz się tajskiego',

@@ -67,18 +67,19 @@ const translations = {
     },
     "footer": {
       "tagline": "Building products that make a difference.",
-      "links1": {
-        "home": "Home",
-        "about": "About",
-        "skills": "Skills",
-        "aiApps": "AI mobile apps",
-        "contact": "Contact"
-      },
-      "links2": {
-        "learnChinese": "Learn Chinese",
-        "learnCantonese": "Learn Cantonese",
-        "learnUkrainian": "Learn Ukrainian",
-        "coinIdentifier": "Coin Identifier"
+      "home": "Home",
+      "about": "About",
+      "skills": "Skills",
+      "aiApps": "AI Apps",
+      "contact": "Contact",
+      "main": "Main",
+      "productApps": "Product Apps",
+      "landing": {
+        "aiMobileApps": "AI Mobile Apps",
+        "chinese": "Learn Chinese",
+        "cantonese": "Learn Cantonese",
+        "ukrainian": "Learn Ukrainian",
+        "coin": "Coin Identifier"
       },
       "copyright": "All rights reserved.",
       "crafted": "Crafted with passion"
@@ -152,18 +153,19 @@ const translations = {
     },
     "footer": {
       "tagline": "Construire des produits qui font la différence.",
-      "links1": {
-        "home": "Accueil",
-        "about": "À propos",
-        "skills": "Compétences",
-        "aiApps": "Apps IA",
-        "contact": "Contact"
-      },
-      "links2": {
-        "learnChinese": "Apprendre le Chinois",
-        "learnCantonese": "Apprendre le Cantonais",
-        "learnUkrainian": "Apprendre l'Ukrainien",
-        "coinIdentifier": "Identificateur de Pièces"
+      "home": "Accueil",
+      "about": "À propos",
+      "skills": "Compétences",
+      "aiApps": "Apps IA",
+      "contact": "Contact",
+      "main": "Main",
+      "productApps": "Product Apps",
+      "landing": {
+        "aiMobileApps": "AI Mobile Apps",
+        "chinese": "Apprendre le Chinois",
+        "cantonese": "Apprendre le Cantonais",
+        "ukrainian": "Apprendre l'Ukrainien",
+        "coin": "Identificateur de Pièces"
       },
       "copyright": "Tous droits réservés.",
       "crafted": "Créé avec passion"
@@ -237,18 +239,19 @@ const translations = {
     },
     "footer": {
       "tagline": "Produkte bauen, die einen Unterschied machen.",
-      "links1": {
-        "home": "Startseite",
-        "about": "Über mich",
-        "skills": "Fähigkeiten",
-        "aiApps": "KI-Apps",
-        "contact": "Kontakt"
-      },
-      "links2": {
-        "learnChinese": "Chinesisch lernen",
-        "learnCantonese": "Kantonisch lernen",
-        "learnUkrainian": "Ukrainisch lernen",
-        "coinIdentifier": "Münz-Identifier"
+      "home": "Startseite",
+      "about": "Über mich",
+      "skills": "Fähigkeiten",
+      "aiApps": "KI-Apps",
+      "contact": "Kontakt",
+      "main": "Main",
+      "productApps": "Product Apps",
+      "landing": {
+        "aiMobileApps": "AI Mobile Apps",
+        "chinese": "Chinesisch lernen",
+        "cantonese": "Kantonisch lernen",
+        "ukrainian": "Ukrainisch lernen",
+        "coin": "Münz-Identifier"
       },
       "copyright": "Alle Rechte vorbehalten.",
       "crafted": "Mit Leidenschaft geschaffen"
@@ -322,18 +325,19 @@ const translations = {
     },
     "footer": {
       "tagline": "Construyendo productos que marcan la diferencia.",
-      "links1": {
-        "home": "Inicio",
-        "about": "Acerca de",
-        "skills": "Habilidades",
-        "aiApps": "Apps de IA",
-        "contact": "Contacto"
-      },
-      "links2": {
-        "learnChinese": "Aprender Chino",
-        "learnCantonese": "Aprender Cantonés",
-        "learnUkrainian": "Aprender Ucraniano",
-        "coinIdentifier": "Identificador de Monedas"
+      "home": "Inicio",
+      "about": "Acerca de",
+      "skills": "Habilidades",
+      "aiApps": "Apps de IA",
+      "contact": "Contacto",
+      "main": "Main",
+      "productApps": "Product Apps",
+      "landing": {
+        "aiMobileApps": "AI Mobile Apps",
+        "chinese": "Aprender Chino",
+        "cantonese": "Aprender Cantonés",
+        "ukrainian": "Aprender Ucraniano",
+        "coin": "Identificador de Monedas"
       },
       "copyright": "Todos los derechos reservados.",
       "crafted": "Creado con pasión"
@@ -407,18 +411,19 @@ const translations = {
     },
     "footer": {
       "tagline": "Costruire prodotti che fanno la differenza.",
-      "links1": {
-        "home": "Home",
-        "about": "Chi sono",
-        "skills": "Competenze",
-        "aiApps": "App IA",
-        "contact": "Contatto"
-      },
-      "links2": {
-        "learnChinese": "Impara il Cinese",
-        "learnCantonese": "Impara il Cantonese",
-        "learnUkrainian": "Impara l'Ucraino",
-        "coinIdentifier": "Identificatore di Monete"
+      "home": "Home",
+      "about": "Chi sono",
+      "skills": "Competenze",
+      "aiApps": "App IA",
+      "contact": "Contatto",
+      "main": "Main",
+      "productApps": "Product Apps",
+      "landing": {
+        "aiMobileApps": "AI Mobile Apps",
+        "chinese": "Impara il Cinese",
+        "cantonese": "Impara il Cantonese",
+        "ukrainian": "Impara l'Ucraino",
+        "coin": "Identificatore di Monete"
       },
       "copyright": "Tutti i diritti riservati.",
       "crafted": "Creato con passione"
@@ -492,18 +497,19 @@ const translations = {
     },
     "footer": {
       "tagline": "Construindo produtos que Fazem a diferença.",
-      "links1": {
-        "home": "Início",
-        "about": "Sobre",
-        "skills": "Habilidades",
-        "aiApps": "Apps de IA",
-        "contact": "Contato"
-      },
-      "links2": {
-        "learnChinese": "Aprender Chinês",
-        "learnCantonese": "Aprender Cantonês",
-        "learnUkrainian": "Aprender Ucraniano",
-        "coinIdentifier": "Identificador de Moedas"
+      "home": "Início",
+      "about": "Sobre",
+      "skills": "Habilidades",
+      "aiApps": "Apps de IA",
+      "contact": "Contato",
+      "main": "Main",
+      "productApps": "Product Apps",
+      "landing": {
+        "aiMobileApps": "AI Mobile Apps",
+        "chinese": "Aprender Chinês",
+        "cantonese": "Aprender Cantonês",
+        "ukrainian": "Aprender Ucraniano",
+        "coin": "Identificador de Moedas"
       },
       "copyright": "Todos os direitos reservados.",
       "crafted": "Criado com paixão"
@@ -577,18 +583,19 @@ const translations = {
     },
     "footer": {
       "tagline": "違いを生む製品を構築。",
-      "links1": {
-        "home": "ホーム",
-        "about": "について",
-        "skills": "スキル",
-        "aiApps": "AIアプリ",
-        "contact": "お問い合わせ"
-      },
-      "links2": {
-        "learnChinese": "中国語を学ぶ",
-        "learnCantonese": "広東語を学ぶ",
-        "learnUkrainian": "ウクライナ語を学ぶ",
-        "coinIdentifier": "コイン識別"
+      "home": "ホーム",
+      "about": "について",
+      "skills": "スキル",
+      "aiApps": "AIアプリ",
+      "contact": "お問い合わせ",
+      "main": "Main",
+      "productApps": "Product Apps",
+      "landing": {
+        "aiMobileApps": "AI Mobile Apps",
+        "chinese": "中国語を学ぶ",
+        "cantonese": "広東語を学ぶ",
+        "ukrainian": "ウクライナ語を学ぶ",
+        "coin": "コイン識別"
       },
       "copyright": "全著作権所有。",
       "crafted": "情熱を込めて作成"
@@ -662,18 +669,19 @@ const translations = {
     },
     "footer": {
       "tagline": "构建有影响力的产品。",
-      "links1": {
-        "home": "首页",
-        "about": "关于",
-        "skills": "技能",
-        "aiApps": "AI应用",
-        "contact": "联系"
-      },
-      "links2": {
-        "learnChinese": "学习中文",
-        "learnCantonese": "学习粤语",
-        "learnUkrainian": "学习乌克兰语",
-        "coinIdentifier": "硬币识别"
+      "home": "首页",
+      "about": "关于",
+      "skills": "技能",
+      "aiApps": "AI应用",
+      "contact": "联系",
+      "main": "Main",
+      "productApps": "Product Apps",
+      "landing": {
+        "aiMobileApps": "AI Mobile Apps",
+        "chinese": "学习中文",
+        "cantonese": "学习粤语",
+        "ukrainian": "学习乌克兰语",
+        "coin": "硬币识别"
       },
       "copyright": "版权所有。",
       "crafted": "用心制作"
@@ -747,18 +755,19 @@ const translations = {
     },
     "footer": {
       "tagline": "構建有影響力的產品。",
-      "links1": {
-        "home": "首頁",
-        "about": "關於",
-        "skills": "技能",
-        "aiApps": "AI應用",
-        "contact": "聯繫"
-      },
-      "links2": {
-        "learnChinese": "學習中文",
-        "learnCantonese": "學習粵語",
-        "learnUkrainian": "學習烏克蘭語",
-        "coinIdentifier": "硬幣識別"
+      "home": "首頁",
+      "about": "關於",
+      "skills": "技能",
+      "aiApps": "AI應用",
+      "contact": "聯繫",
+      "main": "Main",
+      "productApps": "Product Apps",
+      "landing": {
+        "aiMobileApps": "AI Mobile Apps",
+        "chinese": "學習中文",
+        "cantonese": "學習粵語",
+        "ukrainian": "學習烏克蘭語",
+        "coin": "硬幣識別"
       },
       "copyright": "版權所有。",
       "crafted": "用心製作"

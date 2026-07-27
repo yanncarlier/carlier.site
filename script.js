@@ -1752,7 +1752,8 @@ document.addEventListener('DOMContentLoaded', () => {
     // ========================================
     const navToggle = document.querySelector('.nav-toggle');
     const navMenu = document.querySelector('.nav-menu');
-    const navLinks = document.querySelectorAll('.nav-link');
+    const navLinks = document.querySelectorAll('.nav-link:not(.nav-dropdown-toggle)');
+    const navDropdownItems = document.querySelectorAll('.nav-dropdown-item');
 
     if (navToggle && navMenu) {
         navToggle.addEventListener('click', () => {
@@ -1760,9 +1761,17 @@ document.addEventListener('DOMContentLoaded', () => {
             navToggle.classList.toggle('active');
         });
 
-        // Close menu when clicking a link
+        // Close menu when clicking a regular nav link (excluding the dropdown toggle)
         navLinks.forEach(link => {
             link.addEventListener('click', () => {
+                navMenu.classList.remove('active');
+                navToggle.classList.remove('active');
+            });
+        });
+
+        // Close menu when clicking a dropdown item on mobile
+        navDropdownItems.forEach(item => {
+            item.addEventListener('click', () => {
                 navMenu.classList.remove('active');
                 navToggle.classList.remove('active');
             });

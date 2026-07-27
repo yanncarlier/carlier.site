@@ -12,6 +12,7 @@ const translations = {
             about: 'About',
             skills: 'Skills',
             projects: 'Projects',
+            productApps: 'Product Apps',
             cta: "Let's Talk"
         },
         hero: {
@@ -89,6 +90,7 @@ const translations = {
             skills: 'Skills',
             projects: 'Projects',
             contact: 'Contact',
+            productApps: 'Product Apps',
             landing: {
                 aiMobileApps: 'AI Mobile Apps',
                 cantonese: 'Learn Cantonese',
@@ -108,6 +110,7 @@ const translations = {
             about: 'Про мене',
             skills: 'Навички',
             projects: 'Проєкти',
+            productApps: 'Продукти',
             cta: "Зв'язатися"
         },
         hero: {
@@ -185,6 +188,7 @@ const translations = {
             skills: 'Навички',
             projects: 'Проєкти',
             contact: 'Контакти',
+            productApps: 'Продукти',
             landing: {
                 aiMobileApps: 'AI Mobile Apps',
                 cantonese: 'Вчитись кантонською',
@@ -204,6 +208,7 @@ const translations = {
             about: 'เกี่ยวกับ',
             skills: 'ทักษะ',
             projects: 'โปรเจกต์',
+            productApps: 'แอปพลิเคชันผลิตภัณฑ์',
             cta: "ติดต่อเรา"
         },
         hero: {
@@ -281,6 +286,7 @@ const translations = {
             skills: 'ทักษะ',
             projects: 'โปรเจกต์',
             contact: 'ติดต่อ',
+            productApps: 'แอปพลิเคชันผลิตภัณฑ์',
             landing: {
                 aiMobileApps: 'AI Mobile Apps',
                 cantonese: 'เรียนภาษากวางตุ้ง',
@@ -300,6 +306,7 @@ const translations = {
             about: 'Sobre',
             skills: 'Competências',
             projects: 'Projetos',
+            productApps: 'Apps de Produto',
             cta: 'Fale Comigo'
         },
         hero: {
@@ -377,6 +384,7 @@ const translations = {
             skills: 'Competências',
             projects: 'Projetos',
             contact: 'Contacto',
+            productApps: 'Apps de Produto',
             landing: {
                 aiMobileApps: 'AI Mobile Apps',
                 cantonese: 'Aprender Cantones',
@@ -396,6 +404,7 @@ const translations = {
             about: 'Sobre',
             skills: 'Habilidades',
             projects: 'Proyectos',
+            productApps: 'Apps de Producto',
             cta: 'Hablemos'
         },
         hero: {
@@ -473,6 +482,7 @@ const translations = {
             skills: 'Habilidades',
             projects: 'Proyectos',
             contact: 'Contacto',
+            productApps: 'Apps de Producto',
             landing: {
                 aiMobileApps: 'AI Mobile Apps',
                 cantonese: 'Aprender Cantones',
@@ -492,6 +502,7 @@ const translations = {
             about: 'À Propos',
             skills: 'Compétences',
             projects: 'Projets',
+            productApps: 'Apps Produits',
             cta: 'Discutons'
         },
         hero: {
@@ -569,6 +580,7 @@ const translations = {
             skills: 'Compétences',
             projects: 'Projets',
             contact: 'Contact',
+            productApps: 'Apps Produits',
             landing: {
                 aiMobileApps: 'AI Mobile Apps',
                 cantonese: 'Apprendre le Cantonais',
@@ -588,6 +600,7 @@ const translations = {
             about: '關於',
             skills: '技能',
             projects: '專案',
+            productApps: '產品應用',
             cta: '聯繫我'
         },
         hero: {
@@ -665,6 +678,7 @@ const translations = {
             skills: '技能',
             projects: '專案',
             contact: '聯繫',
+            productApps: '產品應用',
             landing: {
                 aiMobileApps: 'AI Mobile Apps',
                 cantonese: '學習粵語',
@@ -684,6 +698,7 @@ const translations = {
             about: '关于',
             skills: '技能',
             projects: '项目',
+            productApps: '产品应用',
             cta: '联系我'
         },
         hero: {
@@ -761,6 +776,7 @@ const translations = {
             skills: '技能',
             projects: '项目',
             contact: '联系',
+            productApps: '产品应用',
             landing: {
                 aiMobileApps: 'AI Mobile Apps',
                 cantonese: '学习粤语',
@@ -780,6 +796,7 @@ const translations = {
             about: 'परिचय',
             skills: 'कौशल',
             projects: 'प्रोजेक्ट्स',
+            productApps: 'उत्पाद ऐप्स',
             cta: 'संपर्क करें'
         },
         hero: {
@@ -856,6 +873,7 @@ const translations = {
             skills: 'कौशल',
             projects: 'प्रोजेक्ट्स',
             contact: 'संपर्क',
+            productApps: 'उत्पाद ऐप्स',
             landing: {
                 aiMobileApps: 'AI Mobile Apps',
                 cantonese: 'कैंटोनीज़ सीखें',
@@ -875,6 +893,7 @@ const translations = {
             about: '概要',
             skills: 'スキル',
             projects: 'プロジェクト',
+            productApps: 'プロダクトアプリ',
             cta: 'お問い合わせ'
         },
         hero: {
@@ -952,6 +971,7 @@ const translations = {
             skills: 'スキル',
             projects: 'プロジェクト',
             contact: 'お問い合わせ',
+            productApps: 'プロダクトアプリ',
             landing: {
                 aiMobileApps: 'AI Mobile Apps',
                 cantonese: '広東語を学ぶ',
@@ -971,6 +991,7 @@ const translations = {
             about: 'حول',
             skills: 'المهارات',
             projects: 'المشاريع',
+            productApps: 'تطبيقات المنتجات',
             cta: 'تواصل معي'
         },
         hero: {
@@ -1048,6 +1069,7 @@ const translations = {
             skills: 'المهارات',
             projects: 'المشاريع',
             contact: 'تواصل',
+            productApps: 'تطبيقات المنتجات',
             landing: {
                 aiMobileApps: 'AI Mobile Apps',
                 cantonese: 'تعلم الكانتونيز',
@@ -1067,6 +1089,7 @@ const translations = {
             about: 'Über',
             skills: 'Fähigkeiten',
             projects: 'Projekte',
+            productApps: 'Produkt-Apps',
             cta: 'Lass uns sprechen'
         },
         hero: {
@@ -1144,6 +1167,7 @@ const translations = {
             skills: 'Fähigkeiten',
             projects: 'Projekte',
             contact: 'Kontakt',
+            productApps: 'Produkt-Apps',
             landing: {
                 aiMobileApps: 'AI Mobile Apps',
                 cantonese: 'Kantonesisch lernen',
@@ -1163,6 +1187,7 @@ const translations = {
             about: 'Chi sono',
             skills: 'Competenze',
             projects: 'Progetti',
+            productApps: 'App di Prodotto',
             cta: 'Parliamone'
         },
         hero: {
@@ -1240,6 +1265,7 @@ const translations = {
             skills: 'Competenze',
             projects: 'Progetti',
             contact: 'Contatto',
+            productApps: 'App di Prodotto',
             landing: {
                 aiMobileApps: 'AI Mobile Apps',
                 cantonese: 'Impara il Cantonese',
@@ -1259,6 +1285,7 @@ const translations = {
             about: '소개',
             skills: '기술',
             projects: '프로젝트',
+            productApps: '제품 앱',
             cta: '연락하기'
         },
         hero: {
@@ -1336,6 +1363,7 @@ const translations = {
             skills: '기술',
             projects: '프로젝트',
             contact: '연락처',
+            productApps: '제품 앱',
             landing: {
                 aiMobileApps: 'AI Mobile Apps',
                 cantonese: '광둥어 배우기',
@@ -1355,6 +1383,7 @@ const translations = {
             about: 'О себе',
             skills: 'Навыки',
             projects: 'Проекты',
+            productApps: 'Продуктовые приложения',
             cta: 'Давайте поговорим'
         },
         hero: {
@@ -1431,6 +1460,7 @@ const translations = {
             skills: 'Навыки',
             projects: 'Проекты',
             contact: 'Контакт',
+            productApps: 'Продуктовые приложения',
             landing: {
                 aiMobileApps: 'AI Mobile Apps',
                 cantonese: 'Учить кантонский',
@@ -1450,6 +1480,7 @@ const translations = {
             about: 'O mnie',
             skills: 'Umiejętności',
             projects: 'Projekty',
+            productApps: 'Aplikacje produktowe',
             cta: 'Porozmawiajmy'
         },
 
@@ -1528,6 +1559,7 @@ const translations = {
             skills: 'Umiejętności',
             projects: 'Projekty',
             contact: 'Kontakt',
+            productApps: 'Aplikacje produktowe',
             landing: {
                 aiMobileApps: 'AI Mobile Apps',
                 cantonese: 'Naucz się kantońskiego',

@@ -351,6 +351,119 @@ html[lang="zh-CN"] {
 }
 
 /* ========================================
+   Product Apps Dropdown
+   ======================================== */
+.nav-dropdown-wrapper {
+    position: relative;
+}
+
+.nav-dropdown-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-2);
+    background: none;
+    border: none;
+    font-family: var(--font-body);
+    font-size: var(--text-sm);
+    font-weight: 500;
+    color: var(--color-text-muted);
+    cursor: pointer;
+    padding: 0;
+    transition: color var(--transition-fast);
+    position: relative;
+}
+
+.nav-dropdown-toggle::after {
+    content: '';
+    position: absolute;
+    bottom: -4px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: linear-gradient(90deg, var(--color-primary), var(--color-accent-1));
+    transition: width var(--transition-base);
+}
+
+.nav-dropdown-toggle:hover,
+.nav-dropdown-wrapper.active .nav-dropdown-toggle {
+    color: var(--color-text);
+}
+
+.nav-dropdown-toggle:hover::after,
+.nav-dropdown-wrapper.active .nav-dropdown-toggle::after {
+    width: 100%;
+}
+
+.nav-dropdown-chevron {
+    transition: transform var(--transition-base);
+    flex-shrink: 0;
+}
+
+.nav-dropdown-wrapper.active .nav-dropdown-chevron {
+    transform: rotate(180deg);
+}
+
+.nav-dropdown {
+    position: absolute;
+    top: calc(100% + var(--space-3));
+    left: 50%;
+    transform: translateX(-50%) translateY(-10px);
+    background-color: var(--color-bg-card);
+    border: 1px solid var(--color-border);
+    border-radius: 14px;
+    padding: var(--space-2);
+    min-width: 220px;
+    opacity: 0;
+    visibility: hidden;
+    transition: all var(--transition-base);
+    box-shadow: var(--shadow-lg), 0 0 0 1px rgba(99,102,241,0.1);
+    z-index: 1001;
+    list-style: none;
+}
+
+.nav-dropdown-wrapper.active .nav-dropdown {
+    opacity: 1;
+    visibility: visible;
+    transform: translateX(-50%) translateY(0);
+}
+
+.nav-dropdown-item {
+    display: flex;
+    align-items: center;
+    gap: var(--space-3);
+    padding: var(--space-3) var(--space-4);
+    border-radius: 8px;
+    color: var(--color-text-muted);
+    font-size: var(--text-sm);
+    font-weight: 500;
+    transition: all var(--transition-fast);
+    white-space: nowrap;
+    text-decoration: none;
+}
+
+.nav-dropdown-item:hover {
+    background-color: var(--color-bg-elevated);
+    color: var(--color-text);
+}
+
+.nav-dropdown-icon {
+    width: 26px;
+    height: 26px;
+    border-radius: 7px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    flex-shrink: 0;
+}
+
+.nav-dropdown-divider {
+    height: 1px;
+    background-color: var(--color-border);
+    margin: var(--space-2) var(--space-3);
+}
+
+/* ========================================
    Hero Section
    ======================================== */
 .hero {
@@ -1404,6 +1517,47 @@ html[lang="zh-CN"] {
 
     .language-switcher {
         margin-top: var(--space-4);
+    }
+
+    /* Product Apps dropdown — mobile accordion */
+    .nav-dropdown-wrapper {
+        margin-top: var(--space-4);
+    }
+
+    .nav-dropdown-toggle {
+        font-size: var(--text-xl);
+        color: var(--color-text-muted);
+        width: 100%;
+        justify-content: center;
+    }
+
+    .nav-dropdown {
+        position: static;
+        opacity: 1;
+        visibility: visible;
+        transform: none;
+        background: transparent;
+        border: none;
+        box-shadow: none;
+        padding: var(--space-3) 0;
+        min-width: unset;
+        display: none;
+    }
+
+    .nav-dropdown-wrapper.active .nav-dropdown {
+        display: block;
+        transform: none;
+    }
+
+    .nav-dropdown-item {
+        font-size: var(--text-lg);
+        justify-content: center;
+        padding: var(--space-3) var(--space-4);
+    }
+
+    .nav-dropdown-divider {
+        margin: var(--space-2) auto;
+        width: 60%;
     }
 
     .lang-toggle {

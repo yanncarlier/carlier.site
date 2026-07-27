@@ -1675,6 +1675,29 @@ document.addEventListener('DOMContentLoaded', () => {
     initLanguageSwitcher();
 
     // ========================================
+    // Product Apps Dropdown
+    // ========================================
+    const productsWrapper = document.getElementById('products-nav-item');
+    const productsToggle = document.getElementById('products-toggle');
+
+    if (productsWrapper && productsToggle) {
+        productsToggle.addEventListener('click', (e) => {
+            e.stopPropagation();
+            const isOpen = productsWrapper.classList.toggle('active');
+            productsToggle.setAttribute('aria-expanded', isOpen);
+        });
+
+        // Close when clicking outside
+        document.addEventListener('click', () => {
+            productsWrapper.classList.remove('active');
+            productsToggle.setAttribute('aria-expanded', 'false');
+        });
+
+        // Prevent clicks inside the dropdown from closing it
+        productsWrapper.addEventListener('click', (e) => e.stopPropagation());
+    }
+
+    // ========================================
     // Navigation Scroll Effect
     // ========================================
     const nav = document.querySelector('.nav');
@@ -1863,10 +1886,17 @@ document.addEventListener('DOMContentLoaded', () => {
     // Keyboard Navigation
     // ========================================
     document.addEventListener('keydown', (e) => {
-        // Close mobile menu on Escape
-        if (e.key === 'Escape' && navMenu.classList.contains('active')) {
-            navMenu.classList.remove('active');
-            navToggle.classList.remove('active');
+        if (e.key === 'Escape') {
+            // Close mobile menu
+            if (navMenu && navMenu.classList.contains('active')) {
+                navMenu.classList.remove('active');
+                navToggle.classList.remove('active');
+            }
+            // Close products dropdown
+            if (productsWrapper && productsWrapper.classList.contains('active')) {
+                productsWrapper.classList.remove('active');
+                productsToggle && productsToggle.setAttribute('aria-expanded', 'false');
+            }
         }
     });
 

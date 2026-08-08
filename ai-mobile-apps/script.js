@@ -44,7 +44,7 @@ const translations = {
                 chip1: 'Voice Chat', chip2: 'Camera Context', chip3: 'Mandarin', chip4: 'Flutter'
             },
             khru: {
-                title: 'AI Agent Khru (not published yet)',
+                title: 'AI Agent Khru',
                 tag: 'Thai',
                 desc: 'Learn Thai, practice real conversations, and translate in real time with a live AI Thai teacher. Features voice chat, camera-based context understanding, and instant translation support.',
                 chip1: 'Voice Chat', chip2: 'Camera Context', chip3: 'Thai', chip4: 'Flutter'

@@ -37,7 +37,7 @@ const translations = {
         "vchytel": "AI Agent Vchytel",
         "lousi": "AI Agent Lousi",
         "laoshi": "AI Agent Laoshi",
-        "khru": "AI Agent Khru",
+        "khru": "AI Agent Khru (not published yet)",
         "coinIdentifier": "Coin Identifier"
       },
       "descriptions": {
@@ -123,7 +123,7 @@ const translations = {
         "vchytel": "Agent IA Vchytel",
         "lousi": "Agent IA Lousi",
         "laoshi": "Agent IA Laoshi",
-        "khru": "Agent IA Khru",
+        "khru": "Agent IA Khru (not published yet)",
         "coinIdentifier": "Identificateur de Pièces"
       },
       "descriptions": {
@@ -209,7 +209,7 @@ const translations = {
         "vchytel": "KI-Agent Vchytel",
         "lousi": "KI-Agent Lousi",
         "laoshi": "KI-Agent Laoshi",
-        "khru": "KI-Agent Khru",
+        "khru": "KI-Agent Khru (not published yet)",
         "coinIdentifier": "Münz-Identifier"
       },
       "descriptions": {
@@ -295,7 +295,7 @@ const translations = {
         "vchytel": "Agente IA Vchytel",
         "lousi": "Agente IA Lousi",
         "laoshi": "Agente IA Laoshi",
-        "khru": "Agente IA Khru",
+        "khru": "Agente IA Khru (not published yet)",
         "coinIdentifier": "Identificador de Monedas"
       },
       "descriptions": {
@@ -381,7 +381,7 @@ const translations = {
         "vchytel": "Agente IA Vchytel",
         "lousi": "Agente IA Lousi",
         "laoshi": "Agente IA Laoshi",
-        "khru": "Agente IA Khru",
+        "khru": "Agente IA Khru (not published yet)",
         "coinIdentifier": "Identificatore di Monete"
       },
       "descriptions": {
@@ -467,7 +467,7 @@ const translations = {
         "vchytel": "Agente IA Vchytel",
         "lousi": "Agente IA Lousi",
         "laoshi": "Agente IA Laoshi",
-        "khru": "Agente IA Khru",
+        "khru": "Agente IA Khru (not published yet)",
         "coinIdentifier": "Identificador de Moedas"
       },
       "descriptions": {
@@ -553,7 +553,7 @@ const translations = {
         "vchytel": "AIエージェント Vchytel",
         "lousi": "AIエージェント Lousi",
         "laoshi": "AIエージェント Laoshi",
-        "khru": "AIエージェント Khru",
+        "khru": "AIエージェント Khru (not published yet)",
         "coinIdentifier": "コイン識別"
       },
       "descriptions": {
@@ -639,7 +639,7 @@ const translations = {
         "vchytel": "AI代理 Vchytel",
         "lousi": "AI代理 Lousi",
         "laoshi": "AI代理 Laoshi",
-        "khru": "AI代理 Khru",
+        "khru": "AI代理 Khru (not published yet)",
         "coinIdentifier": "硬币识别"
       },
       "descriptions": {
@@ -725,7 +725,7 @@ const translations = {
         "vchytel": "AI代理 Vchytel",
         "lousi": "AI代理 Lousi",
         "laoshi": "AI代理 Laoshi",
-        "khru": "AI代理 Khru",
+        "khru": "AI代理 Khru (not published yet)",
         "coinIdentifier": "硬幣識別"
       },
       "descriptions": {

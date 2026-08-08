@@ -96,7 +96,9 @@ const translations = {
                 cantonese: 'Learn Cantonese',
                 chinese: 'Learn Chinese',
                 thai: 'Learn Thai',
-                ukrainian: 'Learn Ukrainian'
+                ukrainian: 'Learn Ukrainian',
+                coinIdentifier: 'Coin Identifier',
+                odooHost: 'OdooHost Pro'
             },
             copyright: '© 2026 Carlier. All rights reserved.',
             crafted: 'Crafted with passion'
@@ -194,7 +196,9 @@ const translations = {
                 cantonese: 'Вчитись кантонською',
                 chinese: 'Вчитись китайською',
                 thai: 'Вчитись тайською',
-                ukrainian: 'Вчитись українською'
+                ukrainian: 'Вчитись українською',
+                coinIdentifier: 'Coin Identifier',
+                odooHost: 'OdooHost Pro'
             },
             copyright: '© 2026 Carlier. Всі права захищені.',
             crafted: 'Створено з пристрастю'
@@ -292,7 +296,9 @@ const translations = {
                 cantonese: 'เรียนภาษากวางตุ้ง',
                 chinese: 'เรียนภาษาจีน',
                 thai: 'เรียนภาษาไทย',
-                ukrainian: 'เรียนภาษาอุโกครินะ'
+                ukrainian: 'เรียนภาษาอุโกครินะ',
+                coinIdentifier: 'Coin Identifier',
+                odooHost: 'OdooHost Pro'
             },
             copyright: '© 2026 Carlier. สงวนลิขสิทธิ์.',
             crafted: 'สร้างด้วยความหลงใหล'
@@ -390,7 +396,9 @@ const translations = {
                 cantonese: 'Aprender Cantones',
                 chinese: 'Aprender Chinês',
                 thai: 'Aprender Tailandês',
-                ukrainian: 'Aprender Ucraniano'
+                ukrainian: 'Aprender Ucraniano',
+                coinIdentifier: 'Coin Identifier',
+                odooHost: 'OdooHost Pro'
             },
             copyright: '© 2026 Carlier. Todos os direitos reservados.',
             crafted: 'Criado com paixão'
@@ -488,7 +496,9 @@ const translations = {
                 cantonese: 'Aprender Cantones',
                 chinese: 'Aprender Chino',
                 thai: 'Aprender Tailandés',
-                ukrainian: 'Aprender Ucraniano'
+                ukrainian: 'Aprender Ucraniano',
+                coinIdentifier: 'Coin Identifier',
+                odooHost: 'OdooHost Pro'
             },
             copyright: '© 2026 Carlier. Todos los derechos reservados.',
             crafted: 'Creado con pasión'
@@ -586,7 +596,9 @@ const translations = {
                 cantonese: 'Apprendre le Cantonais',
                 chinese: 'Apprendre le Chinois',
                 thai: 'Apprendre le Thaï',
-                ukrainian: 'Apprendre l\'Ukrainien'
+                ukrainian: 'Apprendre l\'Ukrainien',
+                coinIdentifier: 'Coin Identifier',
+                odooHost: 'OdooHost Pro'
             },
             copyright: '© 2026 Carlier. Tous droits réservés.',
             crafted: 'Conçu avec passion'
@@ -684,7 +696,9 @@ const translations = {
                 cantonese: '學習粵語',
                 chinese: '學習中文',
                 thai: '學習泰語',
-                ukrainian: '學習烏克蘭語'
+                ukrainian: '學習烏克蘭語',
+                coinIdentifier: 'Coin Identifier',
+                odooHost: 'OdooHost Pro'
             },
             copyright: '© 2026 Carlier. 版權所有。',
             crafted: '用心打造'
@@ -782,7 +796,9 @@ const translations = {
                 cantonese: '学习粤语',
                 chinese: '学习中文',
                 thai: '学习泰语',
-                ukrainian: '学习乌克兰语'
+                ukrainian: '学习乌克兰语',
+                coinIdentifier: 'Coin Identifier',
+                odooHost: 'OdooHost Pro'
             },
             copyright: '© 2026 Carlier. 版权所有。',
             crafted: '用心打造'
@@ -879,7 +895,9 @@ const translations = {
                 cantonese: 'कैंटोनीज़ सीखें',
                 chinese: 'चीनीज़ सीखें',
                 thai: 'थाई सीखें',
-                ukrainian: 'यूक्रेनियन सीखें'
+                ukrainian: 'यूक्रेनियन सीखें',
+                coinIdentifier: 'Coin Identifier',
+                odooHost: 'OdooHost Pro'
             },
             copyright: '© 2026 Carlier. सर्वाधिकार सुरक्षित।',
             crafted: 'जुनून के साथ बनाया गया'
@@ -977,7 +995,9 @@ const translations = {
                 cantonese: '広東語を学ぶ',
                 chinese: '中国語を学ぶ',
                 thai: 'タイ語を学ぶ',
-                ukrainian: 'ウクライナ語を学ぶ'
+                ukrainian: 'ウクライナ語を学ぶ',
+                coinIdentifier: 'Coin Identifier',
+                odooHost: 'OdooHost Pro'
             },
             copyright: '© 2026 Carlier. All rights reserved.',
             crafted: '情熱を込めて作られました'
@@ -1075,7 +1095,9 @@ const translations = {
                 cantonese: 'تعلم الكانتونيز',
                 chinese: 'تعلم الصينية',
                 thai: 'تعلم الثيين',
-                ukrainian: 'تعلم الأوكرانية'
+                ukrainian: 'تعلم الأوكرانية',
+                coinIdentifier: 'Coin Identifier',
+                odooHost: 'OdooHost Pro'
             },
             copyright: '© 2026 Carlier. جميع الحقوق محفوظة.',
             crafted: 'صُنع بحب'
@@ -1173,7 +1195,9 @@ const translations = {
                 cantonese: 'Kantonesisch lernen',
                 chinese: 'Chinesisch lernen',
                 thai: 'Thailändisch lernen',
-                ukrainian: 'Ukrainisch lernen'
+                ukrainian: 'Ukrainisch lernen',
+                coinIdentifier: 'Coin Identifier',
+                odooHost: 'OdooHost Pro'
             },
             copyright: '© 2026 Carlier. Alle Rechte vorbehalten.',
             crafted: 'Mit Leidenschaft erstellt'
@@ -1271,7 +1295,9 @@ const translations = {
                 cantonese: 'Impara il Cantonese',
                 chinese: 'Impara il Cinese',
                 thai: 'Impara il Thai',
-                ukrainian: 'Impara l\'Ucraino'
+                ukrainian: 'Impara l\'Ucraino',
+                coinIdentifier: 'Coin Identifier',
+                odooHost: 'OdooHost Pro'
             },
             copyright: '© 2026 Carlier. Tutti i diritti riservati.',
             crafted: 'Creato con passione'
@@ -1369,7 +1395,9 @@ const translations = {
                 cantonese: '광둥어 배우기',
                 chinese: '중국어 배우기',
                 thai: '태국어 배우기',
-                ukrainian: '우크라이나어 배우기'
+                ukrainian: '우크라이나어 배우기',
+                coinIdentifier: 'Coin Identifier',
+                odooHost: 'OdooHost Pro'
             },
             copyright: '© 2026 Carlier. 모든 권리 보유.',
             crafted: '열정으로 제작'
@@ -1466,7 +1494,9 @@ const translations = {
                 cantonese: 'Учить кантонский',
                 chinese: 'Учить китайский',
                 thai: 'Учить тайский',
-                ukrainian: 'Учить украинский'
+                ukrainian: 'Учить украинский',
+                coinIdentifier: 'Coin Identifier',
+                odooHost: 'OdooHost Pro'
             },
             copyright: '© 2026 Carlier. Все права защищены.',
             crafted: 'Создано с любовью'
@@ -1565,7 +1595,9 @@ const translations = {
                 cantonese: 'Naucz się kantońskiego',
                 chinese: 'Naucz się chińskiego',
                 thai: 'Naucz się tajskiego',
-                ukrainian: 'Naucz się ukraińskiego'
+                ukrainian: 'Naucz się ukraińskiego',
+                coinIdentifier: 'Coin Identifier',
+                odooHost: 'OdooHost Pro'
             },
             copyright: '© 2026 Carlier. Wszelkie prawa zastrzeżone.',
             crafted: 'Stworzone z pasją'

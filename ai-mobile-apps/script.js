@@ -44,7 +44,7 @@ const translations = {
                 chip1: 'Voice Chat', chip2: 'Camera Context', chip3: 'Mandarin', chip4: 'Flutter'
             },
             khru: {
-                title: 'AI Agent Khru',
+                title: 'AI Agent Khru (not published yet)',
                 tag: 'Thai',
                 desc: 'Learn Thai, practice real conversations, and translate in real time with a live AI Thai teacher. Features voice chat, camera-based context understanding, and instant translation support.',
                 chip1: 'Voice Chat', chip2: 'Camera Context', chip3: 'Thai', chip4: 'Flutter'
@@ -367,22 +367,22 @@ function applyTranslations(lang) {
     setText('.skip-link', t.skipToMain);
 
     // Nav
-    setText('[data-i18n="nav.home"]',   t.nav.home);
-    setText('[data-i18n="nav.about"]',  t.nav.about);
+    setText('[data-i18n="nav.home"]', t.nav.home);
+    setText('[data-i18n="nav.about"]', t.nav.about);
     setText('[data-i18n="nav.skills"]', t.nav.skills);
     setText('[data-i18n="nav.aiApps"]', t.nav.aiApps);
-    setText('[data-i18n="nav.cta"]',    t.nav.cta);
+    setText('[data-i18n="nav.cta"]', t.nav.cta);
 
     // Hero
-    setText('[data-i18n="hero.eyebrow"]',  t.hero.eyebrow);
-    setText('[data-i18n="hero.title"]',    t.hero.title);
+    setText('[data-i18n="hero.eyebrow"]', t.hero.eyebrow);
+    setText('[data-i18n="hero.title"]', t.hero.title);
     setText('[data-i18n="hero.subtitle"]', t.hero.subtitle);
     setText('[data-i18n="hero.stat1Label"]', t.hero.stat1Label);
     setText('[data-i18n="hero.stat2Label"]', t.hero.stat2Label);
     setText('[data-i18n="hero.stat3Label"]', t.hero.stat3Label);
 
     // Grid header
-    setText('[data-i18n="grid.tag"]',   t.grid.tag);
+    setText('[data-i18n="grid.tag"]', t.grid.tag);
     setText('[data-i18n="grid.title"]', t.grid.title);
 
     // App store buttons (all share the same label)
@@ -394,38 +394,38 @@ function applyTranslations(lang) {
         const a = t.apps[key];
         if (!a) return;
         setText(`[data-i18n="apps.${key}.title"]`, a.title);
-        setText(`[data-i18n="apps.${key}.tag"]`,   a.tag);
-        setText(`[data-i18n="apps.${key}.desc"]`,  a.desc);
-        ['chip1','chip2','chip3','chip4','chip5'].forEach(chip => {
+        setText(`[data-i18n="apps.${key}.tag"]`, a.tag);
+        setText(`[data-i18n="apps.${key}.desc"]`, a.desc);
+        ['chip1', 'chip2', 'chip3', 'chip4', 'chip5'].forEach(chip => {
             if (a[chip] !== undefined) setText(`[data-i18n="apps.${key}.${chip}"]`, a[chip]);
         });
     });
 
     // Shared tags
-    setAll('[data-i18n="apps.tagMobile"]',    t.apps.tagMobile);
-    setAll('[data-i18n="apps.tagAiTutor"]',   t.apps.tagAiTutor);
+    setAll('[data-i18n="apps.tagMobile"]', t.apps.tagMobile);
+    setAll('[data-i18n="apps.tagAiTutor"]', t.apps.tagAiTutor);
     setAll('[data-i18n="apps.tagAiScanner"]', t.apps.tagAiScanner);
-    setAll('[data-i18n="apps.tagFeatured"]',  t.apps.tagFeatured);
+    setAll('[data-i18n="apps.tagFeatured"]', t.apps.tagFeatured);
 
     // CTA section
-    setText('[data-i18n="cta.title"]',       t.cta.title);
-    setText('[data-i18n="cta.text"]',        t.cta.text);
-    setText('[data-i18n="cta.btnPrimary"]',  t.cta.btnPrimary);
+    setText('[data-i18n="cta.title"]', t.cta.title);
+    setText('[data-i18n="cta.text"]', t.cta.text);
+    setText('[data-i18n="cta.btnPrimary"]', t.cta.btnPrimary);
     setText('[data-i18n="cta.btnSecondary"]', t.cta.btnSecondary);
 
     // Footer
-    setText('[data-i18n="footer.tagline"]',   t.footer.tagline);
-    setText('[data-i18n="footer.home"]',      t.footer.home);
-    setText('[data-i18n="footer.about"]',     t.footer.about);
-    setText('[data-i18n="footer.skills"]',    t.footer.skills);
-    setText('[data-i18n="footer.aiApps"]',    t.footer.aiApps);
-    setText('[data-i18n="footer.contact"]',   t.footer.contact);
-    setText('[data-i18n="footer.chinese"]',   t.footer.chinese);
+    setText('[data-i18n="footer.tagline"]', t.footer.tagline);
+    setText('[data-i18n="footer.home"]', t.footer.home);
+    setText('[data-i18n="footer.about"]', t.footer.about);
+    setText('[data-i18n="footer.skills"]', t.footer.skills);
+    setText('[data-i18n="footer.aiApps"]', t.footer.aiApps);
+    setText('[data-i18n="footer.contact"]', t.footer.contact);
+    setText('[data-i18n="footer.chinese"]', t.footer.chinese);
     setText('[data-i18n="footer.cantonese"]', t.footer.cantonese);
     setText('[data-i18n="footer.ukrainian"]', t.footer.ukrainian);
-    setText('[data-i18n="footer.coin"]',      t.footer.coin);
+    setText('[data-i18n="footer.coin"]', t.footer.coin);
     setText('[data-i18n="footer.copyright"]', t.footer.copyright);
-    setText('[data-i18n="footer.crafted"]',   t.footer.crafted);
+    setText('[data-i18n="footer.crafted"]', t.footer.crafted);
 
     // Language switcher UI
     document.querySelectorAll('.lang-option').forEach(btn => {
@@ -440,7 +440,7 @@ function applyTranslations(lang) {
 // ========================================
 function initLanguageSwitcher() {
     const switcher = document.querySelector('.language-switcher');
-    const toggle   = document.querySelector('.lang-toggle');
+    const toggle = document.querySelector('.lang-toggle');
     if (!switcher || !toggle) return;
 
     toggle.addEventListener('click', e => {
@@ -478,7 +478,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Hamburger
     const navToggleBtn = document.getElementById('nav-toggle-btn');
-    const navMenu      = document.getElementById('nav-menu');
+    const navMenu = document.getElementById('nav-menu');
     if (navToggleBtn && navMenu) {
         navToggleBtn.addEventListener('click', () => {
             const isOpen = navMenu.classList.toggle('active');
@@ -519,11 +519,11 @@ document.addEventListener('DOMContentLoaded', () => {
             entries.forEach(entry => {
                 if (!entry.isIntersecting) return;
                 const text = el.textContent;
-                const num  = parseInt(text.replace(/\D/g, ''));
-                const sfx  = text.replace(/[0-9]/g, '');
+                const num = parseInt(text.replace(/\D/g, ''));
+                const sfx = text.replace(/[0-9]/g, '');
                 if (isNaN(num)) return;
                 const start = performance.now();
-                const dur   = 1800;
+                const dur = 1800;
                 function step(now) {
                     const p = Math.min((now - start) / dur, 1);
                     const ease = 1 - Math.pow(1 - p, 4);

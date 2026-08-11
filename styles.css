@@ -1484,6 +1484,12 @@ html[lang="zh-CN"] {
     color: var(--color-primary-light);
 }
 
+.footer-socials {
+    display: flex;
+    gap: var(--space-3);
+    margin-top: var(--space-4);
+}
+
 /* ========================================
    Animations
    ======================================== */

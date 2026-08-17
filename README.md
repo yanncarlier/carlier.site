@@ -1,14 +1,7 @@
-# Carlier's AI Mobile Apps
+# Concept, Build, Launch, Scale & Ops
 
-<div align="center">
+<div align="left">
 
-![Carlier Logo](images/Carlier_logo_160x160.png)
-
-**AI-powered mobile apps for language learning and collectibles**
-
-Founder & Developer: [Carlier](https://carlier.site)
-
-</div>
 
 ---
 
@@ -17,7 +10,6 @@ Founder & Developer: [Carlier](https://carlier.site)
 ### AI Agent Laoshi - Learn Chinese Mandarin
 
 <div align="left">
-
 <a href="https://play.google.com/store/apps/details?id=com.carlier.ai_agent_laoshi"><img src="learn-chinese/images/AgentLaoshi512x512.png" width="135"></a>
 
 A live AI Mandarin teacher that helps you learn to speak, practice, and translate Chinese Mandarin in real time with voice and vision.
@@ -120,7 +112,7 @@ These apps are built using:
 
 ## Support
 
-For feedback, bug reports, or feature requests, please reach out via:
+For feedback, bug reports, or requests, please reach out via:
 
 - Email: [hello@carlier.site](mailto:hello@carlier.site)
 - GitHub Issues: Open an issue on the respective repository

@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Carlier Logo](img/Carlier_logo_160x160.png)
+![Carlier Logo](images/Carlier_logo_160x160.png)
 
 **AI-powered mobile apps for language learning and collectibles**
 

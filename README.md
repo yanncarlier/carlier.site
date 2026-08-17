@@ -18,7 +18,7 @@ Founder & Developer: [Carlier](https://carlier.site)
 
 <div align="left">
 
-![AI Agent Laoshi](learn-chinese/images/AgentLaoshi512x512.png)
+<a href="https://play.google.com/store/apps/details?id=com.carlier.ai_agent_laoshi"><img src="learn-chinese/images/AgentLaoshi512x512.png" width="135"></a>
 
 A live AI Mandarin teacher that helps you learn to speak, practice, and translate Chinese Mandarin in real time with voice and vision.
 
@@ -36,7 +36,7 @@ A live AI Mandarin teacher that helps you learn to speak, practice, and translat
 
 ### AI Agent Lousi - Learn Cantonese
 
-![AI Agent Lousi](learn-cantonese/images/AgentLousi512x512.png)
+<a href="https://play.google.com/store/apps/details?id=com.carlier.ai_agent_lousi"><img src="learn-cantonese/images/AgentLousi512x512.png" width="135"></a>
 
 A live AI Cantonese teacher that helps you learn to speak, practice, and translate Chinese Cantonese in real time with voice and vision.
 
@@ -54,7 +54,7 @@ A live AI Cantonese teacher that helps you learn to speak, practice, and transla
 
 ### AI Agent Khru - Learn Thai
 
-![AI Agent Khru](learn-thai/images/AgentKhru512x512.png)
+<a href="https://play.google.com/store/apps/details?id=com.carlier.ai_agent_khru"><img src="learn-thai/images/AgentKhru512x512.png" width="135"></a>
 
 A live AI Thai teacher that helps you learn to speak, practice, and translate Thai in real time with voice and vision.
 
@@ -78,7 +78,7 @@ A live AI Thai teacher that helps you learn to speak, practice, and translate Th
 
 ### Coin Identifier
 
-![Coin Identifier](coin-identifier/images/logo512x512.png)
+<a href="https://play.google.com/store/apps/details?id=com.carlier.coinidentifier"><img src="coin-identifier/images/logo512x512.png" width="135"></a>
 
 An AI-powered coin scanner app for collectors and numismatists. Instantly identify coins, estimate market values, check rarity, and catalog your collection with historical insights.
 

@@ -16,7 +16,7 @@ const translations = {
             cta: "Let's Talk"
         },
         hero: {
-            title1: 'From concept to launch, Transforming Ideas into Products.',
+            title1: 'Concept, Build, Launch, Scale & Ops',
             title2: '',
             subtitle1: 'Building ',
             highlight1: 'Mobile Apps',
@@ -109,7 +109,7 @@ const translations = {
             cta: "Зв'язатися"
         },
         hero: {
-            title1: 'Від ідеї до запуску, перетворюю ідеї на продукти.',
+            title1: 'Концепція, Білд, Запуск, Масштаб та Операції',
             title2: '',
             subtitle1: 'Створюю ',
             highlight1: 'Мобільні додатки',
@@ -207,7 +207,7 @@ const translations = {
             cta: "ติดต่อเรา"
         },
         hero: {
-            title1: 'จากแนวคิดสู่การเปิดตัว, เปลี่ยนไอเดียให้เป็นผลิตภัณฑ์.',
+            title1: 'แนวคิด, สร้าง, เปิดตัว, ขยาย & ดำเนินการ',
             title2: '',
             subtitle1: 'สร้าง ',
             highlight1: 'แอปพลิเคชันมือถือ',
@@ -305,7 +305,7 @@ const translations = {
             cta: 'Fale Comigo'
         },
         hero: {
-            title1: 'Do conceito ao lançamento, Transformar Ideias em Produtos.',
+            title1: 'Conceito, Construir, Lançar, Escalar & Operações',
             title2: '',
             subtitle1: 'A construir ',
             highlight1: 'Apps Móveis',
@@ -403,7 +403,7 @@ const translations = {
             cta: 'Hablemos'
         },
         hero: {
-            title1: 'Del concepto al lanzamiento, Transformando Ideas en Productos.',
+            title1: 'Concepto, Construcción, Lanzamiento, Escalar & Operaciones',
             title2: '',
             subtitle1: 'Construyendo ',
             highlight1: 'Apps Móviles',
@@ -501,7 +501,7 @@ const translations = {
             cta: 'Discutons'
         },
         hero: {
-            title1: 'Du concept au lancement, Transformer les Idées en Produits.',
+            title1: 'Concept, Construction, Lancement, Mise à l échelle & Opérations',
             title2: '',
             subtitle1: 'Construire des ',
             highlight1: 'Apps Mobiles',
@@ -599,7 +599,7 @@ const translations = {
             cta: '聯繫我'
         },
         hero: {
-            title1: '從概念到發布，將創意轉化為產品。',
+            title1: '概念、構建、啟動、擴展 & 運營',
             title2: '',
             subtitle1: '構建',
             highlight1: '移動應用',
@@ -697,7 +697,7 @@ const translations = {
             cta: '联系我'
         },
         hero: {
-            title1: '从概念到发布，将创意转化为产品。',
+            title1: '概念、构建、启动、扩展 & 运营',
             title2: '',
             subtitle1: '构建',
             highlight1: '移动应用',
@@ -795,7 +795,7 @@ const translations = {
             cta: 'संपर्क करें'
         },
         hero: {
-            title1: 'concept से launch तक, विचारों को उत्पादों में बदलना।',
+            title1: 'अवधारणा, निर्माण, लॉन्च, स्केल एवं संचालन',
             title2: '',
             subtitle1: '',
             highlight1: 'मोबाइल ऐप्स',
@@ -892,7 +892,7 @@ const translations = {
             cta: 'お問い合わせ'
         },
         hero: {
-            title1: 'コンセプトからローンチまで、アイデアを製品に変換します。',
+            title1: 'コンセプト、ビルド、ローンチ、スケール＆運用',
             title2: '',
             subtitle1: '',
             highlight1: 'モバイルアプリ',
@@ -990,7 +990,7 @@ const translations = {
             cta: 'تواصل معي'
         },
         hero: {
-            title1: 'من الفكرة إلى الإطلاق، نحول الأفكار إلى منتجات.',
+            title1: 'مفهوم، بناء، إطلاق، توسيع & عمليات',
             title2: '',
             subtitle1: 'نبني ',
             highlight1: 'تطبيقات الجوال',
@@ -1088,7 +1088,7 @@ const translations = {
             cta: 'Lass uns sprechen'
         },
         hero: {
-            title1: 'Vom Konzept zum Launch, Ideen in Produkte verwandeln.',
+            title1: 'Konzept, Aufbau, Start, Skalierung & Betrieb',
             title2: '',
             subtitle1: 'Ich baue ',
             highlight1: 'Mobile Apps',
@@ -1186,7 +1186,7 @@ const translations = {
             cta: 'Parliamone'
         },
         hero: {
-            title1: 'Dal concetto al lancio, Trasformare le Idee in Prodotti.',
+            title1: 'Concetto, Costruzione, Lancio, Scala & Operazioni',
             title2: '',
             subtitle1: 'Costruisco ',
             highlight1: 'App Mobile',
@@ -1284,7 +1284,7 @@ const translations = {
             cta: '연락하기'
         },
         hero: {
-            title1: '컨셉에서 출시까지, 아이디어를 제품으로 변환합니다.',
+            title1: '컨셉, 빌드, 런치, 스케일 & 운영',
             title2: '',
             subtitle1: '구축 중 ',
             highlight1: '모바일 앱',
@@ -1382,7 +1382,7 @@ const translations = {
             cta: 'Давайте поговорим'
         },
         hero: {
-            title1: 'От концепции до запуска, Превращение идей в продукты.',
+            title1: 'Концепция, Сборка, Запуск, Масштабирование & Эксплуатация',
             title2: '',
             subtitle1: 'Создаю ',
             highlight1: 'мобильные приложения',
@@ -1480,7 +1480,7 @@ const translations = {
         },
 
         hero: {
-            title1: 'Od pomysłu do wdrożenia — zamieniam idee w produkty.',
+            title1: 'Pomysł, Budowa, Uruchomienie, Skalowanie & Obsługa',
             title2: '',
             subtitle1: 'Tworząc ',
             highlight1: 'Aplikacje mobilne',

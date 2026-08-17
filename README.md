@@ -28,7 +28,7 @@ A live AI Mandarin teacher that helps you learn to speak, practice, and translat
 - Real-time pronunciation and grammar corrections
 - Instant translation for phrases and dialogue
 
-[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.carlier.ai_agent_laoshi)
+<a href="https://play.google.com/store/apps/details?id=com.carlier.ai_agent_laoshi"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="135"></a>
 
 [View Landing Page](https://carlier.site/learn-chinese/)
 
@@ -46,7 +46,7 @@ A live AI Cantonese teacher that helps you learn to speak, practice, and transla
 - Real-time pronunciation and grammar corrections
 - Instant translation for phrases and dialogue
 
-[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.carlier.ai_agent_lousi)
+<a href="https://play.google.com/store/apps/details?id=com.carlier.ai_agent_lousi"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="135"></a>
 
 [View Landing Page](https://carlier.site/learn-cantonese/)
 
@@ -64,25 +64,11 @@ A live AI Thai teacher that helps you learn to speak, practice, and translate Th
 - Real-time pronunciation and grammar corrections
 - Instant translation for phrases and dialogue
 
-[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.carlier.ai_agent_khru)
+<a href="https://play.google.com/store/apps/details?id=com.carlier.ai_agent_khru"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="135"></a>
 
 [View Landing Page](https://carlier.site/learn-thai/)
 
 ---
-
-### AI Agent Vchytel - Learn Ukrainian
-
-![AI Agent Vchytel](learn-ukrainian/images/AgentVchytel512×512.png)
-
-A live AI Ukrainian teacher that helps you learn to speak, practice, and translate Ukrainian in real time with voice and vision.
-
-**Features:**
-- Natural voice conversations with AI
-- Camera context for object learning
-- Real-time pronunciation and grammar corrections
-- Instant translation for phrases and dialogue
-
-> **Note:** Coming soon to Google Play
 
 </div>
 
@@ -103,7 +89,7 @@ An AI-powered coin scanner app for collectors and numismatists. Instantly identi
 - Historical coin details
 - Camera scanner with focus controls
 
-[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.carlier.coinidentifier)
+<a href="https://play.google.com/store/apps/details?id=com.carlier.coinidentifier"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="135"></a>
 
 [View Landing Page](https://carlier.site/coinidentifier/)
 

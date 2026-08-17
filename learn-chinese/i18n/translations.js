@@ -58,7 +58,7 @@ const translations = {
        "links": {
          "cantonese": "Learn Cantonese",
          "thai": "Learn Thai",
-         "ukrainian": "Learn Ukrainian"
+         "coin": "Coin Identifier",
        },
        "home": "Home",
      },
@@ -129,7 +129,7 @@ const translations = {
        "links": {
          "cantonese": "Apprendre le Cantonais",
          "thai": "Apprendre le Thaï",
-         "ukrainian": "Apprendre l'Ukrainien"
+         "coin": "Coin Identifier",
        },
        "home": "Accueil",
      },
@@ -200,7 +200,7 @@ const translations = {
        "links": {
          "cantonese": "Kantonesisch lernen",
          "thai": "Thailändisch lernen",
-         "ukrainian": "Ukrainisch lernen"
+         "coin": "Coin Identifier",
        },
        "home": "Startseite",
      },
@@ -271,7 +271,7 @@ const translations = {
        "links": {
          "cantonese": "Aprender Cantones",
          "thai": "Aprender Tailandés",
-         "ukrainian": "Aprender Ucraniano"
+         "coin": "Coin Identifier",
        },
        "home": "Inicio",
      },
@@ -342,7 +342,7 @@ const translations = {
        "links": {
          "cantonese": "Impara il Cantonese",
          "thai": "Impara il Thai",
-         "ukrainian": "Impara l'Ucraino"
+         "coin": "Coin Identifier",
        },
        "home": "Home",
      },
@@ -413,7 +413,7 @@ const translations = {
        "links": {
          "cantonese": "Aprender Cantones",
          "thai": "Aprender Tailandês",
-         "ukrainian": "Aprender Ucraniano"
+         "coin": "Coin Identifier",
        },
        "home": "Início",
      },
@@ -676,7 +676,7 @@ const translations = {
        "links": {
          "cantonese": "Учить кантонский",
          "thai": "Учить тайский",
-         "ukrainian": "Учить украинский"
+         "coin": "Coin Identifier",
        },
        "home": "Главная",
      },
@@ -747,7 +747,7 @@ const translations = {
        "links": {
          "cantonese": "Вчитись кантонською",
          "thai": "Вчитись тайською",
-         "ukrainian": "Вчитись українською"
+         "coin": "Coin Identifier",
        },
        "home": "Головна",
      },
@@ -818,7 +818,7 @@ const translations = {
        "links": {
          "cantonese": "เรียนภาษากวางตุ้ง",
          "thai": "เรียนภาษาไทย",
-         "ukrainian": "เรียนภาษาอุโกครินะ"
+         "coin": "Coin Identifier",
        },
        "home": "หน้าแรก",
      },
@@ -889,7 +889,7 @@ const translations = {
        "links": {
          "cantonese": "تعلم الكانتونية",
          "thai": "تعلم الثيين",
-         "ukrainian": "تعلم الأوكرانية"
+         "coin": "Coin Identifier",
        },
        "home": "الرئيسية",
      },
@@ -960,7 +960,7 @@ const translations = {
        "links": {
          "cantonese": "學習粵語",
          "thai": "學習泰語",
-         "ukrainian": "學習烏克蘭語"
+         "coin": "Coin Identifier",
        },
        "home": "首頁",
      },
@@ -1031,7 +1031,7 @@ const translations = {
        "links": {
          "cantonese": "Naucz się kantońskiego",
          "thai": "Naucz się tajskiego",
-         "ukrainian": "Naucz się ukraińskiego"
+         "coin": "Coin Identifier",
        },
        "home": "Strona główna",
      },
@@ -1103,7 +1103,7 @@ const translations = {
        "links": {
          "cantonese": "学习粵语",
          "thai": "学习泰语",
-         "ukrainian": "学习乌克兰语"
+         "coin": "Coin Identifier",
        },
        "home": "首页",
      }

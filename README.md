@@ -84,8 +84,6 @@ A live AI Ukrainian teacher that helps you learn to speak, practice, and transla
 
 > **Note:** Coming soon to Google Play
 
-[View Landing Page](https://carlier.site/learn-ukrainian/)
-
 </div>
 
 ---

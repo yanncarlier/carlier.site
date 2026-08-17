@@ -58,7 +58,7 @@ const translations = {
       "links": {
         "chinese": "Learn Chinese",
         "thai": "Learn Thai",
-        "ukrainian": "Learn Ukrainian"
+        "coin": "Coin Identifier",
       },
       "home": "Home",
     },
@@ -129,7 +129,7 @@ const translations = {
       "links": {
         "chinese": "Apprendre le Chinois",
         "thai": "Apprendre le Thaï",
-        "ukrainian": "Apprendre l'Ukrainien"
+        "coin": "Coin Identifier",
       },
       "home": "Accueil",
     },
@@ -200,7 +200,7 @@ const translations = {
       "links": {
         "chinese": "Chinesisch lernen",
         "thai": "Thailändisch lernen",
-        "ukrainian": "Ukrainisch lernen"
+        "coin": "Coin Identifier",
       },
       "home": "Startseite",
     },
@@ -271,7 +271,7 @@ const translations = {
       "links": {
         "chinese": "Aprender Chino",
         "thai": "Aprender Tailandés",
-        "ukrainian": "Aprender Ucraniano"
+        "coin": "Coin Identifier",
       },
       "home": "Inicio",
     },
@@ -342,7 +342,7 @@ const translations = {
       "links": {
         "chinese": "Impara il Cinese",
         "thai": "Impara il Thai",
-        "ukrainian": "Impara l'Ucraino"
+        "coin": "Coin Identifier",
       },
       "home": "Home",
     },
@@ -413,7 +413,7 @@ const translations = {
        "links": {
          "chinese": "Aprender Chinês",
          "thai": "Aprender Tailandês",
-         "ukrainian": "Aprender Ucraniano"
+        "coin": "Coin Identifier",
        },
        "home": "Início",
      },
@@ -484,7 +484,7 @@ const translations = {
        "links": {
          "chinese": "चीनीज़ सीखें",
          "thai": "थाई सीखें",
-         "ukrainian": "यूक्रेनियन सीखें"
+        "coin": "Coin Identifier",
        },
        "home": "होम",
      },
@@ -555,7 +555,7 @@ const translations = {
        "links": {
          "chinese": "中国語を学ぶ",
          "thai": "タイ語を学ぶ",
-         "ukrainian": "ウクライナ語を学ぶ"
+        "coin": "Coin Identifier",
        },
        "home": "ホーム",
      },
@@ -626,7 +626,7 @@ const translations = {
        "links": {
          "chinese": "중국어 배우기",
          "thai": "태국어 배우기",
-         "ukrainian": "우크라이나어 배우기"
+        "coin": "Coin Identifier",
        },
        "home": "홈",
      },
@@ -697,7 +697,7 @@ const translations = {
        "links": {
          "chinese": "Учить китайский",
          "thai": "Учить тайский",
-         "ukrainian": "Учить украинский"
+        "coin": "Coin Identifier",
        },
        "home": "Главная",
      },
@@ -768,7 +768,7 @@ const translations = {
        "links": {
          "chinese": "Вчитись китайською",
          "thai": "Вчитись тайською",
-         "ukrainian": "Вчитись українською"
+        "coin": "Coin Identifier",
        },
        "home": "Головна",
      },
@@ -839,7 +839,7 @@ const translations = {
        "links": {
          "chinese": "เรียนภาษาจีน",
          "thai": "เรียนภาษาไทย",
-         "ukrainian": "เรียนภาษาอุโกครินะ"
+        "coin": "Coin Identifier",
        },
        "home": "หน้าแรก",
      },
@@ -910,7 +910,7 @@ const translations = {
        "links": {
          "chinese": "تعلم الصينية",
          "thai": "تعلم الثيين",
-         "ukrainian": "تعلم الأوكرانية"
+        "coin": "Coin Identifier",
        },
        "home": "الرئيسية",
      },
@@ -981,7 +981,7 @@ const translations = {
        "links": {
          "chinese": "學習中文",
          "thai": "學習泰語",
-         "ukrainian": "學習烏克蘭語"
+        "coin": "Coin Identifier",
        },
        "home": "首頁",
      },
@@ -1052,7 +1052,7 @@ const translations = {
        "links": {
          "chinese": "Naucz się chińskiego",
          "thai": "Naucz się tajskiego",
-         "ukrainian": "Naucz się ukraińskiego"
+        "coin": "Coin Identifier",
        },
        "home": "Strona główna",
      }
@@ -1117,7 +1117,7 @@ const translations = {
        "links": {
          "chinese": "学习中文",
          "thai": "学习泰语",
-         "ukrainian": "学习乌克兰语"
+        "coin": "Coin Identifier",
        },
        "home": "首页",
      }

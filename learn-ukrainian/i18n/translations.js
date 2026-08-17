@@ -58,7 +58,8 @@ const translations = {
        "links": {
          "cantonese": "Learn Cantonese",
          "chinese": "Learn Chinese",
-         "thai": "Learn Thai"
+         "thai": "Learn Thai",
+         "coin": "Coin Identifier"
        }
      },
     "session": {
@@ -193,6 +194,7 @@ const translations = {
          "cantonese": "Kantonesisch lernen",
          "chinese": "Chinesisch lernen",
          "thai": "Thailändisch lernen"
+         "coin": "Coin Identifier",
        }
      },
     "session": {
@@ -263,6 +265,7 @@ const translations = {
          "cantonese": "Aprender Cantones",
          "chinese": "Aprender Chino",
          "thai": "Aprender Tailandés"
+         "coin": "Coin Identifier",
        }
      },
     "session": {
@@ -333,6 +336,7 @@ const translations = {
          "cantonese": "Impara il Cantonese",
          "chinese": "Impara il Cinese",
          "thai": "Impara il Thai"
+         "coin": "Coin Identifier",
        }
      },
     "session": {
@@ -403,6 +407,7 @@ const translations = {
          "cantonese": "Aprender Cantones",
          "chinese": "Aprender Chinês",
          "thai": "Aprender Tailandês"
+         "coin": "Coin Identifier",
        }
      },
     "session": {
@@ -473,6 +478,7 @@ const translations = {
          "cantonese": "कैंटोनीज़ सीखें",
          "chinese": "चीनीज़ सीखें",
          "thai": "थाई सीखें"
+         "coin": "Coin Identifier",
        }
      },
     "session": {
@@ -543,6 +549,7 @@ const translations = {
          "cantonese": "広東語を学ぶ",
          "chinese": "中国語を学ぶ",
          "thai": "タイ語を学ぶ"
+         "coin": "Coin Identifier",
        }
      },
     "session": {
@@ -613,6 +620,7 @@ const translations = {
          "cantonese": "관동어 배우기",
          "chinese": "중국어 배우기",
          "thai": "태국어 배우기"
+         "coin": "Coin Identifier",
        }
      },
     "session": {
@@ -683,6 +691,7 @@ const translations = {
          "cantonese": "Учить кантонский",
          "chinese": "Учить китайский",
          "thai": "Учить тайский"
+         "coin": "Coin Identifier",
        }
      },
     "session": {
@@ -753,6 +762,7 @@ const translations = {
          "cantonese": "Вчитись кантонською",
          "chinese": "Вчитись китайською",
          "thai": "Вчитись тайською"
+         "coin": "Coin Identifier",
        }
      },
     "session": {
@@ -823,6 +833,7 @@ const translations = {
          "cantonese": "เรียนภาษากวางตุ้ง",
          "chinese": "เรียนภาษาจีน",
          "thai": "เรียนภาษาไทย"
+         "coin": "Coin Identifier",
        }
      },
     "session": {
@@ -893,6 +904,7 @@ const translations = {
          "cantonese": "تعلم الكانتونية",
          "chinese": "تعلم الصينية",
          "thai": "تعلم الثيين"
+         "coin": "Coin Identifier",
        }
      },
     "session": {
@@ -963,6 +975,7 @@ const translations = {
          "cantonese": "學習廣東話",
          "chinese": "學習中文",
          "thai": "學習泰語"
+         "coin": "Coin Identifier",
        }
      },
     "session": {
@@ -1033,6 +1046,7 @@ const translations = {
          "cantonese": "Naucz się kantońskiego",
          "chinese": "Naucz się chińskiego",
          "thai": "Naucz się tajskiego"
+         "coin": "Coin Identifier",
        }
      },
     "session": {

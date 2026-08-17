@@ -69,10 +69,6 @@ const translations = {
                 title: 'AI Agent Laoshi',
                 desc: 'Learn Chinese Mandarin, practice real conversations, and translate in real time with a live AI Chinese Mandarin teacher featuring voice chat, camera-based context, and instant translation support.'
             },
-            vchytel: {
-                title: 'AI Agent Vchytel',
-                desc: 'Learn Ukrainian, practice real conversations, and translate in real time with a live AI Ukrainian teacher featuring voice chat, camera-based context, and instant translation support.'
-            },
             khru: {
                 title: 'AI Agent Khru (not published yet)',
                 desc: 'Learn Thai, practice real conversations, and translate in real time with a live AI Thai teacher featuring voice chat, camera-based context, and instant translation support.'
@@ -95,8 +91,7 @@ const translations = {
                 aiMobileApps: 'AI Mobile Apps',
                 cantonese: 'Learn Cantonese',
                 chinese: 'Learn Chinese',
-                thai: 'Learn Thai',
-                ukrainian: 'Learn Ukrainian'
+                thai: 'Learn Thai'
             },
             copyright: '© 2026 Carlier. All rights reserved.',
             crafted: 'Crafted with passion'

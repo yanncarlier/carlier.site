@@ -28,20 +28,17 @@ const translations = {
         "aiTutor": "AI Tutor",
         "aiScanner": "AI Scanner",
         "featured": "Featured",
-        "ukrainian": "Ukrainian",
         "cantonese": "Cantonese",
         "mandarin": "Mandarin",
         "thai": "Thai"
       },
       "titles": {
-        "vchytel": "AI Agent Vchytel",
         "lousi": "AI Agent Lousi",
         "laoshi": "AI Agent Laoshi",
         "khru": "AI Agent Khru",
         "coinIdentifier": "Coin Identifier"
       },
       "descriptions": {
-        "vchytel": "Learn Ukrainian, practice real conversations, and translate in real time with a live AI Ukrainian teacher. Features voice chat, camera-based context understanding, and instant translation support.",
         "lousi": "Learn Chinese Cantonese, practice real conversations, and translate in real time with a live AI Cantonese teacher. Features voice chat, camera-based context understanding, and instant translation support.",
         "laoshi": "Learn Chinese Mandarin, practice real conversations, and translate in real time with a live AI Mandarin teacher. Features voice chat, camera-based context understanding, and instant translation support.",
         "khru": "Learn Thai, practice real conversations, and translate in real time with a live AI Thai teacher. Features voice chat, camera-based context understanding, and instant translation support.",
@@ -78,7 +75,6 @@ const translations = {
         "aiMobileApps": "AI Mobile Apps",
         "chinese": "Learn Chinese",
         "cantonese": "Learn Cantonese",
-        "ukrainian": "Learn Ukrainian",
         "coin": "Coin Identifier"
       },
       "copyright": "All rights reserved.",
@@ -114,20 +110,17 @@ const translations = {
         "aiTutor": "Tuteur IA",
         "aiScanner": "Scanner IA",
         "featured": "En vedette",
-        "ukrainian": "Ukrainien",
         "cantonese": "Cantonais",
         "mandarin": "Mandarin",
         "thai": "Thaï"
       },
       "titles": {
-        "vchytel": "Agent IA Vchytel",
         "lousi": "Agent IA Lousi",
         "laoshi": "Agent IA Laoshi",
         "khru": "Agent IA Khru",
         "coinIdentifier": "Identificateur de Pièces"
       },
       "descriptions": {
-        "vchytel": "Apprenez l'ukrainien, pratiquez des conversations réelles et traduisez en temps réel avec un professeur d'ukrainien IA en direct. Fonctionnalités : chat vocal, compréhension de contexte basée sur la caméra et soutien de traduction instantanée.",
         "lousi": "Apprenez le cantonais, pratiquez des conversations réelles et traduisez en temps réel avec un professeur de cantonais IA en direct. Fonctionnalités : chat vocal, compréhension de contexte basée sur la caméra et soutien de traduction instantanée.",
         "laoshi": "Apprenez le mandarin, pratiquez des conversations réelles et traduisez en temps réel avec un professeur de mandarin IA en direct. Fonctionnalités : chat vocal, compréhension de contexte basée sur la caméra et soutien de traduction instantanée.",
         "khru": "Apprenez le thaï, pratiquez des conversations réelles et traduisez en temps réel avec un professeur de thaï IA en direct. Fonctionnalités : chat vocal, compréhension de contexte basée sur la caméra et soutien de traduction instantanée.",
@@ -164,7 +157,6 @@ const translations = {
         "aiMobileApps": "AI Mobile Apps",
         "chinese": "Apprendre le Chinois",
         "cantonese": "Apprendre le Cantonais",
-        "ukrainian": "Apprendre l'Ukrainien",
         "coin": "Identificateur de Pièces"
       },
       "copyright": "Tous droits réservés.",
@@ -200,20 +192,17 @@ const translations = {
         "aiTutor": "KI-Lehrer",
         "aiScanner": "KI-Scanner",
         "featured": "Empfohlen",
-        "ukrainian": "Ukrainisch",
         "cantonese": "Kantonisch",
         "mandarin": "Mandarin",
         "thai": "Thailändisch"
       },
       "titles": {
-        "vchytel": "KI-Agent Vchytel",
         "lousi": "KI-Agent Lousi",
         "laoshi": "KI-Agent Laoshi",
         "khru": "KI-Agent Khru",
         "coinIdentifier": "Münz-Identifier"
       },
       "descriptions": {
-        "vchytel": "Lernen Sie Ukrainisch, üben Sie echte Gespräche und übersetzen Sie in Echtzeit mit einem lebenden KI-Ukrainisch-Lehrer. Funktionen: Sprachchat, kamerabasiertes Kontextverständnis und Sofortübersetzungsunterstützung.",
         "lousi": "Lernen Sie Kantonesisch, üben Sie echte Gespräche und übersetzen Sie in Echtzeit mit einem lebenden KI-Kantonisch-Lehrer. Funktionen: Sprachchat, kamerabasiertes Kontextverständnis und Sofortübersetzungsunterstützung.",
         "laoshi": "Lernen Sie Mandarin, üben Sie echte Gespräche und übersetzen Sie in Echtzeit mit einem lebenden KI-Mandarin-Lehrer. Funktionen: Sprachchat, kamerabasiertes Kontextverständnis und Sofortübersetzungsunterstützung.",
         "khru": "Lernen Sie Thailändisch, üben Sie echte Gespräche und übersetzen Sie in Echtzeit mit einem lebenden KI-Thai-Lehrer. Funktionen: Sprachchat, kamerabasiertes Kontextverständnis und Sofortübersetzungsunterstützung.",
@@ -250,7 +239,6 @@ const translations = {
         "aiMobileApps": "AI Mobile Apps",
         "chinese": "Chinesisch lernen",
         "cantonese": "Kantonisch lernen",
-        "ukrainian": "Ukrainisch lernen",
         "coin": "Münz-Identifier"
       },
       "copyright": "Alle Rechte vorbehalten.",
@@ -286,20 +274,17 @@ const translations = {
         "aiTutor": "Tutor de IA",
         "aiScanner": "Escáner de IA",
         "featured": "Destacado",
-        "ukrainian": "Ucraniano",
         "cantonese": "Cantonés",
         "mandarin": "Mandarín",
         "thai": "Tailandés"
       },
       "titles": {
-        "vchytel": "Agente IA Vchytel",
         "lousi": "Agente IA Lousi",
         "laoshi": "Agente IA Laoshi",
         "khru": "Agente IA Khru",
         "coinIdentifier": "Identificador de Monedas"
       },
       "descriptions": {
-        "vchytel": "Aprende ucraniano, practica conversaciones reales y traduce en tiempo real con un profesor de ucraniano de IA en vivo. Características: chat de voz, comprensión de contexto basada en cámara y soporte de traducción instantánea.",
         "lousi": "Aprende cantonés, practica conversaciones reales y traduce en tiempo real con un profesor de cantonés de IA en vivo. Características: chat de voz, comprensión de contexto basada en cámara y soporte de traducción instantánea.",
         "laoshi": "Aprende mandarín, practica conversaciones reales y traduce en tiempo real con un profesor de mandarín de IA en vivo. Características: chat de voz, comprensión de contexto basada en cámara y soporte de traducción instantánea.",
         "khru": "Aprende tailandés, practica conversaciones reales y traduce en tiempo real con un profesor de tailandés de IA en vivo. Características: chat de voz, comprensión de contexto basada en cámara y soporte de traducción instantánea.",
@@ -336,7 +321,6 @@ const translations = {
         "aiMobileApps": "AI Mobile Apps",
         "chinese": "Aprender Chino",
         "cantonese": "Aprender Cantonés",
-        "ukrainian": "Aprender Ucraniano",
         "coin": "Identificador de Monedas"
       },
       "copyright": "Todos los derechos reservados.",
@@ -372,20 +356,17 @@ const translations = {
         "aiTutor": "Tutore IA",
         "aiScanner": "Scanner IA",
         "featured": "In evidenza",
-        "ukrainian": "Ucraino",
         "cantonese": "Cinese Cantonese",
         "mandarin": "Cinese Mandarino",
         "thai": "Thailandese"
       },
       "titles": {
-        "vchytel": "Agente IA Vchytel",
         "lousi": "Agente IA Lousi",
         "laoshi": "Agente IA Laoshi",
         "khru": "Agente IA Khru",
         "coinIdentifier": "Identificatore di Monete"
       },
       "descriptions": {
-        "vchytel": "Impara l'ucraino, esercitati con conversazioni reali e traduci in tempo reale con un insegnante di ucraino IA live. Funzionalità: chat vocale, comprensione del contesto basata sulla fotocamera e supporto per traduzioni istantanee.",
         "lousi": "Impara il cinese cantonese, esercitati con conversazioni reali e traduci in tempo reale con un insegnante di cantonese IA live. Funzionalità: chat vocale, comprensione del contesto basata sulla fotocamera e supporto per traduzioni istantanee.",
         "laoshi": "Impara il cinese mandarino, esercitati con conversazioni reali e traduci in tempo reale con un insegnante di mandarino IA live. Funzionalità: chat vocale, comprensione del contesto basata sulla fotocamera e supporto per traduzioni istantanee.",
         "khru": "Impara il thailandese, esercitati con conversazioni reali e traduci in tempo reale con un insegnante di thailandese IA live. Funzionalità: chat vocale, comprensione del contesto basata sulla fotocamera e supporto per traduzioni istantanee.",
@@ -422,7 +403,6 @@ const translations = {
         "aiMobileApps": "AI Mobile Apps",
         "chinese": "Impara il Cinese",
         "cantonese": "Impara il Cantonese",
-        "ukrainian": "Impara l'Ucraino",
         "coin": "Identificatore di Monete"
       },
       "copyright": "Tutti i diritti riservati.",
@@ -458,20 +438,17 @@ const translations = {
         "aiTutor": "Tutor de IA",
         "aiScanner": "Scanner de IA",
         "featured": "Destaque",
-        "ukrainian": "Ucraniano",
         "cantonese": "Cantonês",
         "mandarin": "Mandarim",
         "thai": "Tailandês"
       },
       "titles": {
-        "vchytel": "Agente IA Vchytel",
         "lousi": "Agente IA Lousi",
         "laoshi": "Agente IA Laoshi",
         "khru": "Agente IA Khru",
         "coinIdentifier": "Identificador de Moedas"
       },
       "descriptions": {
-        "vchytel": "Aprendam ucraniano, pratiquem conversas reais e traduzam em tempo real com um professor de ucraniano de IA ao vivo. Recursos: chat de voz, compreensão de contexto baseada em câmera e suporte de tradução instantânea.",
         "lousi": "Aprendam cantonês, pratiquem conversas reais e traduzam em tempo real com um professor de cantonês de IA ao vivo. Recursos: chat de voz, compreensão de contexto baseada em câmera e suporte de tradução instantânea.",
         "laoshi": "Aprendam mandarim, pratiquem conversas reais e traduzam em tempo real com um professor de mandarim de IA ao vivo. Recursos: chat de voz, compreensão de contexto baseada em câmera e suporte de tradução instantânea.",
         "khru": "Aprendam tailandês, pratiquem conversas reais e traduzam em tempo real com um professor de tailandês de IA ao vivo. Recursos: chat de voz, compreensão de contexto baseada em câmera e suporte de tradução instantânea.",
@@ -508,7 +485,6 @@ const translations = {
         "aiMobileApps": "AI Mobile Apps",
         "chinese": "Aprender Chinês",
         "cantonese": "Aprender Cantonês",
-        "ukrainian": "Aprender Ucraniano",
         "coin": "Identificador de Moedas"
       },
       "copyright": "Todos os direitos reservados.",
@@ -544,20 +520,17 @@ const translations = {
         "aiTutor": "AIチューター",
         "aiScanner": "AIスキャナー",
         "featured": "おすすめ",
-        "ukrainian": "ウクライナ語",
         "cantonese": "広東語",
         "mandarin": "中国語",
         "thai": "タイ語"
       },
       "titles": {
-        "vchytel": "AIエージェント Vchytel",
         "lousi": "AIエージェント Lousi",
         "laoshi": "AIエージェント Laoshi",
         "khru": "AIエージェント Khru",
         "coinIdentifier": "コイン識別"
       },
       "descriptions": {
-        "vchytel": "ライブAIウクライナ語教師とリアルタイムで会話を練習し、翻訳します。ボイスチャット、カメラベースのコンテキスト理解、即時翻訳サポートを搭載しています。",
         "lousi": "ライブAI広東語教師とリアルタイムで会話を練習し、翻訳します。ボイスチャット、カメラベースのコンテキスト理解、即時翻訳サポートを搭載しています。",
         "laoshi": "ライブAI中国語教師とリアルタイムで会話を練習し、翻訳します。ボイスチャット、カメラベースのコンテキスト理解、即時翻訳サポートを搭載しています。",
         "khru": "ライブAIタイ語教師とリアルタイムで会話を練習し、翻訳します。ボイスチャット、カメラベースのコンテキスト理解、即時翻訳サポートを搭載しています。",
@@ -594,7 +567,6 @@ const translations = {
         "aiMobileApps": "AI Mobile Apps",
         "chinese": "中国語を学ぶ",
         "cantonese": "広東語を学ぶ",
-        "ukrainian": "ウクライナ語を学ぶ",
         "coin": "コイン識別"
       },
       "copyright": "全著作権所有。",
@@ -630,20 +602,17 @@ const translations = {
         "aiTutor": "AI导师",
         "aiScanner": "AI扫描",
         "featured": "推荐",
-        "ukrainian": "乌克兰语",
         "cantonese": "粤语",
         "mandarin": "普通话",
         "thai": "泰语"
       },
       "titles": {
-        "vchytel": "AI代理 Vchytel",
         "lousi": "AI代理 Lousi",
         "laoshi": "AI代理 Laoshi",
         "khru": "AI代理 Khru",
         "coinIdentifier": "硬币识别"
       },
       "descriptions": {
-        "vchytel": "与实时AI乌克兰语老师学习乌克兰语，练习真实对话并实时翻译。功能包括语音聊天、基于相机的上下文理解和即时翻译支持。",
         "lousi": "与实时AI粤语老师学习粤语，练习真实对话并实时翻译。功能包括语音聊天、基于相机的上下文理解和即时翻译支持。",
         "laoshi": "与实时AI普通话老师学习普通话，练习真实对话并实时翻译。功能包括语音聊天、基于相机的上下文理解和即时翻译支持。",
         "khru": "与实时AI泰语老师学习泰语，练习真实对话并实时翻译。功能包括语音聊天、基于相机的上下文理解和即时翻译支持。",
@@ -680,7 +649,6 @@ const translations = {
         "aiMobileApps": "AI Mobile Apps",
         "chinese": "学习中文",
         "cantonese": "学习粤语",
-        "ukrainian": "学习乌克兰语",
         "coin": "硬币识别"
       },
       "copyright": "版权所有。",
@@ -716,20 +684,17 @@ const translations = {
         "aiTutor": "AI導師",
         "aiScanner": "AI掃描",
         "featured": "推薦",
-        "ukrainian": "烏克蘭語",
         "cantonese": "粵語",
         "mandarin": "國語",
         "thai": "泰語"
       },
       "titles": {
-        "vchytel": "AI代理 Vchytel",
         "lousi": "AI代理 Lousi",
         "laoshi": "AI代理 Laoshi",
         "khru": "AI代理 Khru",
         "coinIdentifier": "硬幣識別"
       },
       "descriptions": {
-        "vchytel": "與即時AI烏克蘭語老師學習烏克蘭語，練習真實對話並即時翻譯。功能包括語音聊天、基於相機的上下文理解和即時翻譯支援。",
         "lousi": "與即時AI粵語老師學習粵語，練習真實對話並即時翻譯。功能包括語音聊天、基於相機的上下文理解和即時翻譯支援。",
         "laoshi": "與即時AI國語老師學習國語，練習真實對話並即時翻譯。功能包括語音聊天、基於相機的上下文理解和即時翻譯支援。",
         "khru": "與即時AI泰語老師學習泰語，練習真實對話並即時翻譯。功能包括語音聊天、基於相機的上下文理解和即時翻譯支援。",
@@ -766,7 +731,6 @@ const translations = {
         "aiMobileApps": "AI Mobile Apps",
         "chinese": "學習中文",
         "cantonese": "學習粵語",
-        "ukrainian": "學習烏克蘭語",
         "coin": "硬幣識別"
       },
       "copyright": "版權所有。",

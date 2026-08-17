@@ -58,7 +58,7 @@ const translations = {
       "links": {
         "cantonese": "Learn Cantonese",
         "chinese": "Learn Chinese",
-        "ukrainian": "Learn Ukrainian"
+        "coin": "Coin Identifier",
       },
       "home": "Home",
     },
@@ -129,7 +129,7 @@ const translations = {
       "links": {
         "cantonese": "Apprendre le Cantonais",
         "chinese": "Apprendre le Chinois",
-        "ukrainian": "Apprendre l'Ukrainien"
+        "coin": "Coin Identifier",
       },
       "home": "Accueil",
     },
@@ -200,7 +200,7 @@ const translations = {
       "links": {
         "cantonese": "Kantonesisch lernen",
         "chinese": "Chinesisch lernen",
-        "ukrainian": "Ukrainisch lernen"
+        "coin": "Coin Identifier",
       },
       "home": "Startseite",
     },
@@ -271,7 +271,7 @@ const translations = {
       "links": {
         "cantonese": "Aprender Cantones",
         "chinese": "Aprender Chino",
-        "ukrainian": "Aprender Ucraniano"
+        "coin": "Coin Identifier",
       },
       "home": "Inicio",
     },
@@ -342,7 +342,7 @@ const translations = {
       "links": {
         "cantonese": "Impara il Cantonese",
         "chinese": "Impara il Cinese",
-        "ukrainian": "Impara l'Ucraino"
+        "coin": "Coin Identifier",
       },
       "home": "Home",
     },
@@ -413,7 +413,7 @@ const translations = {
       "links": {
         "cantonese": "Aprender Cantones",
         "chinese": "Aprender Chinês",
-        "ukrainian": "Aprender Ucraniano"
+        "coin": "Coin Identifier",
       },
       "home": "Início",
     },
@@ -484,7 +484,7 @@ const translations = {
        "links": {
          "cantonese": "कैंटोनीज़ सीखें",
          "chinese": "चीनीज़ सीखें",
-         "ukrainian": "यूक्रेनियन सीखें"
+        "coin": "Coin Identifier",
        },
        "home": "होम",
      },
@@ -555,7 +555,7 @@ const translations = {
        "links": {
          "cantonese": "広東語を学ぶ",
          "chinese": "中国語を学ぶ",
-         "ukrainian": "ウクライナ語を学ぶ"
+        "coin": "Coin Identifier",
        },
        "home": "ホーム",
      },
@@ -626,7 +626,7 @@ const translations = {
        "links": {
          "cantonese": "광둥어 배우기",
          "chinese": "중국어 배우기",
-         "ukrainian": "우크라이나어 배우기"
+        "coin": "Coin Identifier",
        },
        "home": "홈",
      },
@@ -697,7 +697,7 @@ const translations = {
        "links": {
          "cantonese": "Учить кантонский",
          "chinese": "Учить китайский",
-         "ukrainian": "Учить украинский"
+        "coin": "Coin Identifier",
        },
        "home": "Главная",
      },
@@ -768,7 +768,7 @@ const translations = {
        "links": {
          "cantonese": "Вчитись кантонською",
          "chinese": "Вчитись китайською",
-         "ukrainian": "Вчитись українською"
+        "coin": "Coin Identifier",
        },
        "home": "Головна",
      },
@@ -839,7 +839,7 @@ const translations = {
        "links": {
          "cantonese": "เรียนภาษากวางตุ้ง",
          "chinese": "เรียนภาษาจีน",
-         "ukrainian": "เรียนภาษาอุโกครินะ"
+        "coin": "Coin Identifier",
        },
        "home": "หน้าแรก",
      },
@@ -910,7 +910,7 @@ const translations = {
        "links": {
          "cantonese": "تعلم الكانتونيز",
          "chinese": "تعلم الصينية",
-         "ukrainian": "تعلم الأوكرانية"
+        "coin": "Coin Identifier",
        },
        "home": "الرئيسية",
      },
@@ -981,7 +981,7 @@ const translations = {
        "links": {
          "cantonese": "學習粵語",
          "chinese": "學習中文",
-         "ukrainian": "學習烏克蘭語"
+        "coin": "Coin Identifier",
        },
        "home": "首頁",
      },
@@ -1052,7 +1052,7 @@ const translations = {
        "links": {
          "cantonese": "Naucz się kantońskiego",
          "chinese": "Naucz się chińskiego",
-         "ukrainian": "Naucz się ukraińskiego"
+        "coin": "Coin Identifier",
        },
        "home": "Strona główna",
      },
@@ -1124,7 +1124,7 @@ const translations = {
        "links": {
          "cantonese": "学习粤语",
          "chinese": "学习中文",
-         "ukrainian": "学习乌克兰语"
+        "coin": "Coin Identifier",
        },
        "home": "首页",
      },
